@@ -655,28 +655,5 @@ else
 	</tr>
 </table>
 </div></div></div>
-<!--- Google Analytics -------------------------------->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-544112-16");
-pageTracker._setDomainName("battle.net");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
-<div style="display:none;">
-<iframe src="http://view.atdmt.com/NTB/iview/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="1" height="1">
-<script language="JavaScript" type="text/javascript">
-document.write('<a href="http://clk.atdmt.com/NTB/go/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" target="_blank"><img src="http://view.atdmt.com/NTB/view/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/"/></a>');
-</script>
-<noscript>
-<a href="http://clk.atdmt.com/NTB/go/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" target="_blank">
-<img border="0" src="http://view.atdmt.com/NTB/view/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" />
-</a>
-</noscript>
-</iframe>
-</div> 
 </body>
 </html>
