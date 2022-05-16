@@ -122,14 +122,7 @@ window.onload=resizeCaller
 			  </table>
 			</td>
 <!-- Center Column -->
-				<link rel="stylesheet" type="text/css" href="../includes/anylink.css" />
-<script type="text/javascript" src="../includes/anylink.js">
-/***********************************************
-* AnyLink CSS Menu script- © Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-</script>
+				
 			<tr>
 			<td width="547" valign="top" bgcolor="#333333" background="../images/content_bg.gif">
 			<a href="tourneycalendar.aspx"><img src="images/header.jpg" width="547" height="187" border="0"></a><br>

@@ -3,7 +3,6 @@
 <head> 
 	<title>Battle.net - Welcome to the Battle.net Web Site!</title> 
 			<script language="JavaScript" src="../includes-new/bnet-script.js"></script>
-			<script language="JavaScript" src="http://www.battle.net/includes/ads.js"></script>
 </head> 
 <script type="text/javascript">
 /***********************************************

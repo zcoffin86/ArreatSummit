@@ -1,21 +1,11 @@
 <html>
-
 <head>
 	<title>The Arreat Summit - Files</title>
 	<link rel="stylesheet" type="text/css" href="includes/d2-strat.css">
 	<script language="JavaScript" src="includes/d2.js"></script>
 </head>
-
 <body background="../images/battle/diablo2exp/images/bg2.jpg" bgcolor=black text="#AFAFAF" link="#928A70"
 	vlink="#706850" marginwidth=0 marginheight=0 topmargin=0 leftmargin=0>
-	<link rel="stylesheet" type="text/css" href="../includes/anylink.css" />
-	<script type="text/javascript" src="../includes/anylink.js">
-		/***********************************************
-		 * AnyLink CSS Menu script- � Dynamic Drive DHTML code library (www.dynamicdrive.com)
-		 * This notice MUST stay intact for legal use
-		 * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-		 ***********************************************/
-	</script>
 	</td>
 	</tr>
 	</table>
@@ -189,7 +179,6 @@
 																}
 															}
 															if (!version) version = detect.charAt(place + thestring.length);
-
 															function checkIt(string) {
 																place = detect.indexOf(string) + 1;
 																thestring = string;
@@ -333,5 +322,4 @@
 		</tr>
 	</table>
 </body>
-
 </html>
