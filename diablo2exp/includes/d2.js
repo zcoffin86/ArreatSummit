@@ -132,9 +132,10 @@ if (document.images) {
 	exit_ovr.src = getRoot() + "/diablo2exp/images/botmenu-close-ovr.gif";
 }
 function getRoot() {
-	// var loc = window.location.pathname;
-	// var dir = loc.substring(0, loc.lastIndexOf("classic.battle.net"));
-	// return `${dir}classic.battle.net`;
+	var loc = window.location.pathname;
+	return loc.substring(0, loc.lastIndexOf("/diablo2exp"));
+}
+function getBlizRoot() {
 	return "http://classic.battle.net"
 }
 function offImg(objName) {
@@ -152,20 +153,9 @@ function actImg(objName) {
 function pop(pageName) {
 	console.log("pop", { pageName });
 	popup = open(
-		getRoot() + "/diablo2exp/popup/" + pageName + ".html",
+		getBlizRoot() + "/diablo2exp/popup/" + pageName + ".html",
 		"popup",
 		"width=321,height=432,resizeable=no"
 	);
 	clean = 0;
 }
-// function spop(pageName) {
-// 	popup = open(
-// 		getRoot() + "/diablo2exp/slpopup/" + pageName + ".shtml",
-// 		"popup",
-// 		"width=650,height=120,resizeable=no"
-// 	);
-// 	clean = 0;
-// }
-// function closeWindow() {
-// 	parent.window.close();
-// }
