@@ -21,7 +21,6 @@
 </table>
 <div id = "ruststorm"><img src = "images/ruststorm3.gif" width = "120" height = "120"></div>
 <script language = "javascript">
-<!--
 //RUST STORM SCRIPT!!
 	var obj2;
 	var directionX = 0;
@@ -48,7 +47,7 @@ var mo;
 var z;
 var adseed;
 var storeURL;
-<!--
+
 // The Central Randomizer 1.3 (C) 1997 by Paul Houle (houle@msc.cornell.edu)
 // See:  http://www.msc.cornell.edu/~houle/javascript/randomizer.html
 rnd.today=new Date();
@@ -60,7 +59,8 @@ function rnd() {
 function rand(number) {
         return Math.ceil(rnd()*number);
 };
-// end central randomizer. -->	
+// end central randomizer.
+
 	//end random crap		
 	obj2 = document.getElementById('ruststorm');
 	obj2.style.top =  startY + "px";
@@ -174,7 +174,6 @@ function rand(number) {
 		//animationLoop();
 	}		
 	window.onresize = reloadWidthCheck;
-//-->
 </script>
 <table border=0 cellpadding=0 cellspacing=0 width=100%>
 <tr>

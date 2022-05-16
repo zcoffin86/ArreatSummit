@@ -2,32 +2,7 @@
 <html> 
 <head> 
 	<title>Battle.net - Welcome to the Battle.net Web Site!</title> 
-	<link rel="stylesheet" type="text/css" href="http://www.battle.net/includes-new/bnet-style.css" title="battle" id = "bnetstyle">
 </head> 
-	<link rel="stylesheet" type="text/css" href="../../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
-<script language="JavaScript">
-//Do not Modify Below this Line//
-//Javascript to Flash Browser Detection //
-function getFlashMovieObject(movieName)
-{
-	if (window.document[movieName]){return window.document[movieName];}
-	if (navigator.appName.indexOf("Microsoft Internet")==-1){if (document.embeds && document.embeds[movieName]);return document.embeds[movieName];}
-	else{return document.getElementById(movieName);}
-}
-///////////////////////////////////////////
-//Pass Variables into the flash movie named menu//
-function PassFlash(name)
-	{
-	var flashMovie=getFlashMovieObject("menu");
-    flashMovie.SetVariable("/:game", name);	
-	}
-	function macfix(condition)
-	{
-	var flashMovie=getFlashMovieObject("menu");
-    flashMovie.SetVariable("/:mac", condition);
-	}
-///////////////////////////////////////////////////
-</script>
 <script type="text/javascript">
 /***********************************************
 * IFrame SSI script II- � Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
@@ -88,7 +63,6 @@ else
 window.onload=resizeCaller
 </script>
 </head>
-<!-- body onLoad="ghettofirefoxfix()" -->
 <body bgcolor="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
 <!--<td width="50%" style="background-image: url('/images/botleft.jpg'); background-position: right; background-repeat: repeat-y;" valign="top">
 		<table cellspacing="0" cellpadding="0" border="0" width="100%" style="background:url(/images/top_bg.jpg) 0 0 repeat-x;" valign="top">
@@ -147,31 +121,6 @@ window.onload=resizeCaller
 				  </tr>
 			  </table>
 			</td>
-<!-- Ad -->
-			<td colspan="2" style="height:88px; width:732px; margin:0; padding:0;">
-				<table width="732" height="90" cellspacing="0" cellpadding="0" border="0">
-				<tr>
-				<td width="728" height="90" bgcolor="#030000"><div style="position:relative;"><div style="position:absolute; left:-1px; top:-47px;"><img src="../../images/adborderleft.gif" width="1" height="92"></div></div><div style="position:relative;"><div style="position:absolute; top:-47px; font-size:0px; line-height:0; margin:0; padding:0;">
-<div id="divad1"></div>
-<script type="text/javascript" src="http://us.battle.net/static/js/cserve.js"></script>
-<script type="text/javascript"> 
-	BnetMarketing.contentGen('divad1','en_US','728x90','Bnet-Classic');
-</script>
-</div></div></td>
-				<td width="4" height="90" background="../../images/adright.jpg"></td>
-				</tr>
-				</table>
-			</td>
-<!-- </tr> -->
-	<script language = "JavaScript" type="text/javascript">
-		function ghettofirefoxfix()
-		{
-			//-- b-net/diablo/starcraft/warcraft --//
-			//--True = Play Transition || False = No Transition--//
-			setTimeout("PassFlash('b-net'); PassTran('true');",1)
-		}
-		ghettofirefoxfix()
-	</script>
 <!-- Center Column -->
 			<tr>
 			<td width="547" valign="top" bgcolor="#333333" background="../../images/content_bg.gif">

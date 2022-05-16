@@ -1,7 +1,6 @@
 <html> 
 <head>
 <title>Battle.net - Welcome to the Battle.net Web Site!</title> 
-<link rel="stylesheet" type="text/css" href="../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
 <style type="text/css">
 .catbold {font-family:Verdana, Arial, Helvetica, sans-serif; font-weight:bold; font-size:9px;}
 </style>
