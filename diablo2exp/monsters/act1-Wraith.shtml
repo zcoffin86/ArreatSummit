@@ -14,7 +14,7 @@
 <!--- MAIN MENU ------------------------------------------------------------------------------->
 	<table border=0 cellpadding=0 cellspacing=0>
 	<tr>
-	<td><a href="http://us.blizzard.com/en-us/games/d2/" onMouseOut="offImg('logo')" onMouseOver="ovrImg('logo')" ><img src="../../images/battle/diablo2exp/images/d2-logo-off.gif" name="logo" alt="Diablo II: Lord of Destruction" border=0 width=116 height=82></a></td>
+	<td><a href="https://diablo2.blizzard.com/" onMouseOut="offImg('logo')" onMouseOver="ovrImg('logo')" ><img src="../../images/battle/diablo2exp/images/d2-logo-off.gif" name="logo" alt="Diablo II: Lord of Destruction" border=0 width=116 height=82></a></td>
 	</tr>
 	<tr>
 	<td><a href="http://classic.battle.net/diablo2exp/index.html" onMouseOut="offImg('news')" onMouseOver="ovrImg('news')" onClick="actImg('news')"><img src="../../images/battle/diablo2exp/images/menu/menu-news-off.gif" name="news" alt="News" border=0 width=116 height=37></a></td>
