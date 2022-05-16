@@ -1,0 +1,865 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> 
+<head> 
+	<title>Battle.net - Welcome to the Battle.net Web Site!</title> 
+	<link rel="stylesheet" type="text/css" href="http://www.battle.net/includes-new/bnet-style.css" title="battle" id = "bnetstyle">
+	<script language = "javascript">
+	<!--
+		adsBool = true;
+		override = false;
+	//-->
+	</script>
+</head> 
+	<link rel="stylesheet" type="text/css" href="../../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
+	<script language = "javascript">
+	<!--
+		adsBool = true;
+		override = false;
+	//-->
+	</script>
+<script language="JavaScript">
+//Do not Modify Below this Line//
+//Javascript to Flash Browser Detection //
+function getFlashMovieObject(movieName)
+{
+	if (window.document[movieName]){return window.document[movieName];}
+	if (navigator.appName.indexOf("Microsoft Internet")==-1){if (document.embeds && document.embeds[movieName]);return document.embeds[movieName];}
+	else{return document.getElementById(movieName);}
+}
+///////////////////////////////////////////
+//Pass Variables into the flash movie named menu//
+function PassFlash(name)
+	{
+	var flashMovie=getFlashMovieObject("menu");
+    flashMovie.SetVariable("/:game", name);	
+	}
+	function macfix(condition)
+	{
+	var flashMovie=getFlashMovieObject("menu");
+    flashMovie.SetVariable("/:mac", condition);
+	}
+///////////////////////////////////////////////////
+</script>
+<script type="text/javascript">
+/***********************************************
+* IFrame SSI script II- � Dynamic Drive DHTML code library (http://www.dynamicdrive.com)
+* Visit DynamicDrive.com for hundreds of original DHTML scripts
+* This notice must stay intact for legal use
+***********************************************/
+//Input the IDs of the IFRAMES you wish to dynamically resize to match its content height:
+//Separate each ID with a comma. Examples: ["myframe1", "myframe2"] or ["myframe"] or [] for none:
+var iframeids=["myframe", "sandlotframe"]
+//Should script hide iframe from browsers that don't support this script (non IE5+/NS6+ browsers. Recommended):
+var iframehide="yes"
+var getFFVersion=navigator.userAgent.substring(navigator.userAgent.indexOf("Firefox")).split("/")[1]
+var FFextraHeight=parseFloat(getFFVersion)>=0.1? 0 : 0 //extra height in px to add to iframe in FireFox 1.0+ browsers
+var pagerSize=0;
+function resizeCaller() {
+var dyniframe=new Array()
+for (i=0; i<iframeids.length; i++){
+if (document.getElementById)
+resizeIframe(iframeids[i])
+//reveal iframe for lower end browsers? (see var above):
+if ((document.all || document.getElementById) && iframehide=="no"){
+var tempobj=document.all? document.all[iframeids[i]] : document.getElementById(iframeids[i])
+tempobj.style.display="block"
+}
+}
+}
+function resizeIframe(frameid){
+var currentfr=document.getElementById(frameid)
+if (currentfr && !window.opera){
+currentfr.style.display="block"
+if (currentfr.contentDocument && currentfr.contentDocument.body.offsetHeight) //ns6 syntax
+currentfr.height = currentfr.contentDocument.body.offsetHeight+FFextraHeight-pagerSize; 
+else if (currentfr.Document && currentfr.Document.body.scrollHeight) //ie5+ syntax
+currentfr.height = currentfr.Document.body.scrollHeight-pagerSize;
+if (currentfr.addEventListener)
+currentfr.addEventListener("load", readjustIframe, false)
+else if (currentfr.attachEvent){
+currentfr.detachEvent("onload", readjustIframe) // Bug fix line
+currentfr.attachEvent("onload", readjustIframe)
+}
+}
+}
+function readjustIframe(loadevt) {
+var crossevt=(window.event)? event : loadevt
+var iframeroot=(crossevt.currentTarget)? crossevt.currentTarget : crossevt.srcElement
+if (iframeroot)
+resizeIframe(iframeroot.id);
+}
+function loadintoIframe(iframeid, url){
+if (document.getElementById)
+document.getElementById(iframeid).src=url
+}
+if (window.addEventListener)
+window.addEventListener("load", resizeCaller, false)
+else if (window.attachEvent)
+window.attachEvent("onload", resizeCaller)
+else
+window.onload=resizeCaller
+</script>
+</head>
+<!-- body onLoad="ghettofirefoxfix()" -->
+<body bgcolor="#000000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bottommargin="0" rightmargin="0">
+<!--<td width="50%" style="background-image: url('/images/botleft.jpg'); background-position: right; background-repeat: repeat-y;" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" style="background:url(/images/top_bg.jpg) 0 0 repeat-x;" valign="top">
+		<tr>
+		<td style = "background-image: url('/images/topleft.jpg'); background-position: top right; background-repeat: no-repeat;"><img src="/images/pixel.gif" width = "1" height = "655"></td>
+		</tr>
+		</table>
+	</td>
+-->
+<div class="bg-y">
+	<div class="bg-x">
+		<div class="bg-t">
+<table cellspacing="0" cellpadding="0" border="0" width="955" class="page">
+<tr>
+	<td valign="top" width="955">
+		<table cellspacing="0" cellpadding="0" border="0">
+		<tr>
+		<td width="955" align="center">
+			<table width="955" cellpadding="0" cellspacing="0" border="0" style="background-image:url(../../images/colbg.jpg); background-position:left;">
+			<tr>
+			<td colspan="3" width="955" height="26" background="../../images/topbar.gif"></td>
+			</tr>
+			<tr>
+<!-- Left Column -->
+			<td rowspan="2" valign="top" style="background-image:url(../../images/leftshadow.gif); background-position:right; background-repeat:repeat-y;">
+				<table width="223" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+				<td width="223" height="241"><script src="../../includes/embed_globe.js"></script></td>
+				</tr>
+				<tr>
+				<td width="223" height="298"><script src="../../includes/embed_menu.js"></script></td>
+				</tr>
+				</table>
+			    <table width="223" cellpadding="0" cellspacing="0" border="0">
+				  <tr>
+				  <td width="223" bgcolor="#000000">
+					  <table cellpadding="0" cellspacing="0" border="0" width="223">
+					  <tr>
+					  <td colspan="5" width="223" height="22" background="../../images/tournaments_title.jpg" onClick="document.location.href='/tournaments/index.shtml';" style="cursor:pointer;"></td>
+					  </tr>
+					  <tr>				
+					  <td colspan="5" width="223" height="10" background="../../images/tournaments_spacertop.jpg"></td>
+					  </tr>
+					  <tr>
+					  <td width="3" valign="top" style="background-image:url(../../images/t_left.gif); background-position:bottom; background-repeat:repeat-y;"><img src="../../images/t_lefttop.gif" width="3" height="47"></td>
+					  <td width="3" bgcolor="#5c6466"></td>
+					  <td width="208" style="background:url(../../images/loadingtournaments.gif) center no-repeat;">
+<iframe src="../../tourneycalendar/tourneycalendar-front.aspx" id="myframe" height="0" width="208" allowtransparency="true" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" style="overflow:hidden; width:100%;"></iframe></td>
+					  <td width="3" bgcolor="#5c6466"></td>
+					  <td width="6" valign="top" style="background-image:url(../../images/t_right.gif); background-position:top; background-repeat:repeat-y;"><img src="../../images/pixel.gif" width="6" height="47"></td>
+					  </tr>
+					  <tr><td colspan="5" width="223" height="28" background="../../images/tournaments_more.gif"><div style="width:223px; height:28px; position:relative;"><a href="../../tourneycalendar/tourneycalendar.aspx"><img src="../../images/pixel.gif" width="72" height="23" border="0" title="More Tournaments" style="position:absolute; left:39px; top:2px;"></a><a href="../../tourneycalendar/tourneysubmit.aspx"><img src="../../images/pixel.gif" width="77" height="23" border="0" title="Submit a Tournament" style="position:absolute; left:117; top:2;"></a></div></td></tr>
+					  <tr><td colspan="5" width="223" height="115"><script src="../../includes/embed_leftwire.js"></script></td></tr>
+					  </table>
+				</td>
+				  </tr>
+			  </table>
+			</td>
+<!-- Ad -->
+			<td colspan="2" style="height:88px; width:732px; margin:0; padding:0;">
+				<table width="732" height="90" cellspacing="0" cellpadding="0" border="0">
+				<tr>
+				<td width="728" height="90" bgcolor="#030000"><div style="position:relative;"><div style="position:absolute; left:-1px; top:-47px;"><img src="../../images/adborderleft.gif" width="1" height="92"></div></div><div style="position:relative;"><div style="position:absolute; top:-47px; font-size:0px; line-height:0; margin:0; padding:0;">
+<div id="divad1"></div>
+<script type="text/javascript" src="http://us.battle.net/static/js/cserve.js"></script>
+<script type="text/javascript"> 
+	BnetMarketing.contentGen('divad1','en_US','728x90','Bnet-Classic');
+</script>
+</div></div></td>
+				<td width="4" height="90" background="../../images/adright.jpg"></td>
+				</tr>
+				</table>
+			</td>
+<!-- </tr> -->
+	<script language = "JavaScript" type="text/javascript">
+		function ghettofirefoxfix()
+		{
+			//-- b-net/diablo/starcraft/warcraft --//
+			//--True = Play Transition || False = No Transition--//
+			setTimeout("PassFlash('b-net'); PassTran('true');",1)
+		}
+		ghettofirefoxfix()
+	</script>
+<!-- Center Column -->
+			<tr>
+			<td width="547" valign="top" bgcolor="#333333" background="../../images/content_bg.gif">
+			<img src="../../images/info_banner.jpg" width="547" height="187"><br>
+					<table width="547" cellspacing="0" cellpadding="0" border="0">
+					<tr>
+					<td background="../../images/pagetopdiv.jpg" width="547" height="21"></td>
+					</tr>
+					<tr>
+					<td background="../../images/content_bg.jpg" width="547" valign="top">
+					<div style="margin:10 20;"><span>
+<b>Accounts/Login</b>
+<br><BR>
+<B>How do I create an account and log in?</b><BR>
+Please read <a href="gettingstarted.shtml">getting started</a> for instructions.
+<P>
+<B>My password doesn't work!</b><BR>
+You must type your password EXACTLY how you entered it when you created your account. Passwords are case sensitive. It is also possible
+someone has "hi-jacked" your account if your password is too easy to guess. Make sure you
+<a href="http://us.blizzard.com/support/article.xml?articleId=21130">pick a good password</a>.
+<P>
+<B>Can you add an option to the forums to save my login/password so I don't have to log in each time?</b><BR>
+Security concerns prevent us from adding this option. The forums use your Battle.net-gaming-service account, which also does not have an 
+option to save passwords for security reasons. The current option is the most secure way of handling accounts and passwords.
+<BR><BR>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>CD Keys</b>
+<br><BR>
+<B>How do I get a Blizzard CD Key?</b><BR>
+Your Blizzard CD Key is located on the CD case of your Blizzard game such as  Warcraft III, StarCraft, Warcraft II Battle.net Edition, 
+Diablo II, Diablo II: Lord of Destruction, or Warcraft III. You must have one of these games to get
+a Blizzard CD Key.
+<P>
+<B>I don't have those above games can I get a Blizzard CD Key to post on the forums?</b><BR>
+Unfortunately not. You must purchase a game with a Blizzard CD Key.
+<P>
+<B>Are our Blizzard CD Keys safe?</b><BR>
+Yes! CD keys are transmitted using SSL. They are protected by the same people that protect your CD Keys on the Battle.net
+gaming service.
+<P>
+<B>Are our Blizzard CD Keys stored as cookies on our computers?</b><BR>
+No they are not stored on your computer. They are secure. 
+<P>
+<B>You said you would never ask for Blizzard CD Keys.</b><BR>
+Blizzard games ask for your CD Key when you install the game. The Battle.net forums ask for your CD Key to create an account
+and to allow access to additional forums. Individual Blizzard employees will never ask you for your CD Key. Do not enter your
+CD Key into any other web site that is not www.battle.net.
+<P>
+<B>Are you going to offer forums without CD Keys and Forum Accounts?</b><BR>
+Unfortunately not. We cannot properly regulate those types of forums from offensive content.
+<P>
+<B>Why must we enter our CD Keys on each computer that uses the Battle.net Forums?</b><BR>
+We require this for security reasons. We're sorry for any inconvenience this causes.
+<BR><BR>
+<B>It keeps asking for my CD Key after I've already entered it</b><BR>
+Make sure you have javascript and cookies enabled.  If you don't, it will cause this problem.
+<P>
+<B>How can I enter all my CD Keys to unlock the forums?</b><BR>
+The forum will ask you for a CD Key if you try to post in a forum without the required CD Key. You can visit
+each of the forums to get this prompt to enter your CD Key. We may in the future make this easier to do
+such as adding it to the account options as we did with the previous forums.
+<P>
+<B>How can I change or remove my CD Key?</b><BR>
+Delete your cookies.
+<P>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>Features</b>
+<br><BR>
+<B>How do I create a signature?</b><BR>
+Log in, Click on the "Options" button, and enter your signature there.
+<P>
+<B>My signature is invalid?</b><BR>
+Try using a signature that is shorter or does not include special characters that are not numbers or letters.
+<P>
+<B>How do I edit my posts?</b><BR>
+Simply log-in to the forums and you'll see a button on your post to edit a post next to the reply button if you're logged-in.
+<P>
+<B>How do I add HTML or BML to my posts or signatures?</b><BR>
+Read <a href="bml.shtml">BML page</a> for special forum commands.
+<P>
+<B>Do you plan to further upgrade the features of the Battle.net Forums?</b><BR>
+We would like to add additional features to the Battle.net Forums when we have the time.
+<P>
+<B>How do I search for my own posts?</b><BR>
+In order to search for your own posts, click on the magnifying lense icon
+near your account name (once you've logged on, or near your account name
+when viewing one of your own posts), the magnifying lense can be used to
+search for other people's posts as well.
+<P>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>Avatars</b>
+<br><BR>
+<B>What are Avatars?</b><BR>
+Avatars are special icons that appear next to posters names on their post. You can see a list of forum Avatars
+<a href="iconinfo.shtml">here</a>.
+<P>
+<B>How do I get an Avatar?</b><BR>
+To receive a Warcraft III Avatar, log into the Battle.net Forums with your Warcraft III account. 
+Go <a href="http://www.battle.net/war3/ladder/war3-ladder-info-laddericons.aspx">here</a> to see a list of 
+avatars/icons and to also see how you can earn a better Warcraft III avatar. 
+<P>
+<B>Do you have plans to support Avatars for other games such as StarCraft and Diablo II?</b><BR>
+Avatar support for Warcraft III was already built into our web site after we created our 
+<a href="http://www.battle.net/war3/ladder/">Warcraft III ladder web site</a>. It will take some additional
+work to support avatars for other games. We certainly would like to add avatars for other games but
+do not have any estimate on when we will add additional features such as this.
+<P>
+<B>Will you allow us to create our own Avatars?</b><BR>
+No. While this is popular on other forums we would prefer to use our own pre-made avatars. We do not have the
+resources available to approve user-made avatars. 
+<P>
+<B>Will you provide us with a list of Avatars we can select?</b><BR>
+It is certainly possible but we can't say for sure at this time.
+<P>
+<B>How do I become a MVP?</b><BR>
+To participate in Blizzard Entertainment's MVP program, one must be a positive influence to the forum 
+community in helping other users, as well as regularly active. If you meet this criteria, and the 
+support department views such actions on a regular basis, there is a possibility you may be asked to 
+participate in the program. Very few people are chosen for this honorary role, which may be revoked by 
+Blizzard at any time. Please do not contact us requesting to be a MVP. <U>MVPs are not Blizzard Employees 
+and do not represent Blizzard Entertainment</U>.
+<P>
+<B>Do MVPs have any Special Powers?</b><BR>
+They get a special button to report bad posters. They get a special Avatar that only they have. They get
+a special icon when creating new posts. They cannot delete posts, or ban users.
+<P>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>Forum Moderation, Post Deletion, Bannings</b>
+<br><BR>
+<B>I've found a post that violates the posting guidelines or is otherwise offensive. What can I do about this post?</B><BR>
+You can report them <a href="http://www.battle.net/forums/reportforumviolators.shtml">here</a>.
+<P>
+<B>Is there a posting limit?</b><BR>
+There is no posting limit but users who "spam" the forums by creating many new threads (more than 2 per page) or other types of 
+spam will be banned from the forums. It's ok to respond to different post threads if the responses are not excessive, repeated, or
+annoying.
+<P>
+<B>Who moderates the Battle.net Forums?</b><BR>
+There is no one person specifically tasked with moderating the forums, so many people within the company 
+take on the responsibilities associated with maintaining our community boards. Typically a members of our Technical Support team and our
+Web team does most of the moderation.
+<P>
+<B>Is Blizzard looking for fans to help moderate the Battle.net Forums?</b><BR>
+No. Sorry. You can help by <a href="../reportforumviolators.shtml">reporting posts</a> that violate the forum guidelines. 
+<P>
+<B>Who is responsible for deleting posts?</B><BR>
+Although anyone at Blizzard is capable of deleting posts, only a few generally exercise that control. 
+<P>
+<B>How do you decide what is deleted?</B><BR>
+The Posting Guidelines outline reasons why a post might be deleted. In addition to these reasons, posts that are off 
+topic (do not apply to the main forum topic) are sometimes deleted, especially when they do not apply to computer 
+games. Blizzard Entertainment reserves the right to delete any messages at its sole discretion without prior warning 
+or explanation. We also reserve the right to ban posters with severe or repeated violations.
+<P>
+<B>Why was my post deleted?</B><BR>
+Blizzard Entertainment reserves the right to delete any messages at its sole discretion without prior warning or 
+explanation. We do not typically explain deleted posts.
+<P>
+<B>Why do you enforce the posting guidelines, delete posts and ban posters?</B><BR>
+We are concerned about the content that is posted on our site. While we cannot prevent every "bad" post from showing 
+up, we do our best to create a good environment for our forum readers.
+<P>
+<B>Do you give warnings for forum rule violations?</B><BR>
+Typically we do not give warnings. If you are temporarily banned from the forums, consider that our main warning. 
+Other warnings may include a post being deleted, all posts being deleted from a forum. Note: just because
+a post is deleted doesn't mean it violated the forum rules.
+<P>
+<B>How can I find out what rules I have violated?</B><BR>
+Read: the <a href="../guidelines.shtml">Forum Guidelines</a>, <a href="../forummoderation.shtml">Forum Moderation</a>
+and this F.A.Q. for more information. Blizzard does not give individual explanations on why posts are removed, accounts are closed, or
+posters are banned.
+<P>
+<B>I seem to be banned from the Battle.net Forums. What can I do?</B><BR>
+Blizzard Entertainment reserves the right to delete any messages at its sole discretion. Users who violate these 
+posting guidelines may have their posts deleted and be banned from this site, without prior warning or explanation, 
+at the sole discretion of Blizzard Entertainment.  All bans are final, and we do not typically reverse these decisions. 
+<P>
+<B>I was temporarily banned from the Battle.net forums</B><BR>
+Please change your posting style. You will be allowed to post again once the ban has expired (varies). Further
+violations will result in a permanent ban.
+<P>
+<B>But I was banned for no reason!</B><BR>
+There is always a reason for posters being banned. Unfortunately, we do not have the resources to respond 
+to every inquiry by posters that are banned. We do not typically provide explanations to banned users or 
+un-ban such users on an individual basis. Posters are not banned by mistake.
+<P>
+<B>Will you close our gaming accounts if we are bad on the forums?</B><BR>
+We have had this ability since January 2002 but we have not yet used it. The most severe punishment for
+forum abuses so far is to be permanently banned from the forums. Posters can still read forum posts but
+they cannot create new forum posts. We <B>will</B> close Battle.net accounts if we see posters with offensive account 
+names. For more details read the <a href="http://www.battle.net/tou.shtml">Battle.net Terms of Use</a>. 
+<P>
+<B>Why do you lock threads?</B><BR>
+This is an extra option for Forum Moderators that is an alternative to deleting a post. 
+A forum thread is locked if: 
+<P>
+<UL>
+<LI>The thread doesn't need any further responses
+<LI>Blizzard is creating a sticky post that doesn't need responses or feedback<BR>
+<LI>Posters abuse the forums by continuing to bring up dead/annoying topics that have run their course and won't 
+go away.<BR>
+<LI>Posters have had their say and now the issue is closed.
+</UL>
+<P>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>Forum Problems</b>
+<br><BR>
+<B>Where can I report forum problems?</b><BR>
+If you are having a problem, make sure you include your operating system, browser, and browser version in your error report and
+send it <a href="mailto:blizzsite@blizzard.com?subject=Battle.net Forum Problem">here</a>. Note: you may not receive a response to your
+email but your report will help us out.
+<P>
+<B>What are known bugs?</b><BR>
+<UL>
+<LI>Error pages often shows when deleting a post. It still deletes the post though.
+<LI>Sometimes responses are dumped out as new topics rather than being added to the
+original topic (bug from previous forums too)
+</UL>
+<P>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+<b>Other</b>
+<br><BR>
+<B>Does Blizzard really read the Battle.net Forums?</b><BR>
+Yes! Many people within Blizzard regularly read the forums. Although you may not receive an individual response by a 
+Blizzard employee your post probably has been read. Usually, it's the forums dedicated to the most recently released game, titles 
+that are close to release and the General Forum that are browsed the most by the people in the company. Only a few employees have
+Blizzard Icons/Avatars and can make official Blizzard posts.
+<P>
+<B>Which Blizzard employee's might I see on the Battle.net Forums?</B><BR>
+Anyone at Blizzard can post to the forums. While our Web team and Technical Support staff make up the majority of Blizzard posts, 
+you may also see people on the development and Battle.net teams posting to the forums. Keep in mind that Blizzard 
+employees are working very hard at their jobs and do not usually have time to respond to individual posts on the forums. Our 
+development teams' main focus is to develop games that our customers will enjoy. While we understand you would like to see 
+more of them on the forums, we think you'll be much happier with the things they are able to accomplish during development. 
+Also, although you will undoubtedly see posts from our Technical Support personnel, it is important to remember that Live 
+Technical Support is not provided on the forums. You can check the <a href="http://www.battle.net/forums/board.aspx?ForumName=opensupport">Tech Support Forum</a> for answers to common questions. 
+<P>
+<B>Why don't you use other commonly used web boards that support more features?</B><BR>
+We created our own proprietary forum software to closely integrate with our website and web server software.  While we do want 
+to add some features to make the forums more robust, the software is performing quite well and we are quite happy with its 
+performance. We understand our forums do not offer some of the common features that other boards offer but we are still 
+happy with their basic functionality. 
+<BR><BR>
+</span>
+<center>
+- <a class="tiny" href="intro.shtml">RETURN TO INTRODUCTION TO THE FORUMS</a> -
+</center>
+</span></div><img src="../../images/content_div2.gif"><div style="margin:10 20;"><span>
+					<a href = "http://www.blizzard.com/privacy.shtml"><img src = "http://www.esrb.com/seals/vivendi/ectppsvivendi.gif" width = "117" height = "43" align = "right" border = "0"></a>
+<font face="arial,helvetica" size=1>
+					<small>
+					<a href="http://us.blizzard.com/en-us/company/about/privacy.html">Online Privacy Policy</a><br>
+					<a href="../../tou.shtml">Battle.net Terms of Use Agreement</a><br>
+					<a href="http://us.blizzard.com/en-us/company/about/legal-faq.html">&#169;2009 Blizzard Entertainment. All rights reserved.</a>
+					</small>
+					</font>
+						</span></div>
+					</td>
+					</tr>
+					<tr>
+					<td colspan="3">
+						<table width="547" cellpadding="0" cellspacing="0" border="0">
+						<tr>
+						<td background="../../images/archive_bottom.gif" width="547" height="25"><div style="position:relative;"><div style="position:absolute; z-index:100; left:-17; top:-6;"><img src="../../images/newswire_left2.gif" width="33" height="56"></div></div><div style="position:relative;"><div style="position:absolute; z-index:100; left:528; top:-6;"><img src="../../images/newswire_right2.gif" width="33" height="56"></div></div></td>
+						</tr>
+						</table>
+					</td>
+					</tr>
+					</table>
+				</td>
+<style type="text/css">
+select {
+background-color:#010012;
+color:#FFAC04;
+font-weight: bold;
+font-family:Arial, Helvetica, sans-serif; 
+font-size: 11px; 
+}	
+</style>
+<script language="javascript">
+function getexpirydate(nodays){
+	var UTCstring;
+	Today = new Date();
+	nomilli=Date.parse(Today);
+	Today.setTime(nomilli+nodays*24*60*60*1000);
+	UTCstring = Today.toUTCString();
+	return UTCstring;
+}
+function getcookie2(cookiename) {
+	 var cookiestring=""+document.cookie;
+	 var index1=cookiestring.indexOf(cookiename);
+	 if (index1==-1 || cookiename=="") return ""; 
+	 var index2=cookiestring.indexOf(';',index1);
+	 if (index2==-1) index2=cookiestring.length; 
+	 return unescape(cookiestring.substring(index1+cookiename.length+1,index2));
+}
+function setcookie(name,value){
+	cookiestring=name+"="+escape(value)+";EXPIRES="+ getexpirydate(365)+";PATH=/";
+	document.cookie=cookiestring;
+}
+var cookieArray = new Array;
+var tempString;
+var game;
+var gateway;
+if(!(tempString = getcookie2("mmmCookie"))){
+	setcookie('mmmCookie', 'w3xp Lordaeron solo');
+	game = 'w3xp';
+	gateway = 'Lordaeron';
+	gameType = 'solo';
+	cookieArray[0] = game;
+	cookieArray[1] = gateway;
+	cookieArray[2] = gameType;
+} else {
+	cookieArray = tempString.split(" ");
+	game = cookieArray[0];
+	gateway = cookieArray[1];
+	gameType = cookieArray[2];
+}
+function changeFrameUrl( theFrame, game2, gateway2, gameType2, whichOne) {
+	var num;
+	if (gameType2 == 'solo')
+		num = 0;
+	else if (gameType2 == 'team')
+		num = 1;
+	else if (gameType2 == '2vs2')
+		num = 2;	
+	else if (gameType2 == '3vs3')
+		num = 3;		
+	else if (gameType2 == '4vs4')
+		num = 4;
+	else if (gameType2 == 'ffa')
+		num = 5;
+	else if (gameType2 == 'solo-clan')
+		num = 6;
+	else if (gameType2 == '2vs2-clan')
+		num = 7;	
+	else if (gameType2 == '3vs3-clan')
+		num = 8;		
+	else if (gameType2 == '4vs4-clan')
+		num = 9;
+	if (game2 == 'war3'){
+		if (num > 5) {
+			num = 0;
+			gameType2 = 'solo';
+		}
+		document.getElementById('gameTypeFT').style.visibility = "hidden";
+		document.getElementById('gameTypeFT').style.display = "none";
+		document.getElementById('gameTypeRoC').style.visibility = "visible";
+		document.getElementById('gameTypeRoC').style.display = "block";	
+		document.getElementById('gameTypeRoC').selectedIndex = num;
+		document.getElementById('autoTourneyFrame').src = "http://www.battle.net/war3/ladder/blank.shtml";	
+		document.getElementById('autoTourneyFrameDiv').style.visibility = "hidden";
+		document.getElementById('autoTourneyFrameDiv').style.display = "none";		
+		if (gateway2 != 'Kalimdor') {
+			document.getElementById('autoRankingFrame').src = "http://www.battle.net/war3/ladder/2"+ game2 +"-ladder-"+ gameType2 +".aspx?Gateway="+ gateway2;				
+		} else {
+			document.getElementById('autoRankingFrame').src = "http://asialadders.battle.net/war3/ladder/2"+ game2 +"-ladder-"+ gameType2 +".aspx?Gateway=Kalimdor";
+		}				
+	} else {
+		document.getElementById('gameTypeFT').style.visibility = "visible";
+		document.getElementById('gameTypeFT').style.display = "block";	
+		document.getElementById('gameTypeRoC').style.visibility = "hidden";
+		document.getElementById('gameTypeRoC').style.display = "none";				
+		document.getElementById('gameTypeFT').selectedIndex = num;
+		document.getElementById('autoTourneyFrameDiv').style.visibility = "visible";
+		document.getElementById('autoTourneyFrameDiv').style.display = "block";				
+		if (gateway2 != 'Kalimdor') {
+			if (whichOne)
+				document.getElementById('autoTourneyFrame').src = "http://www.battle.net/war3/ladder/2w3xp-tournaments.aspx?Gateway=" + gateway2;
+			document.getElementById('autoRankingFrame').src = "http://www.battle.net/war3/ladder/2"+ game2 +"-ladder-"+ gameType2 +".aspx?Gateway="+ gateway2;				
+		} else {
+			if (whichOne)
+				document.getElementById('autoTourneyFrame').src = "http://asialadders.battle.net/war3/ladder/2w3xp-tournaments.aspx?Gateway=" + gateway2;
+			document.getElementById('autoRankingFrame').src = "http://asialadders.battle.net/war3/ladder/2"+ game2 +"-ladder-"+ gameType2 +".aspx?Gateway=Kalimdor";
+		}		
+	}
+	cookieArray[0] = game2;
+	cookieArray[1] = gateway2;
+	cookieArray[2] = gameType2;
+	setcookie('mmmCookie', game2 + " "+ gateway2 +" "+ gameType2);
+}
+function changeGame( theFrame, game, gateway, gameType) {
+	if (gateway != 'Kalimdor')
+		document.getElementById('autoRankingFrame').src = "http://www.battle.net/war3/ladder/"+ game +"-ladder-"+ gameType +"2.aspx?Gateway="+ gateway;
+	else 
+		document.getElementById('autoRankingFrame').src = "http://asialadders.battle.net/war3/ladder/"+ game +"-ladder-"+ gameType +"2.aspx?Gateway=Kalimdor";
+	setcookie('mmmCookie', game + " "+ gateway +" "+ gameType);
+}
+</script>			
+<!-- Right Column -->
+			<td	width="185" valign="top" style="background-image:url(../../images/rightshadow.gif); background-position:left; background-repeat:repeat-y;">
+				<table width="185" cellpadding="0" cellspacing="0" border="0">
+				<tr>
+					<td width="185">
+						<table cellpadding="0" cellspacing="0" border="0" onClick="document.location.href='/war3/ladder/game-select.aspx';" style="cursor:pointer;">
+						<tr>
+						<td width="132" height="67" colspan="2"><script src="../../includes/embed_blizzardlogo.js"></script></td>
+						<td width="53" height="102" rowspan="2"><script src="../../includes/embed_blizzardlogoright.js"></script></td>
+						</tr>	
+<!-- Begin Top Module -->
+						<tr>
+						<td width="124" height="35" background="../../images/rightcol_title_war3stats.jpg"></td>
+						<td width="8" height="35" background="../../images/blizzardlogobot.jpg"></td>
+						</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+				<td width="185" valign="top">
+					<table width="185" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+					<td colspan="2" width="185" background="../../images/rightcol_bg.jpg">
+						<table width="185" cellpadding="0" cellspacing="0">
+						<tr>
+						<td width="14" style="background-image: url('../../images/rightcol_left.jpg'); background-position: top; background-repeat: no-repeat;"></td>
+												<td width="160" style="background-image: url('../../images/rightcol_body2.jpg'); background-position: top; background-repeat: no-repeat;">
+<center>
+<small style="font-variant:small-caps; font-weight:bold; color:#FFFFFF;">Select Your Ladder</small>
+<br>
+<select style="width:120;" id = "gameSelector" onChange="changeFrameUrl('autoRankingFrame', this.value, cookieArray[1], cookieArray[2], 1);">
+<script language = javascript>
+	document.write('<option value = "war3"');
+	if (game == 'war3'){
+		document.write(' SELECTED>Reign of Chaos</option>');
+		document.write('<option value = "w3xp">Frozen Throne</option>');
+	} else {
+		document.write('>Reign of Chaos</option>');
+		document.write('<option value = "w3xp" SELECTED>Frozen Throne</option>');
+	}
+</script>
+</select><br><select style="width:120;" id = "realmSelector" onChange="changeFrameUrl('autoRankingFrame', cookieArray[0], this.value, cookieArray[2], 1);">
+<script language = javascript>
+var gatewayArray = new Array;
+gatewayArray[0] = 'Lordaeron';
+gatewayArray[1] = 'Azeroth';
+gatewayArray[2] = 'Kalimdor';
+gatewayArray[3] = 'Northrend';
+stopTraversing = 0;
+for (i = 0; i < gatewayArray.length; i++ ) {
+	if (stopTraversing == 0 && gateway == gatewayArray[i]) {
+		document.write('<option value = "'+ gatewayArray[i] +'" SELECTED>'+ gatewayArray[i] +'</option>');
+		stopTraversing = 1;
+	} else
+		document.write('<option value = "'+ gatewayArray[i] +'">'+ gatewayArray[i] +'</option>');
+}
+</script>
+</select>
+<script language = javascript>
+if (game == 'war3')
+	document.write("<select style='width:120;' id = 'gameTypeRoC' onChange='changeFrameUrl(\"autoRankingFrame\", cookieArray[0], cookieArray[1], this.value);'>");
+else
+	document.write("<select style='width:120; visibility:hidden; display:none;' id = 'gameTypeRoC' onChange='changeFrameUrl(\"autoRankingFrame\", cookieArray[0], cookieArray[1], this.value);'>");
+	document.write('<option value = "solo"');
+	if (gameType == 'solo')
+		document.write(' SELECTED');	
+	document.write('>Solo</option>');
+	document.write('<option value = "team"');
+	if (gameType == 'team')
+		document.write(' SELECTED');	
+	document.write('>Random Team</option>');
+	document.write('<option value = "2vs2"');
+	if (gameType == '2vs2')
+		document.write(' SELECTED');	
+	document.write('>2v2 Team</option>');
+	document.write('<option value = "3vs3"');
+	if (gameType == '3vs3')
+		document.write(' SELECTED');	
+	document.write('>3v3 Team</option>');
+	document.write('<option value = "4vs4"');
+	if (gameType == '4vs4')
+		document.write(' SELECTED');	
+	document.write('>4v4 Team</option>');
+	document.write('<option value = "ffa"');
+	if (gameType == 'ffa')
+		document.write(' SELECTED');		
+	document.write('>FFA</option>');
+</script>
+</select>
+<script language = javascript>
+if (game == 'war3')
+	document.write("<select style='width:120; visibility:hidden; display:none;' id = 'gameTypeFT' onChange='changeFrameUrl(\"autoRankingFrame\", cookieArray[0], cookieArray[1], this.value);'>");
+else
+	document.write("<select style='width:120;' id = 'gameTypeFT' onChange='changeFrameUrl(\"autoRankingFrame\", cookieArray[0], cookieArray[1], this.value);'>");
+	document.write('<option value = "solo"');
+	if (gameType == 'solo')
+		document.write(' SELECTED');	
+	document.write('>Solo</option>');
+	document.write('<option value = "team"');
+	if (gameType == 'team')
+		document.write(' SELECTED');	
+	document.write('>Random Team</option>');
+	document.write('<option value = "2vs2"');
+	if (gameType == '2vs2')
+		document.write(' SELECTED');	
+	document.write('>2v2 Team</option>');
+	document.write('<option value = "3vs3"');
+	if (gameType == '3vs3')
+		document.write(' SELECTED');	
+	document.write('>3v3 Team</option>');
+	document.write('<option value = "4vs4"');
+	if (gameType == '4vs4')
+		document.write(' SELECTED');	
+	document.write('>4v4 Team</option>');
+	document.write('<option value = "ffa"');
+	if (gameType == 'ffa')
+		document.write(' SELECTED');		
+	document.write('>FFA</option>');	
+	document.write('<option value = "solo-clan"');
+	if (gameType == 'solo-clan')
+		document.write(' SELECTED');		
+	document.write('>Clan - Solo</option>');	
+	document.write('<option value = "2vs2-clan"');
+	if (gameType == '2vs2-clan')
+		document.write(' SELECTED');		
+	document.write('>Clan - 2v2 Team</option>');
+	document.write('<option value = "3vs3-clan"');
+	if (gameType == '3vs3-clan')
+		document.write(' SELECTED');		
+	document.write('>Clan - 3v3 Team</option>');	
+	document.write('<option value = "4vs4-clan"');
+	if (gameType == '4vs4-clan')
+		document.write(' SELECTED');		
+	document.write('>Clan - 4v4 Team</option>');
+</script>
+	</select>
+</center>
+<!-- Top Players -->
+<div style="margin-top:10;"><small style="font-variant:small-caps; font-weight:bold; color:#FFFFFF;"><center>Top Ladder Players</center></small></div>
+<script language = Javascript>
+	if (gateway != 'Kalimdor')
+		document.write('<iframe id = "autoRankingFrame" allowtransparency = "true" src="http://www.battle.net/war3/ladder/2' + game +'-ladder-'+ gameType +'.aspx?Gateway='+ gateway +'" width="160" height="160" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" border = "0"></iframe>');	
+	else 
+		document.write('<iframe id = "autoRankingFrame" allowtransparency = "true" src="http://asialadders.battle.net/war3/ladder/2' + game +'-ladder-'+ gameType +'.aspx?Gateway=Kalimdor" width="160" height="160" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" border = "0"></iframe>');		
+</script>
+<!-- Profile Search -->
+<div style="margin-top:5; margin-bottom:10;"><center>
+<small style="font-variant:small-caps; font-weight:bold; color:#FFFFFF;">Profile Search</small>
+<table border = "0" cellpadding = "0" cellspacing = "0"><form action="javascript:goToURL()"><tr><td>
+<input Class="searchBox" name=PlayerSearch value="" size = "17" style = "color: #FFAC04; font-weight: bold; font-size: 11px; background-color: #010012; border: 1px solid #999999;"></td><td style = "padding-left: 3;"><input type = "image" src = "../../images/go.gif"></td></tr></form></table>
+</center>
+</div>
+<script language = javascript>
+function goToURL () {
+	var namePlayer = document.forms[0].elements[0].value;
+//	var location=("http://www.battle.net/war3/ladder/"+ cookieArray[0] +"-ladder-"+ cookieArray[2] +".aspx?Gateway="+ cookieArray[1] +"&PlayerSearch=" + namePlayer);
+	var location=("http://www.battle.net/war3/ladder/"+ cookieArray[0] +"-player-profile.aspx?Gateway="+ cookieArray[1] +"&PlayerName="+ namePlayer);
+	this.location.href = location;
+}
+</script>
+<!-- Upcoming Tournaments -->
+<div id ="autoTourneyFrameDiv">
+<small style="font-variant:small-caps; font-weight:bold; color:#FFFFFF;"><center>Upcoming Tournaments</center></small>
+<script language = "javascript">				
+if (gateway != "Kalimdor")
+	document.write('<iframe id = "autoTourneyFrame" allowtransparency = "true" src="http://www.battle.net/war3/ladder/2w3xp-tournaments.aspx?Gateway='+ gateway +'" width="160" height="110" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" border = "0"></iframe>');
+else 
+	document.write('<iframe id = "autoTourneyFrame" allowtransparency = "true" src="http://asialadders.battle.net/war3/ladder/2w3xp-tournaments.aspx?Gateway=Kalimdor" width="160" height="110" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" border = "0"></iframe>');
+</script>
+</div>
+</td>
+						<td width="11" style="background-image: url('../../images/rightcol_right.jpg'); background-position: top; background-repeat: no-repeat;"></td>
+						</tr>
+						</table>
+					</td>
+					</tr>
+					<tr>
+					<td colspan="2" width="185" height="8" background="../../images/rightcol_bottomladder.jpg"></td>
+					</tr>
+					</table>				
+				</td>			
+				</tr>
+<!-- End 3rd Module -->
+				<tr>
+				<td width="185" valign="top">
+					<table width="185" cellpadding="0" cellspacing="0" border="0">
+					<tr>
+					<td width="124" height="35"><script src="../../includes/embed_rightglow.js"></script></td>
+					<td width="61" height="35" background="../../images/rightcol_morebot.jpg" onClick="document.location.href='http://www.battle.net/war3/ladder/game-select.aspx';" style="cursor:pointer;"></td>
+					</tr>
+					</table>				
+				</td>			
+				</tr>
+<!-- End Bottom Module -->
+				<tr>
+				<td width="185" valign="top">
+					<table width="185" cellpadding="0" cellspacing="0" border="0">
+					<tr><td width="185" height="30" align="center" colspan="3"><script src="../../includes/embed_right.js"></script></td></tr>
+					<tr><td colspan="3" width="185" height="1"><img src="../../images/towertop2.gif" width="185" height="1"></td></tr>
+					<tr><td colspan="3" width="185" height="1"><img src="../../images/towertop3.gif" width="185" height="1"></td></tr>
+					<tr>
+					<td width="13" height="600" align="center" background="../../images/towerleft.gif"></td>
+					<td width="160" height="600" align="center" bgcolor="#000" style="font-size:0px; line-height:0; margin:0; padding:0; position:relative; top:-1px;">
+<div id="divad2"></div>
+<script type="text/javascript"> 
+	BnetMarketing.contentGen('divad2','en_US','160x600','Bnet-Classic');
+</script>
+					</td>
+					<td width="12" height="600" align="center" background="../../images/towerright.gif"></td>
+					</tr>
+					<tr><td colspan="3" width="185" height="1"><img src="../../images/towertop3.gif" width="185" height="1"></td></tr>
+					<tr><td colspan="3" width="185" height="1"><img src="../../images/towertop2.gif" width="185" height="1"></td></tr>
+					<tr><td colspan="3" width="185" height="15" background="../../images/towertext.gif"><center><small><a href="../../advertising/advertising-info.aspx">Advertise on Battle.net</a></small></center></td></tr>
+					<tr><td width="185" height="55" align="center" colspan="3"><script src="../../includes/embed_rightwire.js"></script></td></tr>
+					</table>				
+				</td>			
+				</tr>
+				</table>
+			</td>		
+			</tr>		
+			</table>
+		</td>
+		</tr>
+		</table>
+	</td>
+	<!--<td width = "50%" style = "background-image: url('/images/botright.jpg'); background-position: left; background-repeat: repeat-y;" valign="top">
+		<table cellspacing="0" cellpadding="0" border="0" width="100%" style="background-image: url('/images/top_bg.jpg'); background-position: top; background-repeat: repeat-x;" valign="top">
+		<tr>
+		<td style = "background-image: url('/images/topright.jpg'); background-position: top left; background-repeat: no-repeat;"><img src="/images/pixel.gif" width = "1" height = "655"></td>
+		</tr>
+		</table>
+	</td>-->
+</tr>
+</table>
+<table cellpadding="0" cellspacing="0" width="100%">
+	<tr>
+	<td width="50%" style="background-image: url('../../images/botleft.jpg'); background-position: right; background-repeat: repeat-y;" height="112">
+		<table cellpadding="0" cellspacing="0" border="0" style="background-image:url('../../images/bottomleft_bg.gif'); background-position:right; background-repeat:repeat-x;" width="100%" height="112">
+		<tr>
+		<td><img src="../../images/pixel.gif" border="0" width="1" height="211"></td>
+		</tr>
+		</table>	
+	</td>
+	<td width="955" height="211">
+		<table cellpadding="0" cellspacing="0" border="0" width="955">
+		<tr>
+		<td width="223" height="211" background="../../images/bottom_left2.jpg" rowspan="2"><img src="../../images/pixel.gif" border="0" width="1" height="211"></td>
+		<td width="547" height="161" nowrap><img src="../../images/bottom_left.jpg" border="0" width="166" height="161"><a href = "faq.shtml#" onClick = "javascript:document.getElementById('kerrigan').src = '/images/ker.gif'; return false;" onMouseOut = "javascript:document.getElementById('kerrigan').src = '/images/bottom_center.jpg'"><img src="../../images/bottom_center.jpg" id = "kerrigan" border="0" width="215" height="161" title="&quot;Help me Jim Raynor...you're my only hope!&quot;"></a><img src="../../images/bottom_right.jpg" border="0" width="166" height="161"></td>
+		<td width="185" height="211" background="../../images/bottom_right2.jpg" rowspan="2"><img src="../../images/pixel.gif" border="0" width="1" height="211"></td>
+		</tr>
+		<tr>
+		<td width="547" height="50" background="../../images/bottom_bottom.gif"><center><a href="http://www.blizzard.com"><img src="../../images/pixel.gif" border="0" width="80" height="50"></a></td>
+		</tr>
+		</table>
+	</td>
+	<td width="50%" style="background-image: url('../../images/botright.jpg'); background-position: left; background-repeat: repeat-y;" height="112">
+		<table cellpadding="0" cellspacing="0" border="0" style="background-image:url('../../images/bottomright_bg.gif'); background-position:left; background-repeat:repeat-x;" width="100%" height="112">
+		<tr>
+		<td><img src="../../images/pixel.gif" border="0" width="1" height="211"></td>
+		</tr>
+		</table>	
+	</td>
+	</tr>
+</table>
+</div></div></div>
+<!--- Google Analytics -------------------------------->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-544112-16");
+pageTracker._setDomainName("battle.net");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<div style="display:none;">
+<iframe src="http://view.atdmt.com/NTB/iview/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01?click=" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="1" height="1">
+<script language="JavaScript" type="text/javascript">
+document.write('<a href="http://clk.atdmt.com/NTB/go/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" target="_blank"><img src="http://view.atdmt.com/NTB/view/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/"/></a>');
+</script>
+<noscript>
+<a href="http://clk.atdmt.com/NTB/go/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" target="_blank">
+<img border="0" src="http://view.atdmt.com/NTB/view/48a2358b5be444d995caf135b19a1389/direct;wi.1;hi.1/01/" />
+</a>
+</noscript>
+</iframe>
+</div> 
+</body>
+</html>

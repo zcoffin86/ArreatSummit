@@ -1,0 +1,453 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html> 
+<head> 
+	<title>Battle.net - Strategy</title> 
+	<link rel="stylesheet" type="text/css" href="includes-new/bnet-style.css" title="battle" id = "bnetstyle">
+	<script language = "javascript">
+	<!--
+		adsBool = true;
+		override = false;
+	//-->
+	</script>
+</head> 
+<script language="JavaScript" src="includes-new/bnet-script.js"></script>
+<script language="JavaScript" src="http://www.battle.net/includes/ads.js"></script>
+<body bgcolor="#0C0C0C" marginheight=0 marginwidth=0 topmargin=0 leftmargin=0>
+<!-------Image Maps -------------------------------------------------------------------------------//-->
+<MAP NAME="vertad_top_Map">
+<AREA SHAPE="rect" ALT="Blizzard Entertainment" COORDS="52,10,129,26" HREF="http://www.blizzard.com">
+</MAP>
+<MAP NAME="blizzlogo_Map">
+<AREA SHAPE="rect" ALT="Blizzard Entertainment" COORDS="52,0,129,27" HREF="http://www.blizzard.com">
+</MAP>
+<script language="JavaScript" src="includes-new/detection.js"></script>	
+<script language="javascript">
+<!--
+	var nsBool = 	(is_nav 	&& !is_nav5up) || 
+					(is_ie 		&& !is_ie5up) ||
+					(is_opera 	&& !is_opera5up)
+	if (nsBool) {
+		window.location="/browsernotsupported.shtml";
+	}
+//-->
+</script>	
+<div id = "mask"></div>
+<!--
+<div id = "mask_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="/images-new/dukead.jpg" width=565 height=26 usemap = "#menubar_Map" border = "0"></td>
+	<td align = "right" width="182"><img src="/images-new/pixel.gif" width=182 height=26></td>
+</tr>
+</table>
+</div>
+//-->
+<div id = "mask_mask">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center">
+		<table cellspacing = "0" cellpadding = "0" border = "0" width = "565">
+		<tr>
+			<td><img src="images-new/pixel.gif" width=565 height=26 border = "0"></td>
+		</tr>
+		</table>
+	</td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "mask_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center">
+		<table cellspacing = "0" cellpadding = "0" border = "0" width = "565">
+		<tr>
+			<td><a HREF="index.html" onMouseOver = "javascript:showLayerOver('news');" onMouseOut = "javascript:hideLayerOver('news');"><img src="images-new/pixel.gif" width=120 height=26 border = "0"></a></td>
+			<td><a HREF="forums.shtml" onMouseOver = "javascript:showLayerOver('forums');" onMouseOut = "javascript:hideLayerOver('forums');"><img src="images-new/pixel.gif" width=110 height=26 border = "0"></a></td>			
+			<td><a HREF="ladder.shtml" onMouseOver = "javascript:showLayerOver('ladder');" onMouseOut = "javascript:hideLayerOver('ladder');"><img src="images-new/pixel.gif" width=110 height=26 border = "0"></a></td>
+			<td><a HREF="strategy.shtml" onMouseOver = "javascript:showLayerOver('strategy');" onMouseOut = "javascript:hideLayerOver('strategy');"><img src="images-new/pixel.gif" width=110 height=26 border = "0"></a></td>
+			<td><a HREF="files.shtml" onMouseOver = "javascript:showLayerOver('files');" onMouseOut = "javascript:hideLayerOver('files');"><img src="images-new/pixel.gif" width=110 height=26 border = "0"></a></td>
+			<td><a HREF="support.shtml" onMouseOver = "javascript:showLayerOver('help');" onMouseOut = "javascript:hideLayerOver('help');"><img src="images-new/pixel.gif" width=36 height=26 border = "0"></a></td>			
+		</tr>
+		</table>
+	</td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "news_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/news_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "forums_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/forums_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "ladder_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/ladder_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "strategy_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/strategy_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "files_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/files_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "help_over">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "100&#37;" align = "center"><img src="images-new/help_over.gif" width=596 height=26 border = "0"></td>
+	<script language="JavaScript" src="includes-new/adspace.js"></script>
+</tr>
+</table>
+</div>
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td width = "50%" background = "images-new/metal-left.gif"><div style = "z-index: 1000;"><a href="http://www.battle.net/"><img src="images-new/metal-bnetlogo2.gif" width=155 height=71 border = "0"></div></a></td>
+	<td width = "1" valign = "top">
+<div style = "position: relative;">
+<div style = "position: absolute;  visibility: visible; top: 1px; left: -272px; WIDTH: 507px">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "507">
+<tr>
+	<td colspan = "3"><img src="images-new/adborder-top3.gif" width=511 height=4></td>
+</tr>
+<tr>
+	<td><img src="images-new/adborder-left3.gif" width=22 height=60></td>
+	<td width = "468" bgcolor = "black"><!--<SCRIPT TYPE="text/javascript" LANGUAGE="JavaScript">
+// Cache-busting and pageid values
+var random = Math.round(Math.random() * 100000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 100000000);
+document.write('<SCR');
+document.write('IPT TYPE="text/javascript" LANGUAGE="JavaScript" SRC="http://cgm.adbureau.net/jserver/acc_random=' + random + '/SITE=WOW.BATTLE.NET/AREA=NETWORK/BLBNS4=468X60/pageid=' + pageNum + '">');
+document.write('</SCR');
+document.write('IPT>');
+</SCRIPT>-->
+<div id="divad1"></div>
+<script type="text/javascript" src="http://us.battle.net/static/js/cserve.js"></script>
+<script type="text/javascript"> 
+	BnetMarketing.contentGen('divad1','en_US','468x60','Bnet-Classic');
+</script></td>
+	<td><img src="images-new/adborder-right3.gif" width=21 height=60></td>
+</tr>
+<tr>
+	<td colspan = "3"><img src="images-new/adborder-bot3.gif" width=511 height=4></td>
+</tr>
+</table>
+</div>	
+</div>
+	</td>
+	<td width = "50%" background = "images-new/metal-right.gif" align = "right"><a href = "http://www.battle.net/war3/tournaments/"><img src="images-new/hotlinks/ladderseaontwo.gif" width=177 height=65 border = 0></a></td>
+</tr>
+</table>	
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td background = "images-new/menu-bg.gif">
+		<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+		<tr>
+			<td width = "100&#37;" align = "center"><img src="images-new/menubar.gif" width=596 height=26 usemap = "#menubar_Map" border = "0"></td>
+			<script language = "javascript">
+			<!--
+				if (adsBool == true) {
+					document.write("<td align = 'right' width='182'><img src='/images-new/vertad-top-large.gif' width=182 height=26 USEMAP = '#vertad_top_Map' border = '0'></td>");
+				}
+			//-->
+			</script>
+		</tr>
+		</table>
+	</td>
+</tr>
+</table>	
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+<tr>
+	<td>
+		<div id = "content">
+		<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+		<tr>
+			<td width = "100%" valign = "top">
+<div id = "news_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">News and updates from blizzard entertainment</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "forums_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Chat with players from around the globe with blizzard's web boards</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "ladder_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Ladder rankings, player profiles, and tournament information</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "strategy_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Gain a competitive edge with blizzard's in-depth online strategy guides</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>
+<div id = "files_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Access to patches, utilities, and a host of links and files</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>			
+<div id = "help_tooltip">
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+<tr>
+	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Help and support for the battle.net web site, game service, and associated products</b></td></tr></table></td>
+	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
+</tr>
+</table>
+</div>	
+<div id = "forumsmenu">
+</div>
+<div id = "laddermenu">
+</div>
+<div id = "strategymenu">
+</div>		
+<div style = "position: relative;">
+<div id = "worldsbar">
+<img src = "images-new/headers/bnet-strategy.gif" width = "387" height = "51">
+</div>				
+</div>
+				<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+				<tr>
+					<td><img src = "images-new/pixel.gif" width = "10" height = "9"></td>
+					<td><span><img src = "images-new/pixel.gif" width = "10" height = "20"><br></span>
+				<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+				<tr>
+					<td width = "9" background = "images-new/grey-top.gif"><img src = "images-new/greynews-top-left.gif" width = "16" height = "9"></td>
+					<td width = "100&#37;" background = "images-new/grey-top.gif"><img src = "images-new/pixel.gif" width = "9" height = "9"></td>
+					<td width = "9" background = "images-new/grey-top.gif"><img src = "images-new/grey-top-right.gif" width = "9" height = "9"></td>
+				</tr>
+				<tr>
+					<td background = "images-new/greynews-left.gif" colspan = "2">
+					<span></span>
+					<!--Content----------------------------------------------------------------------------//-->
+					<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;" class = "newsOutline">
+						<tr>
+							<td><img src = "images-new/headers/header-shadow.gif" width = "400" height = "44"><br>
+								<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+								<tr>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+									<td width = "80%" valign = "top">
+<BR>
+<table cellspacing = "0" cellpadding = "2" border = "0" width = "100%">
+<tr>
+	<td width = "47" valign = "top">
+<img src = "images-new/icons/war3.gif" width = "47" height = "30">
+<img src = "images-new/icons/war3x.gif" width = "47" height = "30">
+</td>
+	<td width = "100%">
+		<SPAN>
+		<a href="http://classic.battle.net/war3/">Mojo StormStout's Warcraft III Strategy Guide</a><br>
+		The consolidated source for official Warcraft III news, strategies, information, F.A.Q.s and more! 
+		<P>
+		</SPAN>	
+	</td>
+</tr>
+</table>
+									</td>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						</table>
+						<img src = "images-new/pixel.gif" width = "16" height = "12"><br>
+<!---DIV--->				
+	<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;" class = "newsOutline">
+						<tr>
+							<td>&nbsp;<br>
+								<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+								<tr>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+									<td width = "80%" valign = "top">
+<table cellspacing = "0" cellpadding = "2" border = "0" width = "100%">
+<tr>
+	<td width = "47" valign = "top"><img src = "images-new/icons/d2.gif" width = "47" height = "30"></td>
+	<td width = "100%">
+		<SPAN>
+		<a href="diablo2exp/index.html">The Arreat Summit</a><br>
+The consolidated source for official Diablo II: Lord of Destruction news, strategies, maps, updates and FAQs.
+		<P>
+		</SPAN>	
+	</td>
+</tr>
+</table>
+									</td>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						</table>
+						<img src = "images-new/pixel.gif" width = "16" height = "12"><br>
+<!----DIV----->
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;" class = "newsOutline">
+						<tr>
+							<td>&nbsp;<br>
+								<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+								<tr>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+									<td width = "80%" valign = "top">
+<table cellspacing = "0" cellpadding = "2" border = "0" width = "100%">
+<tr>
+	<td width = "47" valign = "top"><img src = "images-new/icons/war2bne.gif" width = "47" height = "30"></td>
+	<td width = "100%">
+		<SPAN>
+		<a href="http://classic.battle.net/war2/">The Dark Portal</a><BR>
+The consolidated source for official Warcraft II news, strategies, Maps Pictures, and more.
+		<P>
+		</SPAN>	
+	</td>
+</tr>
+</table>
+									</td>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						</table>
+						<img src = "images-new/pixel.gif" width = "16" height = "12"><br>
+<!----DIV----->
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;" class = "newsOutline">
+						<tr>
+							<td>&nbsp;<br>
+								<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+								<tr>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+									<td width = "80%" valign = "top">
+<table cellspacing = "0" cellpadding = "2" border = "0" width = "100%">
+<tr>
+	<td width = "47" valign = "top"><img src = "images-new/icons/sc.gif" width = "47" height = "30"></td>
+	<td width = "100%">
+		<SPAN>
+		<a href="http://classic.battle.net/scc/">StarCraft Compendium</a><br>
+The consolidated source for official StarCraft news, strategies, maps, updates and FAQs.
+		<P>
+<!-- AdSpace Site=website adsize=600x400 -->
+<p>
+<center>
+</center>		
+		</SPAN>	
+	</td>
+</tr>
+</table>
+									</td>
+									<td width = "10%"><img src = "images-new/pixel.gif" width = "10" height = "12"></td>
+								</tr>
+								</table>
+							</td>
+						</tr>
+						</table>
+<!------END MAIN------>
+						<span><img src = "images-new/pixel.gif" width = "30" height = "2">
+<div style="padding-left: 15px">						
+<center>
+<!-- AdSpace site=website section=ladders adsize=540x480 -->	
+</center>
+</div>
+</span>
+</td>
+					<td background = "images-new/grey-right.gif"><img src = "images-new/pixel.gif" width = "9" height = "9"></td>
+				</tr>
+				<tr>
+					<td width = "9" background = "images-new/grey-bot.gif"><img src = "images-new/greynews-bot-left.gif" width = "16" height = "9"></td>
+					<td width = "100&#37;" background = "images-new/grey-bot.gif"><img src = "images-new/pixel.gif" width = "9" height = "9"></td>
+					<td width = "9" background = "images-new/grey-bot.gif"><img src = "images-new/grey-bot-right.gif" width = "9" height = "9"></td>
+				</tr>
+				</table>																	
+					<span></span>
+					</td>
+					<td><img src = "images-new/pixel.gif" width = "10" height = "9"></td>
+				</tr>
+				</table>
+			</td>
+			<script language = "javascript">
+			<!--
+				if (adsBool == true) {
+					document.write("<td width = '182' valign = 'top' align = 'center'>");
+				}
+			//-->
+			</script>			
+<table cellspacing = '0' cellpadding = '0' border = '0' width = '182'><tr><td background = 'images-new/vertad-bg-large.gif' align = 'center'><img src = 'images-new/blizzlogo-large.gif' width = '182' height = '40' border = '0' USEMAP = '#blizzlogo_Map'><table cellspacing = '0' cellpadding = '0' border = '0'><tr><td>
+<table cellpadding = "0" cellspacing = "0" class = "blueOutline"><tr><td><!-- AdSpace site=website adsize=160x600 page=toppage--><!-- /AdSpace --></td></tr></table>
+</td></tr></table><small><a href = 'http://www.battle.net/advertising/'>Advertise on Battle.net</a><br><img src='images-new/pixel.gif' width=4 height=4><br><img src = 'images-new/vertad-bot.gif' width = '182' height = '8'></small></td></tr></table>
+				<br>
+				<a href="info.shtml"><img src="images-new/icons/hostingpartners.gif" border=0 width=137 height=37></a>	
+				<br><br>
+				<a href="privacy.shtml"><img src="http://www.esrb.com/seals/vivendi/ectppsvivendi.gif" border=0 width=116 height=43></a>				
+				<br>
+				<a href = "http://www.nvidia.com"><img src = "images/misc/logo-nvidia-pill.gif" border = "0" alt = "The way it's Meant to be Played"></a>
+				<br>
+				<a href = "http://www.esrb.org/esrbratings_guide.asp"><img src = "images-new/icons/esrb-tm2.gif" width = "68" height = "46" border = "0"></a>
+			<script language = "javascript">
+			<!--
+				if (adsBool == true) {
+					document.write("</td>");
+				}
+			//-->
+			</script>		
+		</tr>
+		</table>
+<p>
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
+	<td align="center">
+	<font face="arial,helvetica" size=1>
+				<small>
+					<a href="http://www.battle.net/privacy.shtml">Online Privacy Policy</a><br>
+					<a href="http://www.battle.net/tou.shtml">Battle.net Terms of Use Agreement</a><br>
+					<a href="http://www.battle.net/legalfaq.shtml">&#169;2016 Blizzard Entertainment. All rights reserved.</a>
+				</small>
+	</font>
+	</td>
+	<td width="72">
+	<img src = "images-new/pixel.gif" width="72" height="73" border = "0" alt = "">
+	</td>
+</table>
+<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
+	<tr>
+		<td align = "right" background = "images-new/bot-left.gif"><a href = "http://www.blizzard.com"><img src = "images-new/bot-bliz-left.gif" width = "48" height = "34" border = "0"></a></td>
+		<td background = "images-new/bot-right.gif"><a href = "http://www.blizzard.com"><img src = "images-new/bot-bliz-right.gif" width = "45" height = "34" border = "0"></a></td>
+	</tr>
+</table>
+		</div>
+</body>
+</html>
