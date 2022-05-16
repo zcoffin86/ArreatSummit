@@ -5,20 +5,8 @@
 	<link rel="stylesheet" type="text/css" href="../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
 			<script language="JavaScript" src="../includes-new/bnet-script.js"></script>
 			<script language="JavaScript" src="http://www.battle.net/includes/ads.js"></script>
-	<script language = "javascript">
-	<!--
-		adsBool = true;
-		override = false;
-	//-->
-	</script>
 </head> 
 	<link rel="stylesheet" type="text/css" href="../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
-	<script language = "javascript">
-	<!--
-		adsBool = true;
-		override = false;
-	//-->
-	</script>
 <script language="JavaScript">
 //Do not Modify Below this Line//
 //Javascript to Flash Browser Detection //

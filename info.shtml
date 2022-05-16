@@ -3,12 +3,6 @@
 <head> 
 	<title>Battle.net - Hosting Partners</title> 
 	<link rel="stylesheet" type="text/css" href="includes-new/bnet-style.css" title="battle" id = "bnetstyle">
-	<script language = "javascript">
-	<!--
-		adsBool = true;
-		override = false;
-	//-->
-	</script>
 </head> 
 <script language="JavaScript" src="includes-new/bnet-script.js"></script>
 <script language="JavaScript" src="http://www.battle.net/includes/ads.js"></script>
@@ -52,7 +46,6 @@
 		</tr>
 		</table>
 	</td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -71,7 +64,6 @@
 		</tr>
 		</table>
 	</td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -79,7 +71,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/news_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -87,7 +78,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/forums_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -95,7 +85,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/ladder_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -103,7 +92,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/strategy_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -111,7 +99,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/files_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -119,7 +106,6 @@
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 <tr>
 	<td width = "100&#37;" align = "center"><img src="images-new/help_over.gif" width=596 height=26 border = "0"></td>
-	<script language="JavaScript" src="includes-new/adspace.js"></script>
 </tr>
 </table>
 </div>
@@ -167,13 +153,6 @@ document.write('IPT>');
 		<table cellspacing = "0" cellpadding = "0" border = "0" width = "100&#37;">
 		<tr>
 			<td width = "100&#37;" align = "center"><img src="images-new/menubar.gif" width=596 height=26 usemap = "#menubar_Map" border = "0"></td>
-			<script language = "javascript">
-			<!--
-				if (adsBool == true) {
-					document.write("<td align = 'right' width='182'><img src='/images-new/vertad-top-large.gif' width=182 height=26 USEMAP = '#vertad_top_Map' border = '0'></td>");
-				}
-			//-->
-			</script>
 		</tr>
 		</table>
 	</td>
@@ -190,7 +169,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">News and updates from blizzard entertainment</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>
@@ -198,7 +176,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Chat with players from around the globe with blizzard's web boards</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>
@@ -206,7 +183,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Ladder rankings, player profiles, and tournament information</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>
@@ -214,7 +190,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Gain a competitive edge with blizzard's in-depth online strategy guides</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>
@@ -222,7 +197,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Access to patches, utilities, and a host of links and files</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>			
@@ -230,7 +204,6 @@ document.write('IPT>');
 <table cellspacing = "0" cellpadding = "0" border = "0" width = "100%">
 <tr>
 	<td width = "100%" background = "images-new/rect.gif"><table cellspacing = "0" cellpadding = "0" border = "0" width = "100%"><tr><td width = "1"><img src="images-new/pixel.gif" width=1 height=16></td><td align = "center" width = "100%"><b class = "menu">Help and support for the battle.net web site, game service, and associated products</b></td></tr></table></td>
-	<script language="JavaScript" src="includes-new/tooltipspace.js"></script>
 </tr>
 </table>
 </div>	
@@ -319,15 +292,7 @@ The following Internet service providers support Battle.net by hosting Battle.ne
 				</tr>
 				</table>
 			</td>
-			<script language = "javascript">
-			<!--
-				if (adsBool == true) {
-					document.write("<td width = '182' valign = 'top' align = 'center'>");
-				}
-			//-->
-			</script>			
 <table cellspacing = '0' cellpadding = '0' border = '0' width = '182'><tr><td background = 'images-new/vertad-bg-large.gif' align = 'center'><img src = 'images-new/blizzlogo-large.gif' width = '182' height = '40' border = '0' USEMAP = '#blizzlogo_Map'><table cellspacing = '0' cellpadding = '0' border = '0'><tr><td>
-<table cellpadding = "0" cellspacing = "0" class = "blueOutline"><tr><td><!-- AdSpace site=website adsize=160x600 page=toppage--><!-- /AdSpace --></td></tr></table>
 </td></tr></table><small><a href = 'http://www.battle.net/advertising/'>Advertise on Battle.net</a><br><img src='images-new/pixel.gif' width=4 height=4><br><img src = 'images-new/vertad-bot.gif' width = '182' height = '8'></small></td></tr></table>
 				<br>
 				<a href="info.shtml"><img src="images-new/icons/hostingpartners.gif" border=0 width=137 height=37></a>	
@@ -337,13 +302,6 @@ The following Internet service providers support Battle.net by hosting Battle.ne
 				<a href = "http://www.nvidia.com"><img src = "images/misc/logo-nvidia-pill.gif" border = "0" alt = "The way it's Meant to be Played"></a>
 				<br>
 				<a href = "http://www.esrb.org/esrbratings_guide.asp"><img src = "images-new/icons/esrb-tm2.gif" width = "68" height = "46" border = "0"></a>
-			<script language = "javascript">
-			<!--
-				if (adsBool == true) {
-					document.write("</td>");
-				}
-			//-->
-			</script>		
 		</tr>
 		</table>
 <p>

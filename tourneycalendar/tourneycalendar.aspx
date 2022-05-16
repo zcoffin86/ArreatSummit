@@ -4,12 +4,6 @@
 </head> 
 <body> 
 	<link rel="stylesheet" type="text/css" href="../includes-new/bnet-style.css" title="battle" id = "bnetstyle">
-	<script language = "javascript">
-	<!--
-		adsBool = true;
-		override = false;
-	//-->
-	</script>
 <script language="JavaScript">
 //Do not Modify Below this Line//
 //Javascript to Flash Browser Detection //
