@@ -135,9 +135,6 @@ function getRoot() {
 	var loc = window.location.pathname;
 	return loc.substring(0, loc.lastIndexOf("/diablo2exp"));
 }
-function getBlizRoot() {
-	return "http://classic.battle.net"
-}
 function offImg(objName) {
 	imgSrc = eval(objName + "_off.src");
 	document[objName].src = imgSrc;
@@ -153,7 +150,7 @@ function actImg(objName) {
 function pop(pageName) {
 	console.log("pop", { pageName });
 	popup = open(
-		getBlizRoot() + "/diablo2exp/popup/" + pageName + ".html",
+		getRoot() + "/diablo2exp/popup/" + pageName + ".html",
 		"popup",
 		"width=321,height=432,resizeable=no"
 	);
