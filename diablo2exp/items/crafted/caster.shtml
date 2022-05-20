@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -129,7 +129,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-crafted.gif" alt="Crafted Items" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-crafted.gif" alt="Crafted Items" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -152,131 +152,131 @@ You can use the Normal, Exceptional, or Elite versions of items.
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>Crafted Item</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Crafted Recipe</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Fixed Effects</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Crafted Item</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Crafted Recipe</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Fixed Effects</span></font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Caster Helm</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Caster Helm</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Mask/Death Mask/Demonhead Mask</B><BR>
 <B>Nef Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 (1-4)% Mana Stolen Per Hit<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Caster Boots</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Caster Boots</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Boots/Demonhide Boots/Wyrmhide Boots</B><BR>
 <B>Thul Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 Increase Maximum Mana (2-5)%<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Caster Gloves</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Caster Gloves</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Leather Gloves/Demonhide Gloves/Bramble Mitts</B><BR>
 <B>Ort Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 + (1-3) Mana Per Kill<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Caster Belt</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Caster Belt</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Light Belt/Sharkskin Belt/Vampirefang Belt</B><BR>
 <B>Ith Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 5-10% Faster Cast Rate<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Caster Shield</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Caster Shield</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Small Shield/Round Shield/Luna</B><BR>
 <B>Eth Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 + (5-10)% Increased Chance Of Blocking<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Caster Body</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Caster Body</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Light Plate/Mage Plate/Archon Plate</B><BR>
 <B>Tal Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 + (1-3) Mana Per Kill<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Caster Amulet</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Caster Amulet</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Amulet</B><BR>
 <B>Ral Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 (5-10)% Faster Cast Rate<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Caster Ring</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Caster Ring</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Ring</B><BR>
 <B>Amn Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 + (1-5) To Energy<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Caster Weapon</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Caster Weapon</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Normal/Exceptional/Elite Rod</B>**<BR>
 <B>Tir Rune</B><BR>
 Perfect Amethyst<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 Increase Maximum Mana (1-5)%<BR>
 Regenerate Mana (4-10)%<BR>
 + (10-20) To Mana

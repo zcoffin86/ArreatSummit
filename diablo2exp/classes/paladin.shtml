@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="paladinhistory.shtml">Paladin History</a> |
 <a class="tiny" href="paladinstrat.shtml">Paladin Strategy</a> |
@@ -107,7 +107,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/classes-paladin.gif" alt="Paladin" border=0 width=175 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/classes-paladin.gif" alt="Paladin" border=0 width=175 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -140,7 +140,7 @@ goodness of the Light.
 <tr>
 <td>
 <font face="arial,helvetica" size=-1><span><b>Starting Attributes</b></font><p>
-<table border=0 align=center>
+<table border=0 style="text-align:center;">
 <tr>
 <td align=left><font face="arial,helvetica" size=-1><span>Strength: </span></font></td>
 <td align=right><font face="arial,helvetica" size=-1><span> 25</span></font></td>
@@ -176,7 +176,7 @@ goodness of the Light.
 </td>
 <td valign=top>
 <font face="arial,helvetica" size=-1><span><b>Each Character Level</b></font><p>
-<table border=0 align=center>
+<table border=0 style="text-align:center;">
 <tr>
 <td align=left><font face="arial,helvetica" size=-1><span>Life</span></font></td>
 <td align=right><font face="arial,helvetica" size=-1><span>+2</span></font></td>
@@ -195,7 +195,7 @@ goodness of the Light.
 <tr>
 <td valign=top colspan=2>
 <font face="arial,helvetica" size=-1><span><b>Attribute Point Effect</b></font><p>
-<table border=0 align=center>
+<table border=0 style="text-align:center;">
 <tr>
 <td align=left><font face="arial,helvetica" size=-1><span>1 Vitality point gives 3 Life</span></font></td>
 </tr>

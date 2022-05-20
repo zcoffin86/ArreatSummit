@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -208,7 +208,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -225,7 +225,7 @@
 <P>
 <Table border=0 cellpadding=5 width=100%>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/greyform.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Greyform</b></font></center>
@@ -249,7 +249,7 @@ Durability: 20<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/blinkbatsform.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Blinkbat's Form</b></font></center>
@@ -272,7 +272,7 @@ Durability: 24<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/thecenturion.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>The Centurion</b></font></center>
@@ -298,7 +298,7 @@ Durability: 28<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="twitchthroe"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/twitchthroe.gif" width=62 height="91">
@@ -323,7 +323,7 @@ Durability: 32<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/darkglow.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Darkglow</b></font></center>
@@ -350,7 +350,7 @@ Durability: 26<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/hawkmail.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Hawkmail</b></font></center>
@@ -373,7 +373,7 @@ Durability: 36<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/venomsward.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Venom Ward</b></font></center>
@@ -396,7 +396,7 @@ Durability: 50<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/sparklingmail.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Sparking Mail</b></font></center>
@@ -418,7 +418,7 @@ Durability: 45<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/iceblink.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Iceblink</b></font></center>
@@ -441,7 +441,7 @@ Durability: 30<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="heavenlygarb"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/heavenlygarb.gif" width=62 height="91">
@@ -466,7 +466,7 @@ Durability: 60<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/rockfleece.gif" width=62 height="118">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Rockfleece</b></font></center>
@@ -489,7 +489,7 @@ Durability: 48<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/boneflesh.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Boneflesh</b></font></center>
@@ -511,7 +511,7 @@ Durability: 60<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/rattlecage.gif" width=62 height="91">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Rattlecage</b></font></center>
@@ -533,7 +533,7 @@ Durability: 55<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="goldskin"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/goldskin.gif" width=62 height="91">
@@ -557,7 +557,7 @@ Durability: 70<br>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="victorssilk"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/victorssilk.gif" width=62 height="91">

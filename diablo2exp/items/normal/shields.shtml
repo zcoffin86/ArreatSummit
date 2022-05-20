@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -159,7 +159,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -215,116 +215,116 @@ Yes, different classes may see different numbers.
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/buckler.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/buckler.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Buckler</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4-6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Pal: 30%<BR> Ama/Asn/Bar: 25%<BR> Dru/Nec/Sor: 20%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1 to 3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4-6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Pal: 30%<BR> Ama/Asn/Bar: 25%<BR> Dru/Nec/Sor: 20%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1 to 3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/smallshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/smallshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Small Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>8-10</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[5]<BR>Pal: 35%<BR> Ama/Asn/Bar: 30%<BR> Dru/Nec/Sor: 25%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>16</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>8-10</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[5]<BR>Pal: 35%<BR> Ama/Asn/Bar: 30%<BR> Dru/Nec/Sor: 25%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>16</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/largeshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/largeshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Large Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12-14</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>34</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[12]<BR>Pal: 42%<BR> Ama/Asn/Bar: 37%<BR> Dru/Nec/Sor: 32%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>24</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>11</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12-14</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>34</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[12]<BR>Pal: 42%<BR> Ama/Asn/Bar: 37%<BR> Dru/Nec/Sor: 32%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>24</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>11</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/kiteshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/kiteshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Kite Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>16-18</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>47</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[8]<BR>Pal: 38%<BR> Ama/Asn/Bar: 33%<BR> Dru/Nec/Sor: 28%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>16-18</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>47</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[8]<BR>Pal: 38%<BR> Ama/Asn/Bar: 33%<BR> Dru/Nec/Sor: 28%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/spikedshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/spikedshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Spiked Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15-25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Pal: 40%<BR> Ama/Asn/Bar: 35%<BR> Dru/Nec/Sor: 30%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5 to 9</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>11</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15-25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Pal: 40%<BR> Ama/Asn/Bar: 35%<BR> Dru/Nec/Sor: 30%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5 to 9</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>11</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/towershield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/towershield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Tower Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22-25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>75</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[24]<BR>Pal: 54%<BR> Ama/Asn/Bar: 49%<BR> Dru/Nec/Sor: 44%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1 to 5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Heavy</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22-25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>75</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[24]<BR>Pal: 54%<BR> Ama/Asn/Bar: 49%<BR> Dru/Nec/Sor: 44%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1 to 5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Heavy</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/boneshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/boneshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Bone Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>10-30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[20]<BR>Pal: 50%<BR> Ama/Asn/Bar: 45%<BR> Dru/Nec/Sor: 40%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3 to 6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>19</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>10-30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[20]<BR>Pal: 50%<BR> Ama/Asn/Bar: 45%<BR> Dru/Nec/Sor: 40%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3 to 6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>19</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/gothicshield.gif" width=62 height="118">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/gothicshield.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Gothic Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30-35</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[16]<BR>Pal: 46%<BR> Ama/Asn/Bar: 41%<BR> Dru/Nec/Sor: 36%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30-35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[16]<BR>Pal: 46%<BR> Ama/Asn/Bar: 41%<BR> Dru/Nec/Sor: 36%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</SPAN></font></td>
 </TR>
 </table>
 </CENTER>

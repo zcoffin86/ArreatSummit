@@ -68,7 +68,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -155,7 +155,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -186,69 +186,69 @@ can have 1-3 bonuses of +1-3 to specific Barbarian skills and can only be worn b
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/jawbonecap.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Carnage Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>102-147</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>106</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>102-147</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>106</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/fangedhelm.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Fury Visor</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>105-150</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>49</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>129</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>35</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>66</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>105-150</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>49</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>129</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>66</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/hornedhelm.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Destroyer Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>111-156</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>54</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>151</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>73</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>111-156</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>54</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>151</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>73</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/assualthelm.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Conqueror Crown</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>114-159</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>174</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>80</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>114-159</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>174</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/avengerguard.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Guardian Crown</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>117-168</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>65</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>196</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>85</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>117-168</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>65</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>196</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>85</font></td>
 </TR>
 </table>
 </CENTER>

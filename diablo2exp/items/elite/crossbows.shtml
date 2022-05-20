@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -158,7 +158,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -203,60 +203,60 @@ Crossbow speeds are listed by Class:  Ama = Amazon, Asn = Assassin, B = Barbaria
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/lightcrossbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <center><font face="arial,helvetica" size=-1><b><SPAN>Pellet Bow</b></font></center>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>28 to 73 (50.5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>42</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>83</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>155</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, Asn, B, D, N, P, S - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>57</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>28 to 73 (50.5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>42</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>83</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>155</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, Asn, B, D, N, P, S - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>57</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/crossbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <center><font face="arial,helvetica" size=-1><SPAN><b>Gorgon Crossbow</b></font></center>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25 to 87 (56 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>117</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>105</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>D, N, S - Normal<BR> Ama, Asn, B, P - Slow</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>67</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25 to 87 (56 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>117</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>105</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>D, N, S - Normal<BR> Ama, Asn, B, P - Slow</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>67</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/heavycrossbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <center><font face="arial,helvetica" size=-1><SPAN><b>Colossus Crossbow</b></font></center>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>32 to 91 (61.5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>56</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>163</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>77</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>B, D, N, P, S - Slow<BR> Ama, Asn - Very Slow</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>75</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>32 to 91 (61.5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>56</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>163</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>77</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>B, D, N, P, S - Slow<BR> Ama, Asn - Very Slow</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>75</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/repeatingcrossbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <center><font face="arial,helvetica" size=-1><SPAN><b>Demon Crossbow</b></font></center>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>26 to 40 (33 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>63</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>141</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>98</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[-60]<BR>Ama, Asn, B, D, N, P, S - Very Fast<BR></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>84</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>26 to 40 (33 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>63</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>141</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>98</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[-60]<BR>Ama, Asn, B, D, N, P, S - Very Fast<BR></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>84</font></td>
 </TR>
 </table>
 </CENTER>

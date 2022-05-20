@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Monster Basics</a> |
 <a class="tiny" href="bonus.shtml">Monster Bonuses</a> |
@@ -113,7 +113,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-act1unique.gif" alt="Act I Super Unique Monsters" border=0 width=391 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-act1unique.gif" alt="Act I Super Unique Monsters" border=0 width=391 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -127,7 +127,7 @@
 <!--- MAIN CONTENT --------------------------------------------------------------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/corpsefire01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/corpsefire01.gif" border=0 width=200 height=150>
 </a>
@@ -143,7 +143,7 @@ Found in: The Den of Evil
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 65 KB ]
@@ -155,7 +155,7 @@ Found in: The Den of Evil
 <p>
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/bishibosh01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/bishibosh01.gif" border=0 width=200 height=150>
 </a>
@@ -171,7 +171,7 @@ Found in: The Cold Plains
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 94 KB ]
@@ -184,7 +184,7 @@ Found in: The Cold Plains
 <!--------------BONEBREAKER----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/bonebreak01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/bonebreak01.gif" border=0 width=200 height=150>
 </a>
@@ -200,7 +200,7 @@ Found in: The Crypt
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 74 KB ]
@@ -213,7 +213,7 @@ Found in: The Crypt
 <!--------------BLOOD RAVEN----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/bloodraven01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/bloodraven01.gif" border=0 width=200 height=150>
 </a>
@@ -229,7 +229,7 @@ Found in: The Burial Grounds
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 104 KB ]
@@ -242,7 +242,7 @@ Found in: The Burial Grounds
 <!--------------COLD CROW----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/coldcrow01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/coldcrow01.gif" border=0 width=200 height=150>
 </a>
@@ -258,7 +258,7 @@ Found in: Act I, The Cave
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 52 KB ]
@@ -271,7 +271,7 @@ Found in: Act I, The Cave
 <!-------------RAKANISHU----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/rakanishu01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/rakanishu01.gif" border=0 width=200 height=150>
 </a>
@@ -287,7 +287,7 @@ Found in: Act I, The Stony Field
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 68 KB ]
@@ -300,7 +300,7 @@ Found in: Act I, The Stony Field
 <!-------------TREEHEAD WOODFIST----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/treeheadwoodfist01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/treeheadwoodfist01.gif" border=0 width=200 height=150>
 </a>
@@ -316,7 +316,7 @@ Found in: Dark Wood
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 83 KB ]
@@ -329,7 +329,7 @@ Found in: Dark Wood
 <!-------------GRISWOLD----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/griswold01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/griswold01.gif" border=0 width=200 height=150>
 </a>
@@ -356,7 +356,7 @@ Found in: Tristram
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 96 KB ]
@@ -369,7 +369,7 @@ Found in: Tristram
 <!-------------COUNTESS----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/countess01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/countess01.gif" border=0 width=200 height=150>
 </a>
@@ -385,7 +385,7 @@ Found in: Forgotten Tower
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 71 KB ]
@@ -398,7 +398,7 @@ Found in: Forgotten Tower
 <!-------------PITSPAWN----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/pitspawn01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/pitspawn01.gif" border=0 width=200 height=150>
 </a>
@@ -414,7 +414,7 @@ Found in: Jail Level 2
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 61 KB ]
@@ -427,7 +427,7 @@ Found in: Jail Level 2
 <!-------------BONEASH----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/boneash01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/boneash01.gif" border=0 width=200 height=150>
 </a>
@@ -443,7 +443,7 @@ Found in: The Cathedral
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 74 KB ]
@@ -456,7 +456,7 @@ Found in: The Cathedral
 <!-------------THE SMITH----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/thesmith01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/thesmith01.gif" border=0 width=200 height=150>
 </a>
@@ -483,7 +483,7 @@ Found in: Barracks
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 52 KB ]
@@ -496,7 +496,7 @@ Found in: Barracks
 <!-------------ANDARIEL----------------------->
 <table border=0 cellpadding=1 cellspacing=0>
 <tr>
-<td valign=top align=center width=200>
+<td valign=top style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/superuniques/andariel01.jpg" target="new_window">
 <img src="../../images/battle/diablo2exp/images/superuniques/andariel01.gif" border=0 width=200 height=150>
 </a>
@@ -523,7 +523,7 @@ Found in: Catacombs Level 4
 </td>
 </tr>
 <tr>
-<td valign=center align=center>
+<td valign=center style="text-align:center;">
 <font size=-1 face="arial,helvetica"><small>
 <font color="#ffffff">
 [ Click to Enlarge - 78 KB ]

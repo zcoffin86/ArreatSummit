@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -159,7 +159,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -205,108 +205,108 @@ P = Paladin, S = Sorceress.
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/shortbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Short Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1 to 4 (2.5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[5]<BR>Ama, Asn, B, D, P, S - Fast<BR>N - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1 to 4 (2.5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[5]<BR>Ama, Asn, B, D, P, S - Fast<BR>N - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/huntersbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Hunter's Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 6 (4 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>28</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, B, D - Very Fast<BR>Asn, N, P, S - Fast</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 6 (4 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>28</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, B, D - Very Fast<BR>Asn, N, P, S - Fast</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/longbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Long Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3 to 10 (6.5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>19</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR>N - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>8</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3 to 10 (6.5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>19</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR>N - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>8</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/compositebow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Composite Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4 to 8 (6 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>35</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, B, D - Very Fast<BR>Asn, N, P, S - Fast</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4 to 8 (6 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[-10]<BR>Ama, B, D - Very Fast<BR>Asn, N, P, S - Fast</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/shortbattlebow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Short Battle Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5 to 11 (8 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR> N - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>18</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5 to 11 (8 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR> N - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>18</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/longbattlebow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Long Battle Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3 to 18 (10.5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Ama, B, D  - Fast<BR> Asn, N, P, S - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>23</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3 to 18 (10.5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Ama, B, D  - Fast<BR> Asn, N, P, S - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>23</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/shortwarbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Short War Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>6 to 14 (10 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>35</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR> N  - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>27</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>6 to 14 (10 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Ama, Asn, B, D, P, S - Fast<BR> N  - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>27</SPAN></font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/longwarbow.gif" width=62 height="118">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Long War Bow</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3 to 23 (13 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>65</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>6</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Ama, B, D - Fast<BR> Asn, N, P, S  - Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>31</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3 to 23 (13 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>65</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>6</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Ama, B, D - Fast<BR> Asn, N, P, S  - Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>31</SPAN></font></td>
 </TR>
 </table>
 </CENTER>

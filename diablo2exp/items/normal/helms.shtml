@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -159,7 +159,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -195,11 +195,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Cap</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3-5</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3-5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
 </TR>
 <TR>
 <TD>
@@ -207,11 +207,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Skull Cap</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>8-11</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>18</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>8-11</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>18</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</font></td>
 </TR>
 <TR>
 <TD>
@@ -219,11 +219,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15-18</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>26</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>24</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>11</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15-18</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>26</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>24</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>11</font></td>
 </TR>
 <TR>
 <TD>
@@ -231,11 +231,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Full Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>23-26</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>41</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>23-26</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>41</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
 </TR>
 <TR>
 <TD>
@@ -243,11 +243,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Great Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30-35</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>63</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>23</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30-35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>63</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>23</font></td>
 </TR>
 <TR>
 <TD>
@@ -255,11 +255,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Mask</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>9-27</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>23</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>19</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>9-27</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>23</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>19</font></td>
 </TR>
 <TR>
 <TD>
@@ -267,11 +267,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Crown</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25-45</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>29</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25-45</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>29</font></td>
 </TR>
 <TR>
 <TD>
@@ -279,11 +279,11 @@ caps to royal crowns, helms offer protection from the harsh realities of combat.
 <center><font face="arial,helvetica" size=-1><SPAN><b>Bone Helm</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>33-36</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>33-36</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22</font></td>
 </TR>
 </table>
 </CENTER>

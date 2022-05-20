@@ -68,7 +68,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="assassin-martialarts.shtml">Assassin: Martial Arts</a> |
 <a class="tiny" href="assassin-shadow.shtml">Assassin: Shadow Disciplines</a> |
@@ -106,7 +106,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/skills-traps.gif" alt="Traps" border=0 width=284 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/skills-traps.gif" alt="Traps" border=0 width=284 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -190,50 +190,50 @@ ordinance explodes on impact, damaging any foe within its small blast radius.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.3</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Fire Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3-4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4-6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6-9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7-11</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9-14</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10-16</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>12-19</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>13-21</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>17-27</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>21-32</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>25-38</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>29-43</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>33-49</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>37-54</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>41-60</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>45-65</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>55-77</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>65-89</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>75-101</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>85-113</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Fire Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3-4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4-6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6-9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7-11</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9-14</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10-16</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>12-19</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>13-21</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>17-27</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>21-32</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>25-38</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>29-43</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>33-49</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>37-54</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>41-60</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>45-65</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>55-77</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>65-89</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>75-101</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>85-113</font></TD>
 </TR>
 </table>
 <BR>
@@ -252,14 +252,14 @@ ordinance explodes on impact, damaging any foe within its small blast radius.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/fireblast01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/fireblast01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 128 KB ]
@@ -315,57 +315,57 @@ damaging any opponents who tread upon them.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 6</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Spikes</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Spikes</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-10</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-13</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-16</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-19</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-22</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-25</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-28</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-31</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-37</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-43</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-49</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-55</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-61</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-67</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-73</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-79</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-89</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-99</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-109</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>1-119</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-10</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-13</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-16</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-19</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-22</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-25</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-28</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-31</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-37</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-43</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-49</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-55</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-61</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-67</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-73</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-79</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-89</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-99</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-109</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>1-119</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Duration: 3.6 sec.</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Duration: 3.6 sec.</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -383,14 +383,14 @@ damaging any opponents who tread upon them.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/shockweb01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/shockweb01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 119 KB ]
@@ -450,57 +450,57 @@ This skill allows the Assassin to throw a razor-sharp device that flies back and
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 7</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Duration X Seconds</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5.9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6.4</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9.7</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10.7</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>11.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>11.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>12.1</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>12.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>13.1</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Duration X Seconds</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5.9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6.4</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9.7</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10.7</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>11.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>11.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>12.1</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>12.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>13.1</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6-10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9-13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12-16</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>15-19</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>18-22</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>21-25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>24-28</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27-31</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31-35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>35-39</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>39-43</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>43-47</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>47-51</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>51-55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>55-59</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>59-63</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>64-68</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>69-73</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>74-78</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>79-83</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6-10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9-13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12-16</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15-19</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18-22</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>21-25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24-28</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27-31</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31-35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35-39</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>39-43</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>43-47</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>47-51</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>51-55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>55-59</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>59-63</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>64-68</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>69-73</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>74-78</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>79-83</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>+3/8 Weapon Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>+3/8 Weapon Damage</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -508,14 +508,14 @@ This skill allows the Assassin to throw a razor-sharp device that flies back and
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/bladesentinel01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/bladesentinel01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 133 KB ]
@@ -570,38 +570,38 @@ This small device, once cast upon the ground, emits charges of electricity that 
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 13</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-16</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-20</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-23</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-33</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-38</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-42</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-46</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-50</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-59</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-63</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-69</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-76</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-82</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-89</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-16</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-23</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-33</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-38</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-42</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-46</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-50</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-59</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-63</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-69</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-76</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-82</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-89</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Releases 5 Charged Bolts</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Releases 5 Charged Bolts</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Shoots: 5 times</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Shoots: 5 times</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -620,14 +620,14 @@ This small device, once cast upon the ground, emits charges of electricity that 
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/chargedboltsentry01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/chargedboltsentry01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 95 KB ]
@@ -682,34 +682,34 @@ Once erected, this trap releases waves of flame that incinerate any opponents wi
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 13</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Fire Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5-10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7-12</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9-15</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11-17</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>14-19</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>16-21</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>18-23</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>20-25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>23-29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27-32</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>30-35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>33-38</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>36-42</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>39-45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>43-48</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>46-51</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>51-58</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>57-64</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>62-71</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>68-77</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Fire Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5-10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7-12</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9-15</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11-17</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14-19</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16-21</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18-23</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20-25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>23-29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27-32</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30-35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33-38</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>36-42</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>39-45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>43-48</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>46-51</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>51-58</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>57-64</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>62-71</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>68-77</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Shoots 5 Times</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Shoots 5 Times</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -725,14 +725,14 @@ Once erected, this trap releases waves of flame that incinerate any opponents wi
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/wakeoffire01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/wakeoffire01.gif" Alt="Submitted By Warlock" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 131 KB ]
@@ -805,57 +805,57 @@ the +skill damage can deal more than the weapon "half" of the damage.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Minimum Mana Required To Cast: 3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Minimum Mana Required To Cast: 3</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost Per Blade</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost Per Blade</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Damage Per Blade</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8-10</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>11-13</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>14-16</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>17-19</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>20-22</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>23-25</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>26-28</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>29-31</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>34-36</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>39-41</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>44-46</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>49-51</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>54-56</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>59-61</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>64-66</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>69-71</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>77-79</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>85-87</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>93-95</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>101-103</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Damage Per Blade</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8-10</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>11-13</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>14-16</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>17-19</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>20-22</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>23-25</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>26-28</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>29-31</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>34-36</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>39-41</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>44-46</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>49-51</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>54-56</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>59-61</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>64-66</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>69-71</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>77-79</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>85-87</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>93-95</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>101-103</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>+3/4 Weapon Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>+3/4 Weapon Damage</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -863,14 +863,14 @@ the +skill damage can deal more than the weapon "half" of the damage.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/bladefury01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/bladefury01.gif" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 125 KB ]
@@ -926,34 +926,34 @@ This device discharges great bolts of electricity, frying assailants when they c
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-24</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-37</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-49</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-62</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-74</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-86</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-99</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-111</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-131</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-151</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-171</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-190</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-210</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-230</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-250</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-270</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-300</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-329</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-359</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-389</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-24</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-37</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-49</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-62</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-74</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-86</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-99</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-111</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-131</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-151</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-171</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-190</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-210</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-230</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-250</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-270</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-300</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-329</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-359</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-389</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Shoots 10 Times</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Shoots 10 Times</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -970,14 +970,14 @@ This device discharges great bolts of electricity, frying assailants when they c
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/lightningsentry01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/lightningsentry01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 121 KB ]
@@ -1032,34 +1032,34 @@ Once an Assassin throws it to the ground, this trap expels a large spout of fire
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Fire Damage Per Second</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12-30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>22-42</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>32-53</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>43-65</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>53-76</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>63-88</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>74-99</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>84-111</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>97-125</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>110-139</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>123-153</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>135-167</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>148-181</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>161-195</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>174-209</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>187-223</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>202-240</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>218-257</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>234-274</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>250-291</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Fire Damage Per Second</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12-30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>22-42</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>32-53</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>43-65</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>53-76</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>63-88</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>74-99</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>84-111</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>97-125</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>110-139</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>123-153</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>135-167</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>148-181</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>161-195</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>174-209</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>187-223</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>202-240</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>218-257</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>234-274</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>250-291</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Shoots 10 Times</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Shoots 10 Times</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -1077,14 +1077,14 @@ Once an Assassin throws it to the ground, this trap expels a large spout of fire
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/wakeofinferno01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/wakeofinferno01.gif" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 100 KB ]
@@ -1140,61 +1140,61 @@ This trap emits projectiles laden with a potent chemical catalyst, detonating th
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 20</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-56</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-64</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-73</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-82</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-91</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-100</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-109</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-118</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-134</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-150</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-165</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-181</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-197</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-212</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-228</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-244</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-268</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-293</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-318</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-342</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Lightning Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-56</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-64</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-73</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-82</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-91</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-100</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-109</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-118</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-134</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-150</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-165</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-181</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-197</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-212</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-228</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-244</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-268</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-293</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-318</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-342</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Corpse Explosion Radius (yards)</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Corpse Explosion Radius (yards)</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9.6</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage: 40-80% Of Corpse Life</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage: 40-80% Of Corpse Life</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Shoots: 5 Times</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Shoots: 5 Times</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -1210,14 +1210,14 @@ This trap emits projectiles laden with a potent chemical catalyst, detonating th
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/deathsentry01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/deathsentry01.gif" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 78 KB ]
@@ -1279,76 +1279,76 @@ make it hit faster by standing within range of your target and spamming it.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>33</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>37</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>39</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>41</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>43</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>47</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>49</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>51</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>53</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>57</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>59</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>61</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>63</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>65</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>37</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>39</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>41</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>43</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>47</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>49</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>51</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>53</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>57</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>59</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>61</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>63</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>65</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>20</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>30</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>35</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>40</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>45</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>50</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>55</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>60</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>65</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>70</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>75</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>80</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>85</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>90</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>95</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>100</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>105</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>110</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>115</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>20</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>30</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>35</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>40</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>45</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>50</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>55</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>60</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>65</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>70</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>75</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>80</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>85</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>90</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>95</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>100</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>105</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>110</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>115</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1-30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6-35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11-40</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>16-45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>21-50</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26-55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31-60</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>36-65</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>42-71</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>48-77</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>54-83</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>60-89</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>66-95</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>72-101</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>78-107</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>84-113</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>91-120</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>98-127</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>105-134</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>112-141</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1-30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6-35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11-40</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16-45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>21-50</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26-55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31-60</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>36-65</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>42-71</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>48-77</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>54-83</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>60-89</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>66-95</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>72-101</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>78-107</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>84-113</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>91-120</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>98-127</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>105-134</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>112-141</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>+1/4 Weapon Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>+1/4 Weapon Damage</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -1356,14 +1356,14 @@ make it hit faster by standing within range of your target and spamming it.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/bladeshield01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/bladeshield01.gif" Alt="Submitted By Sirian" width=200 height=150 border=0>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 85 KB ]

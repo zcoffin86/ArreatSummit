@@ -68,7 +68,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -155,7 +155,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-elite.gif" alt="Elite Items" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -175,7 +175,7 @@ Druid Pelts can have 1-3 bonuses of +1-3 to specific Druid skills and can only b
 <P>
 <CENTER>
 <Table border=0 cellpadding=5>
-<TR align=center>
+<TR style="text-align:center;">
 <TH><font face="arial,helvetica" size=-1><SPAN>&nbsp;</font></TH>
 <TH><font face="arial,helvetica" size=-1><SPAN>Min/Max Defense</font></TH>
 <TH><font face="arial,helvetica" size=-1><SPAN>Level Required</font></TD>
@@ -185,69 +185,69 @@ Druid Pelts can have 1-3 bonuses of +1-3 to specific Druid skills and can only b
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/wolfhead.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Blood Spirit</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>101-145</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>46</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>86</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>62</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>101-145</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>46</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>86</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>62</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/falconmask.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Sun Spirit</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>98-147</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>51</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>95</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>69</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>98-147</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>51</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>95</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>69</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/antlers.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Earth Spirit</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>107-152</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>57</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>104</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>76</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>107-152</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>57</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>104</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>76</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/hawkhelm.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Sky Spirit</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>103-155</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>62</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>113</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>83</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>103-155</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>62</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>113</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>83</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/spiritmask.gif" width="56" height="56">
 <center><font face="arial,helvetica" size=-1><SPAN><b>Dream Spirit</b></font></center>
 <br Clear=left>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>109-159</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>66</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>118</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>85</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>109-159</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>66</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>118</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>85</font></td>
 </TR>
 </table>
 </CENTER>

@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/headers/items-proc.gif" alt="Large Charm Magic Prefixes and Suffixes" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/headers/items-proc.gif" alt="Large Charm Magic Prefixes and Suffixes" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -145,13 +145,13 @@ For more information about these abilities see <a href="pre.shtml">General Magic
 <P>
 <table border=0 cellpadding=5>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Magic Ability</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Effect</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Magic Ability</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Effect</b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN><b>Available On</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Fire Bolts</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Fire Bolt</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Fire Bolts</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Fire Bolt</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>
 (6)[5% Chance/Level 3/On Attack],
@@ -160,8 +160,8 @@ For more information about these abilities see <a href="pre.shtml">General Magic
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Charged Bolt</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Charged Bolt</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Charged Bolt</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Charged Bolt</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets, Armor, Rings</font>
 (6)[10% Chance/Level 3/When Struck],
@@ -170,24 +170,24 @@ For more information about these abilities see <a href="pre.shtml">General Magic
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Ice Bolt</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Ice Bolt</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Ice Bolt</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Ice Bolt</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>
 (6)[5% Chance/Level 3/On Attack]  - can not spawn on missile weapons
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Frost Shield</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Frost Nova</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Frost Shield</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Frost Nova</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets, Armor</font>
 (12)[5% Chance/Level 3/When Struck]
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Nova</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Nova</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Nova</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Nova</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>
 (18)[10% Chance/Level 3/On Striking],
@@ -195,8 +195,8 @@ For more information about these abilities see <a href="pre.shtml">General Magic
 weapons</SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Nova Shield</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Nova</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Nova Shield</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Nova</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor, Rings</font>
 (18)[10% Chance/Level 3/When Struck],
@@ -205,16 +205,16 @@ weapons</SPAN></b></td>
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Lightning</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Lightning</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Lightning</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Lightning</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>
 (18)[5% Chance/Level 3/On Attack] - can not spawn on missile weapons
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Chain Lightning</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Chain Lightning</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Chain Lightning</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Chain Lightning</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets, Rings, Weapons</font>
 (25)[5% Chance/Level 3/On Attack],
@@ -223,16 +223,16 @@ weapons</SPAN></b></td>
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Hydra Shield</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Hydra</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Hydra Shield</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Hydra</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>
 (40)[10% Chance/Level 3/When Struck]
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>of Amplify Damage</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Amplify Damage</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>of Amplify Damage</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Chance To Cast Amplify Damage</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>
 (3)[5% Chance/Level 1/On Striking] - can not spawn on orbs

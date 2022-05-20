@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -207,7 +207,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -224,7 +224,7 @@
 </center><P>
 <Table border=0 cellpadding=5 width=100%>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/harlequincrest.gif" width=32 height="54">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Harlequin Crest</b></font></center>
@@ -248,7 +248,7 @@ Durability: 12<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/steelshade.gif" width=44 height="58">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Steel Shade</b></font></center>
@@ -270,7 +270,7 @@ Durability: 24<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/veilofsteel.gif" width=39 height="58">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Veil of Steel</b></font></center>
@@ -294,7 +294,7 @@ Durability: <font color=4850B8>60</font><BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/nightwingsveil.gif" width=39 height="58">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Nightwing's Veil</b></font></center>
@@ -319,7 +319,7 @@ Durability: 40<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="andy"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/armor/mask.gif" width=62 height="62">
@@ -349,7 +349,7 @@ Durability: 20<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="coa"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/crownofages.gif" width=40 height="55">
@@ -375,7 +375,7 @@ Required Strength: 174<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/giantskull.gif" width=57 height="49">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Giant Skull</b></font></center>

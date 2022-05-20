@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Monster Basics</a> |
 <a class="tiny" href="bonus.shtml">Monster Bonuses</a> |
@@ -139,7 +139,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-superunique.gif" alt="Super Unique Monsters" border=0 width=325 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-superunique.gif" alt="Super Unique Monsters" border=0 width=325 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -211,7 +211,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
+		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -239,7 +239,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Duriel</b></small></span></font></div>
                             </td>
                           </tr>
@@ -253,9 +253,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>22</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>55</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>88</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>22</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>55</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>88</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -267,9 +267,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>6007</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>147990</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>914751</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>6007</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>147990</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>914751</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -281,9 +281,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>3995</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>55799</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>84524</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3995</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>55799</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>84524</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -311,7 +311,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Duriel</b></small></span></font></div>
                             </td>
                           </tr>
@@ -325,9 +325,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>19-25</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>63-85</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>140-190</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>19-25</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>63-85</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>140-190</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -339,9 +339,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>444</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>1188</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>3874</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>444</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1188</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3874</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -353,9 +353,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>19-22</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>51-74</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>115-165</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>19-22</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>51-74</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>115-165</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -367,9 +367,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>556</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>1620</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>5283</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>556</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1620</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>5283</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -396,7 +396,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Duriel</b></small></span></font></div>
                             </td>
                           </tr>
@@ -410,9 +410,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>112</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>907</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>2044</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>112</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>907</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>2044</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -424,9 +424,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th nowrap bgcolor="#111111" width="33%"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>25</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>25</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -438,9 +438,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -452,9 +452,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>33</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>33</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -481,7 +481,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Duriel</b></small></span></font></div>
                             </td>
                           </tr>
@@ -495,9 +495,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -509,9 +509,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>95</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>95</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -523,9 +523,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -537,9 +537,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -564,7 +564,7 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Duriel</b></small></span></font></div>
                             </td>
                           </tr>
@@ -578,9 +578,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -592,9 +592,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -606,9 +606,9 @@ Does not use <a href="../skills/paladin-combat.shtml#charge">Charge</a>.
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
                           </tr>
                         </table>
                       </th>

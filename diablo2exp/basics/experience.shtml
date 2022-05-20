@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="index.html">Basics</a> |
 <a class="tiny" href="characters.shtml">Characters</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/basics-experience.gif" alt="Experience" border=0 width=175 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/basics-experience.gif" alt="Experience" border=0 width=175 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -194,84 +194,84 @@ only receives 95.31% of the experience.
 <TH><font size=-1 face="arial,helvetica"><span>Experience</span></font></TH>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>70</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>95.31%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>80</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>48.44%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>90</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>5.96%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>70</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>95.31%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>80</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>48.44%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>90</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>5.96%</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>71</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>90.63%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>81</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>43.75%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>91</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>4.49%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>71</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>90.63%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>81</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>43.75%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>91</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>4.49%</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>72</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>85.94%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>82</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>39.06%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>92</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3.42%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>72</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>85.94%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>82</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>39.06%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>92</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3.42%</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>73</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>81.25%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>83</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>34.38%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>93</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2.54%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>73</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>81.25%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>83</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>34.38%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>93</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2.54%</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>74</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>76.56%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>84</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>29.69%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>94</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1.95%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>74</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>76.56%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>84</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>29.69%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>94</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1.95%</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>75</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>71.88%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>85</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>25.00%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>95</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1.46%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>75</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>71.88%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>85</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>25.00%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>95</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1.46%</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>76</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>67.19%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>86</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>18.75%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>96</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1.07%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>76</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>67.19%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>86</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>18.75%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>96</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1.07%</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>77</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>62.50%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>87</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>14.06%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>97</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>0.78%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>77</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>62.50%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>87</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>14.06%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>97</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>0.78%</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>78</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>57.81%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>88</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>10.55%</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>98</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>0.59%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>78</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>57.81%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>88</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>10.55%</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>98</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>0.59%</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>79</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>53.13%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>89</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>7.91%</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>&nbsp;</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>&nbsp;</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>79</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>53.13%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>89</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>7.91%</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>&nbsp;</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>&nbsp;</span></font></TD>
 </TR>
 </TABLE></TD></TR></TABLE>
 <P>

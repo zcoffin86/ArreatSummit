@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -158,7 +158,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/headers/header-back.gif"><img src="../../images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/headers/header-back.gif" align=center width=100%><img src="../../images/headers/items-exceptional.gif" alt="Exceptional Items" border=0 width=300 height=60></td>
+		<td background="../../images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/headers/items-exceptional.gif" alt="Exceptional Items" border=0 width=300 height=60></td>
 		<td background="../../images/headers/header-back.gif"><img src="../../images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -197,84 +197,84 @@ Auto Mods while others contain spell/skill bonuses. [<a href="../normal/paladin.
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/targe.gif" width="56" height="56">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Akaran Targe</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>101-125</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>26</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>44</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>40%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12 to 16</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>35</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>101-125</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>26</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>44</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>40%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12 to 16</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>35</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/rondache.gif" width="56" height="56">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Akaran Rondache</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>113-137</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>59</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[15]<BR>45%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15 to 20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>113-137</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>59</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[15]<BR>45%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15 to 20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/heraldicshield.gif" width="56" height="112">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Protector Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>129-153</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>34</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>69</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[20]<BR>50%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>18 to 24</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>46</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>129-153</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>34</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>69</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[20]<BR>50%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>18 to 24</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>46</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/aerinshield.gif" width="56" height="112">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Gilded Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>144-168</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>38</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>89</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[22]<BR>52%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20 to 28</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>51</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>144-168</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>38</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>89</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[22]<BR>52%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20 to 28</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>51</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../images/items/classspecific/crownshield.gif" width="56" height="56">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Royal Shield</b></font>
 </TD>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>156-181</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>41</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>114</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[25]<BR>55%</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>24 to 32</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>156-181</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>41</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>114</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[25]<BR>55%</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>24 to 32</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
 </TR>
 </table>
 </CENTER>

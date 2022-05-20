@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -159,7 +159,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-normal.gif" alt="Normal Items" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -199,68 +199,68 @@ All Wands give a bonus of +50% Damage to Undead.<P>
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/wand.gif" width=62 height="119">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Wand</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 4 (3 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>0</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Fast</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 4 (3 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>0</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Fast</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/yewwand.gif" width=62 height="119">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Yew Wand</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2 to 8 (5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>0</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Normal</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>12</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2 to 8 (5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>0</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[10]<BR>Normal</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/bonewand.gif" width=62 height="119">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Bone Wand</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3 to 7 (5 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>0</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[-20]<BR>Very Fast</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>18</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3 to 7 (5 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>0</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[-20]<BR>Very Fast</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>18</font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <img src="../../../images/battle/diablo2exp/images/items/weapons/grimwand.gif" width=62 height="119">
 <BR CLEAR=LEFT>
 <font face="arial,helvetica" size=-1><SPAN><b>Grim Wand</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>5 to 11 (8 Avg)</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>-</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>0</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>15</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>1</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Fast</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>26</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5 to 11 (8 Avg)</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>-</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>0</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>[0]<BR>Fast</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>26</font></td>
 </TR>
 </table>
 </CENTER>

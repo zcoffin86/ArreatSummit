@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -207,7 +207,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -224,7 +224,7 @@
 </center><P>
 <Table border=0 cellpadding=5 width=100%>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/bloodcrescent.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Djinn Slayer</b></font></center>
@@ -252,7 +252,7 @@ Base Weapon Speed: [-20]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/krintizskewer.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Bloodmoon</b></font></center>
@@ -277,7 +277,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/azurewrath.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Lightsabre</b></font></center>
@@ -306,7 +306,7 @@ Base Weapon Speed: [-30]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="azurewrath"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/azurewrath.gif" width=50 height="84">
@@ -335,7 +335,7 @@ Base Weapon Speed: [-30]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/hellplague.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Frostwind</b></font></center>
@@ -361,7 +361,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/elite/flamebellow.gif" width=29 height="111">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Flamebellow</b></font></center>
@@ -389,7 +389,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/blacktongue.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Doombringer</b></font></center>
@@ -416,7 +416,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../images/items/uniques/thepatriarch.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>The Grandfather</b></font></center>

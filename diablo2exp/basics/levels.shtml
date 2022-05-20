@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="index.html">Basics</a> |
 <a class="tiny" href="characters.shtml">Characters</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/basics-explevel.gif" alt="Experience Per Level" border=0 width=300 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/basics-explevel.gif" alt="Experience Per Level" border=0 width=300 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -140,254 +140,254 @@
 <TH><font size=-1 face="arial,helvetica"><span>Experience to Next Level</span></font></TH>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>-</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>500</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>-</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>500</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>500</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,000</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>500</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,000</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,500</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,250</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,500</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,250</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>4</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>3,750</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>4,125</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>4</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>3,750</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>4,125</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>5</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>7,875</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>6,300</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>5</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>7,875</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>6,300</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>6</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>14,175</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>8,505</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>6</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>14,175</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>8,505</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>7</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>22,680</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>10,206</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>7</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>22,680</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>10,206</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>8</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>32,886</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>11,510</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>8</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>32,886</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>11,510</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>9</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>44,396</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>13,319</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>9</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>44,396</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>13,319</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>10</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>57,715</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>14,429</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>10</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>57,715</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>14,429</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>11</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>72,144</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>18,036</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>11</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>72,144</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>18,036</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>12</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>90,180</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>22,545</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>12</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>90,180</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>22,545</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>13</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>112,725</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>28,181</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>13</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>112,725</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>28,181</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>14</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>140,906</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>35,226</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>14</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>140,906</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>35,226</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>15</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>176,132</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>44,033</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>15</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>176,132</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>44,033</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>16</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>220,165</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>55,042</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>16</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>220,165</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>55,042</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>17</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>275,207</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>68,801</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>17</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>275,207</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>68,801</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>18</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>344,008</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>86,002</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>18</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>344,008</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>86,002</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>19</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>430,010</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>107,503</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>19</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>430,010</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>107,503</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>20</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>537,513</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>134,378</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>20</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>537,513</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>134,378</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>21</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>671,891</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>167,973</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>21</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>671,891</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>167,973</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>22</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>839,864</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>209,966</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>22</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>839,864</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>209,966</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>23</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,049,830</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>262,457</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>23</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,049,830</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>262,457</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>24</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,312,287</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>328,072</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>24</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,312,287</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>328,072</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>25</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,640,359</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>410,090</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>25</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,640,359</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>410,090</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>26</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2,050,449</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>512,612</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>26</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2,050,449</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>512,612</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>27</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,563,061</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>640,765</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>27</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,563,061</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>640,765</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>28</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>3,203,826</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>698,434</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>28</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>3,203,826</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>698,434</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>29</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3,902,260</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>761,293</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>29</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3,902,260</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>761,293</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>30</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>4,663,553</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>829,810</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>30</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>4,663,553</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>829,810</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>31</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>5,493,363</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>904,492</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>31</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>5,493,363</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>904,492</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>32</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>6,397,855</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>985,897</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>32</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>6,397,855</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>985,897</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>33</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>7,383,752</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,074,627</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>33</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>7,383,752</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,074,627</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>34</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>8,458,379</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,171,344</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>34</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>8,458,379</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,171,344</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>35</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>9,629,723</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,276,765</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>35</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>9,629,723</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,276,765</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>36</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>10,906,488</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,391,674</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>36</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>10,906,488</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,391,674</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>37</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>12,298,162</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,516,924</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>37</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>12,298,162</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,516,924</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>38</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>13,815,086</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,653,448</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>38</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>13,815,086</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,653,448</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>39</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>15,468,534</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,802,257</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>39</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>15,468,534</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,802,257</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>40</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>17,270,791</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,964,461</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>40</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>17,270,791</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,964,461</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>41</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>19,235,252</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,141,263</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>41</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>19,235,252</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,141,263</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>42</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>21,376,515</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2,333,976</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>42</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>21,376,515</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2,333,976</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>43</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>23,710,491</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,544,034</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>43</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>23,710,491</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,544,034</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>44</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>26,254,525</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2,772,997</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>44</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>26,254,525</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2,772,997</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>45</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>29,027,522</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3,022,566</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>45</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>29,027,522</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3,022,566</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>46</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>32,050,088</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>3,294,598</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>46</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>32,050,088</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>3,294,598</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>47</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>35,344,686</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3,591,112</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>47</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>35,344,686</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3,591,112</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>48</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>38,935,798</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>3,914,311</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>48</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>38,935,798</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>3,914,311</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>49</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>42,850,109</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>4,266,600</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>49</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>42,850,109</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>4,266,600</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>50</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>47,116,709</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>4,650,593</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>50</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>47,116,709</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>4,650,593</span></font></TD>
 </TR>
 </TABLE>
 </TD>
@@ -399,249 +399,249 @@
 <TH><font size=-1 face="arial,helvetica"><span>Experience to Next Level</span></font></TH>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>51</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>51,767,302</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>5,069,147</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>51</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>51,767,302</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>5,069,147</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>52</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>56,836,449</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>5,525,370</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>52</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>56,836,449</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>5,525,370</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>53</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>62,361,819</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>6,022,654</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>53</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>62,361,819</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>6,022,654</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>54</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>68,384,473</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>6,564,692</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>54</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>68,384,473</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>6,564,692</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>55</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>74,949,165</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>7,155,515</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>55</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>74,949,165</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>7,155,515</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>56</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>82,104,680</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>7,799,511</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>56</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>82,104,680</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>7,799,511</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>57</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>89,904,191</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>8,501,467</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>57</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>89,904,191</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>8,501,467</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>58</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>98,405,658</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>9,266,598</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>58</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>98,405,658</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>9,266,598</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>59</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>107,672,256</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>10,100,593</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>59</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>107,672,256</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>10,100,593</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>60</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>117,772,849</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>11,009,646</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>60</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>117,772,849</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>11,009,646</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>61</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>128,782,495</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>12,000,515</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>61</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>128,782,495</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>12,000,515</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>62</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>140,783,010</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>13,080,560</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>62</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>140,783,010</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>13,080,560</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>63</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>153,863,570</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>14,257,811</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>63</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>153,863,570</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>14,257,811</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>64</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>168,121,381</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>15,541,015</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>64</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>168,121,381</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>15,541,015</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>65</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>183,662,396</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>16,939,705</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>65</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>183,662,396</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>16,939,705</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>66</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>200,602,101</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>18,464,279</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>66</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>200,602,101</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>18,464,279</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>67</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>219,066,380</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>20,126,064</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>67</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>219,066,380</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>20,126,064</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>68</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>239,192,444</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>21,937,409</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>68</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>239,192,444</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>21,937,409</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>69</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>261,129,853</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>23,911,777</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>69</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>261,129,853</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>23,911,777</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>70</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>285,041,630</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>26,063,836</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>70</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>285,041,630</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>26,063,836</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>71</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>311,105,466</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>28,409,582</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>71</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>311,105,466</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>28,409,582</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>72</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>339,515,048</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>30,966,444</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>72</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>339,515,048</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>30,966,444</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>73</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>370,481,492</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>33,753,424</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>73</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>370,481,492</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>33,753,424</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>74</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>404,234,916</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>36,791,232</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>74</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>404,234,916</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>36,791,232</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>75</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>441,026,148</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>40,102,443</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>75</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>441,026,148</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>40,102,443</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>76</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>481,128,591</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>43,711,663</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>76</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>481,128,591</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>43,711,663</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>77</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>524,840,254</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>47,645,713</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>77</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>524,840,254</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>47,645,713</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>78</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>572,485,967</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>51,933,826</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>78</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>572,485,967</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>51,933,826</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>79</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>624,419,793</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>56,607,872</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>79</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>624,419,793</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>56,607,872</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>80</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>681,027,665</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>61,702,579</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>80</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>681,027,665</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>61,702,579</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>81</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>742,730,244</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>67,255,812</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>81</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>742,730,244</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>67,255,812</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>82</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>809,986,056</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>73,308,835</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>82</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>809,986,056</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>73,308,835</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>83</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>883,294,891</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>79,906,630</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>83</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>883,294,891</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>79,906,630</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>84</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>963,201,521</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>87,098,226</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>84</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>963,201,521</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>87,098,226</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>85</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,050,299,747</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>94,937,067</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>85</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,050,299,747</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>94,937,067</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>86</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,145,236,814</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>103,481,403</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>86</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,145,236,814</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>103,481,403</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>87</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,248,718,217</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>112,794,729</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>87</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,248,718,217</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>112,794,729</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>88</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,361,512,946</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>122,946,255</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>88</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,361,512,946</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>122,946,255</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>89</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,484,459,201</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>134,011,418</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>89</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,484,459,201</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>134,011,418</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>90</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,618,470,619</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>146,072,446</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>90</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,618,470,619</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>146,072,446</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>91</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>1,764,543,065</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>159,218,965</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>91</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>1,764,543,065</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>159,218,965</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>92</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>1,923,762,030</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>173,548,673</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>92</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>1,923,762,030</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>173,548,673</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>93</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,097,310,703</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>189,168,053</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>93</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,097,310,703</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>189,168,053</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>94</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2,286,478,756</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>206,193,177</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>94</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2,286,478,756</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>206,193,177</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>95</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,492,671,933</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>224,750,564</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>95</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,492,671,933</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>224,750,564</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>96</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>2,717,422,497</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>244,978,115</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>96</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>2,717,422,497</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>244,978,115</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>97</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>2,962,400,612</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>267,026,144</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>97</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>2,962,400,612</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>267,026,144</span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>98</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>3,229,426,756</span></font></TD>
-<TD align=center bgcolor="#20100a"><font size=-1 face="arial,helvetica"><span>291,058,498</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>98</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>3,229,426,756</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica"><span>291,058,498</span></font></TD>
 </TR>
 <TR>
-<TD align=center><font size=-1 face="arial,helvetica"><span>99</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>3,520,485,254</span></font></TD>
-<TD align=center><font size=-1 face="arial,helvetica"><span>-</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>99</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>3,520,485,254</span></font></TD>
+<TD style="text-align:center;"><font size=-1 face="arial,helvetica"><span>-</span></font></TD>
 </TR>
 </TABLE>
 </TD>

@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Item Basics</a> |
 <a class="tiny" href="weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-gems.gif" alt="Gems" border=0></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-gems.gif" alt="Gems" border=0></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -294,7 +294,7 @@ Helms and Armor: Adds to Strength<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippedamethyst.gif" width=28 height="28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippedamethyst.gif" width=28 height="28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Amethyst</b><br>
@@ -312,7 +312,7 @@ Helms and Armor: Adds to Strength<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawedamethyst.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawedamethyst.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Amethyst</b><br>
@@ -330,7 +330,7 @@ Helms and Armor: Adds to Strength<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/amethyst.gif" width="28" height="28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/amethyst.gif" width="28" height="28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Amethyst</b><br>
@@ -348,7 +348,7 @@ Helms and Armor: Adds to Strength<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlessamethyst.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlessamethyst.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Amethyst</b><br>
@@ -366,7 +366,7 @@ Helms and Armor: Adds to Strength<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfectamethyst.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfectamethyst.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Amethyst</b><br>
@@ -400,7 +400,7 @@ Helms and Armor: Adds Maximum Mana<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippedsaphire.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippedsaphire.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Sapphire</b><br>
@@ -418,7 +418,7 @@ Helms and Armor: Adds Maximum Mana<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawedsaphire.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawedsaphire.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Sapphire</b><br>
@@ -436,7 +436,7 @@ Helms and Armor: Adds Maximum Mana<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/saphire.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/saphire.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Sapphire</b><br>
@@ -454,7 +454,7 @@ Helms and Armor: Adds Maximum Mana<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlesssaphire.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlesssaphire.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Sapphire</b><br>
@@ -472,7 +472,7 @@ Helms and Armor: Adds Maximum Mana<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfectsaphire.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfectsaphire.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Sapphire</b><br>
@@ -506,7 +506,7 @@ Helms and Armor: Adds to Dexterity<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippedemerald.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippedemerald.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Emerald</b><br>
@@ -524,7 +524,7 @@ Helms and Armor: Adds to Dexterity<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawedemerald.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawedemerald.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Emerald</b><br>
@@ -542,7 +542,7 @@ Helms and Armor: Adds to Dexterity<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/emerald.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/emerald.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Emerald</b><br>
@@ -560,7 +560,7 @@ Helms and Armor: Adds to Dexterity<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlessemerald.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlessemerald.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Emerald</b><br>
@@ -578,7 +578,7 @@ Helms and Armor: Adds to Dexterity<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfectemerald.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfectemerald.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Emerald</b><br>
@@ -612,7 +612,7 @@ Helms and Armor: Adds to Maximum Life<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippedruby.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippedruby.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Ruby</b><br>
@@ -630,7 +630,7 @@ Helms and Armor: Adds to Maximum Life<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawedruby.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawedruby.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Ruby</b><br>
@@ -648,7 +648,7 @@ Helms and Armor: Adds to Maximum Life<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/ruby.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/ruby.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Ruby</b><br>
@@ -666,7 +666,7 @@ Helms and Armor: Adds to Maximum Life<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlessruby.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlessruby.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Ruby</b><br>
@@ -684,7 +684,7 @@ Helms and Armor: Adds to Maximum Life<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfectruby.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfectruby.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Ruby</b><br>
@@ -718,7 +718,7 @@ Helms and Armor: Adds to Attack Rating<br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippeddiamond.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippeddiamond.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Diamond</b><br>
@@ -736,7 +736,7 @@ All Resistances +6%
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flaweddiamond.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flaweddiamond.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Diamond</b><br>
@@ -754,7 +754,7 @@ All Resistances +8%
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/diamond.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/diamond.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Diamond</b><br>
@@ -772,7 +772,7 @@ All Resistances +11%
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlessdiamond.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlessdiamond.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Diamond</b><br>
@@ -790,7 +790,7 @@ All Resistances +14%
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfectdiamond.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfectdiamond.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Diamond</b><br>
@@ -824,12 +824,12 @@ Helms and Armor: Adds Chance to find Magic Items <br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/chippedtopaz.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/chippedtopaz.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Chipped Topaz</b><br>
 </font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>1</SPAN></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 1-8 Lightning Damage
 </font></td>
@@ -842,12 +842,12 @@ Helms and Armor: Adds Chance to find Magic Items <br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawedtopaz.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawedtopaz.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawed Topaz</b><br>
 </font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5</SPAN></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 1-14 Lightning Damage
 </font></td>
@@ -860,12 +860,12 @@ Helms and Armor: Adds Chance to find Magic Items <br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/topaz.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/topaz.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Topaz</b><br>
 </font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>12</SPAN></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>12</SPAN></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 1-22 Lightning Damage
 </font></td>
@@ -878,12 +878,12 @@ Helms and Armor: Adds Chance to find Magic Items <br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/flawlesstopaz.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/flawlesstopaz.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Flawless Topaz</b><br>
 </font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>15</SPAN></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>15</SPAN></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 1-30 Lightning Damage
 </font></td>
@@ -896,12 +896,12 @@ Helms and Armor: Adds Chance to find Magic Items <br><br>
 </tr>
 <tr>
 <td>
-<img src="../../images/battle/diablo2exp/images/gems/perfecttopaz.gif" width=28 height=28" align=center>
+<img src="../../images/battle/diablo2exp/images/gems/perfecttopaz.gif" width=28 height=28" style="text-align:center;">
 </td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <b>Perfect Topaz</b><br>
 </font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>18</SPAN></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>18</SPAN></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 1-40 Lightning Damage
 </font></td>

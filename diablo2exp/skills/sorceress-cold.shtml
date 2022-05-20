@@ -68,7 +68,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="sorceress-cold.shtml">Sorceress: Cold Spells</a> |
 <a class="tiny" href="sorceress-lightning.shtml">Sorceress: Lightning Spells</a> |
@@ -106,7 +106,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/skills-sor-cold.gif" alt="Cold Spells" border=0 width=200 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/skills-sor-cold.gif" alt="Cold Spells" border=0 width=200 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -200,54 +200,54 @@ and blast them into pieces making it impossible for other Monsters to raise them
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 3</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3-5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>4-6</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>5-8</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>6-9</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>7-11</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>8-12</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>9-14</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>10-15</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>12-18</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>14-20</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>16-23</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>18-25</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>20-28</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>22-30</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>24-33</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>26-36</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>29-39</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>32-42</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>35-46</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>38-49</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3-5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4-6</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5-8</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6-9</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7-11</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8-12</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9-14</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10-15</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12-18</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14-20</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16-23</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18-25</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20-28</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>22-30</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24-33</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26-36</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>29-39</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>32-42</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35-46</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>38-49</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>11.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>13</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>14.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>15.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>17.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>18.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>20</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>21</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>22.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>24.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>25.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>27</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>28.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>29.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>31.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>32.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>11.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>13</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>14.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>15.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>17.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>18.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>20</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>21</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>22.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>24.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>25.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>28.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>29.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>31.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>32.6</font></TD>
 </TR>
 </table>
 <BR>
@@ -265,14 +265,14 @@ and blast them into pieces making it impossible for other Monsters to raise them
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/icebolt01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/icebolt01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 111 KB ]
@@ -333,77 +333,77 @@ At level 20, Frozen Armor will only freeze for less than a second in Hell diffic
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 7</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>40</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>50</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>60</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>65</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>70</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>75</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>80</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>85</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>90</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>95</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>100</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>105</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>110</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>115</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>120</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>125</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>40</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>50</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>60</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>65</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>70</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>75</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>80</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>85</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>90</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>95</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>100</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>105</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>110</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>115</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>120</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>125</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>120</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>132</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>144</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>156</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>168</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>180</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>192</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>204</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>216</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>228</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>240</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>252</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>264</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>276</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>288</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>300</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>312</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>324</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>336</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>348</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>120</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>132</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>144</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>156</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>168</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>180</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>192</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>204</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>216</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>228</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>240</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>252</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>264</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>276</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>288</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>300</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>312</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>324</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>336</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>348</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>1.9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>2.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.1</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>1.9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>2.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.1</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.4</font></TD>
 </TR>
 </table>
 <BR>
@@ -420,19 +420,19 @@ At level 20, Frozen Armor will only freeze for less than a second in Hell diffic
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/frozenarmor01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/frozenarmor01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/frozenarmor02.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/frozenarmor02.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -442,7 +442,7 @@ At level 20, Frozen Armor will only freeze for less than a second in Hell diffic
 </font>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -502,73 +502,73 @@ Creates an expanding ring of ice and frost that damages and slows enemies.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>10	</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>12	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>13	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>14	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>15	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>16	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>17	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>18	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>19	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>20	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>21	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>22	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>23	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>24	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>25	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>26	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>27	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>28</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10	</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>19	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>21	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>22	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>23	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>28</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2-4</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4-6</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6-9</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8-11</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10-14</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>12-16</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>14-19</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>16-21</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>19-25</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>22-28</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>25-32</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>28-35</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>31-39</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>34-42</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>37-46</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>40-49</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>44-54</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>48-58</font></TD>			
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>52-63</font></TD>	
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>56-67</font></TD>	
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2-4</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4-6</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6-9</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8-11</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10-14</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>12-16</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>14-19</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>16-21</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>19-25</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>22-28</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>25-32</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>28-35</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>31-39</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>34-42</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>37-46</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>40-49</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>44-54</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>48-58</font></TD>			
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>52-63</font></TD>	
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>56-67</font></TD>	
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>14</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>15</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>16</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>17</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>18</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>19</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>20</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>21</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>22</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>23</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>24</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>19</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>21</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>22</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>23</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
 </TR>
 </table>
 <BR>
@@ -583,14 +583,14 @@ Creates an expanding ring of ice and frost that damages and slows enemies.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/frostnova01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/frostnova01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 82 KB ]
@@ -657,73 +657,73 @@ can freeze the monsters while a Paladin or Barbarian shatters them for example.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>7.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11.5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>14</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>14</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>15</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>15</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>7.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8-12</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>16-21</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>23-29</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>31-37</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>38-45</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>46-53</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>54-61</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>61-69</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>76-85</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>91-100</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>106-116</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>122-132</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>137-147</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>152-163</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>167-179</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>182-194</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>205-218</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>227-241</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>250-264	</font></TD>	
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>273-287</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8-12</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>16-21</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>23-29</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>31-37</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>38-45</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>46-53</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>54-61</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>61-69</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>76-85</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>91-100</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>106-116</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>122-132</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>137-147</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>152-163</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>167-179</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>182-194</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>205-218</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>227-241</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>250-264	</font></TD>	
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>273-287</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>3.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>4.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>5.8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6.2</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6.4</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6.6</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>6.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>3.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>4.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>5.8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6.2</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6.4</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6.6</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>6.8</font></TD>
 </TR>
 </table>
 <BR>
@@ -740,19 +740,19 @@ can freeze the monsters while a Paladin or Barbarian shatters them for example.
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/iceblast01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/iceblast01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/iceblast02.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/iceblast02.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -762,7 +762,7 @@ can freeze the monsters while a Paladin or Barbarian shatters them for example.
 </font>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -822,80 +822,80 @@ Defense bonus, plus any melee attacker that attacks you takes damage and is slow
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 11</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 11</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>51</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>57</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>63</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>69</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>75</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>81</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>87</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>93</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>99</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>105</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>111</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>117</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>123</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>129</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>135</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>141</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>147</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>153</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>159</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>51</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>57</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>63</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>69</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>75</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>81</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>87</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>93</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>99</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>105</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>111</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>117</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>123</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>129</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>135</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>141</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>147</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>153</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>159</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6-8</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>8-11</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10-14</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>13-16</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>15-19</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>17-22</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>19-25</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>21-27</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>25-31</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>28-35</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>31-39</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>34-43</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>38-46</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>41-50</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>44-54</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>47-58</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>52-63</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>56-68</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>61-73</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>65-77</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6-8</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>8-11</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10-14</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>13-16</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>15-19</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>17-22</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>19-25</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>21-27</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>25-31</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>28-35</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>31-39</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>34-43</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>38-46</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>41-50</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>44-54</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>47-58</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>52-63</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>56-68</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>61-73</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>65-77</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>130</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>142</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>154</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>166</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>178</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>190</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>202</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>214</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>226</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>238</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>250</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>262</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>274</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>286</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>298</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>310</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>322</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>334</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>346</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>358</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>130</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>142</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>154</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>166</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>178</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>190</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>202</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>214</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>226</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>238</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>250</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>262</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>274</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>286</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>298</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>310</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>322</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>334</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>346</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>358</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Cold Length: 4 Seconds</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Cold Length: 4 Seconds</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -913,14 +913,14 @@ Defense bonus, plus any melee attacker that attacks you takes damage and is slow
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/shiverarmor01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/shiverarmor01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 70 KB ]
@@ -981,73 +981,73 @@ an area Freeze attack that Freezes monsters within a radius of 2.6 yards.<P>
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>10.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>11	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>11.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>12	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>12.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>13	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>13.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>14	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>14.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>15	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>15.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>16	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>16.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>17	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>17.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>18	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>18.5</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>19	</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>19.5</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18.5</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>19	</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>19.5</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>17-26</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>25-34</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>33-42</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>40-51</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>48-59</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>56-67</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>63-75</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>71-84</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>85-99</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>100-113</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>114-128</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>128-143</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>143-158</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>157-173</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>171-188</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>185-202</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>201-218</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>216-234</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>232-250</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>247-266</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17-26</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25-34</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33-42</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>40-51</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>48-59</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>56-67</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>63-75</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>71-84</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>85-99</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>100-113</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>114-128</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>128-143</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>143-158</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>157-173</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>171-188</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>185-202</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>201-218</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>216-234</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>232-250</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>247-266</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.1</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.7</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>2.9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.5</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.8</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>3.9</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.1</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Freeze Length (seconds)</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.1</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.7</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>2.9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.2</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.3</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.5</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.6</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.8</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>3.9</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.1</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4.2</font></TD>
 </TR>
 </table>
 <BR>
@@ -1064,19 +1064,19 @@ an area Freeze attack that Freezes monsters within a radius of 2.6 yards.<P>
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/glacierspike01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/glacierspike01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/glacierspike02.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/glacierspike02.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1085,7 +1085,7 @@ an area Freeze attack that Freezes monsters within a radius of 2.6 yards.<P>
 </small>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1148,53 +1148,53 @@ Summons an ice storm to rain cold death onto your enemies.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>23</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>24</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>28</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>32</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>33</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>34</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>35</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>36</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>37</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>38</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>39</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>40</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>41</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>42</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>23</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>28</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>32</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>34</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>36</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>37</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>38</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>39</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>40</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>41</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>42</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Damage per Second</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>51-86</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>69-104</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>86-123</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>103-141</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>120-159</font></TD>	
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>138-178</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>155-196</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>172-215</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>207-250</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>241-286</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>276-322</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>310-357</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>345-393</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>379-428	</font></TD>	
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>414-464</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>448-500</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>500-553</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>552-606</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>603-658</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>655-711</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Damage per Second</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>51-86</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>69-104</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>86-123</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>103-141</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>120-159</font></TD>	
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>138-178</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>155-196</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>172-215</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>207-250</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>241-286</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>276-322</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>310-357</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>345-393</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>379-428	</font></TD>	
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>414-464</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>448-500</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>500-553</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>552-606</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>603-658</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>655-711</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Duration: 4 Seconds</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Duration: 4 Seconds</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 </table>
@@ -1211,19 +1211,19 @@ Summons an ice storm to rain cold death onto your enemies.
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/blizzard01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/blizzard01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../../images/battle/diablo2exp/images/skills/blizzard02.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/blizzard02.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1233,7 +1233,7 @@ Summons an ice storm to rain cold death onto your enemies.
 </font>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1295,77 +1295,77 @@ Confers a defense bonus and launches an ice bolt against ranged attackers.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost: 17</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost: 17</font></TD>
 <TD colspan=20><font face="arial,helvetica" size=-1><small>&nbsp;</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>45</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>50</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>55</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>60</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>65</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>70</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>75</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>80</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>85</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>90</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>95</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>100</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>105</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>110</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>115</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>120</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>125</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>130</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>135</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>140</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Defense Bonus %</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>45</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>50</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>55</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>60</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>65</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>70</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>75</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>80</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>85</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>90</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>95</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>100</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>105</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>110</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>115</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>120</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>125</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>130</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>135</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>140</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>4-6</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>5-8</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>6-10</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>7-11</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>9-13</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>10-15</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>11-17</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>12-18</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>14-21</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>17-24</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>19-27</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>21-30</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>22-33</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>26-35</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>28-38</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>30-41</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>34-45</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>37-49</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>41-53</font></TD>		
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>44-57</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>4-6</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>5-8</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>6-10</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>7-11</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>9-13</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>10-15</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>11-17</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>12-18</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>14-21</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>17-24</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>19-27</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>21-30</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>22-33</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>26-35</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>28-38</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>30-41</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>34-45</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>37-49</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>41-53</font></TD>		
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>44-57</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>164</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>170</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>176</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>182</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>188</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>194</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>200</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>206</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>212</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>218</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>224</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>230</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>236</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>242</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>248</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>254</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>260</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>266</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>272</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>278</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Duration (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>164</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>170</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>176</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>182</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>188</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>194</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>200</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>206</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>212</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>218</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>224</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>230</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>236</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>242</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>248</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>254</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>260</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>266</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>272</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>278</font></TD>
 </TR>
 </table>
 <BR>
@@ -1382,14 +1382,14 @@ Confers a defense bonus and launches an ice bolt against ranged attackers.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/chillingarmor01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/chillingarmor01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 70 KB ]
@@ -1452,73 +1452,73 @@ A pulsating orb that shreds an area with ice bolts.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>28</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>28</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>29</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>30</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>31</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>32</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>32</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>33</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>33</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>34</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>34</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Mana Cost</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>28</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>28</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>29</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>31</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>32</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>32</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>33</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>34</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>34</font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>40-45</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>50-55</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>60-65</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>70-75</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>80-85</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>90-95</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>100-105</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>110-115</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>122-127</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>134-139</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>146-151</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>158-163</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>170-175</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>182-187</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>194-199</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>206-211</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>220-225</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>234-239</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>248-253</font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><small>262-267</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>Cold Damage</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>40-45</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>50-55</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>60-65</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>70-75</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>80-85</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>90-95</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>100-105</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>110-115</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>122-127</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>134-139</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>146-151</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>158-163</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>170-175</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>182-187</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>194-199</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>206-211</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>220-225</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>234-239</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>248-253</font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><small>262-267</font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>8</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>9</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>10</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>11</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>12</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>13</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>14</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>15</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>16</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>17</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>18</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>19</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>20</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>21</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>22</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>23</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>24</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>26</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>27</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Cold Length (seconds)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>8</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>9</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>10</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>11</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>12</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>13</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>14</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>15</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>16</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>17</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>18</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>19</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>21</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>22</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>23</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>24</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>26</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>27</font></TD>
 </TR>
 </table>
 <BR>
@@ -1532,14 +1532,14 @@ A pulsating orb that shreds an area with ice bolts.
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../../images/battle/diablo2exp/images/skills/frozenorb01.jpg" Target="new_window">
 <img src="../../images/battle/diablo2exp/images/skills/frozenorb01.gif" width=200 height=150 border=0></a>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 70 KB ]
@@ -1609,27 +1609,27 @@ will be 75% - 20% = 55%.
 <TH><font face="arial,helvetica" size=-1 color="#ffffff"><small>20</font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><small>Enemy Resistance -%</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><small>20</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>25</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>30</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>35</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>40</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>45</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>50</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>55</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>60</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>65</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>70</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>75</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>80</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>85</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>90</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>95</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>100</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>105</font></TD>		
-<TD align=center><font face="arial,helvetica" size=-1><small>110</font></TD>	
-<TD align=center><font face="arial,helvetica" size=-1><small>115</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>Enemy Resistance -%</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>20</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>25</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>30</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>35</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>40</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>45</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>50</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>55</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>60</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>65</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>70</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>75</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>80</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>85</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>90</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>95</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>100</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>105</font></TD>		
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>110</font></TD>	
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><small>115</font></TD>
 </TR>
 </table>
 <p>

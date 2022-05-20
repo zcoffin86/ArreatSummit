@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -208,7 +208,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -225,7 +225,7 @@
 </center><P>
 <Table border=0 cellpadding=5 width=100%>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/peltalunata.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Pelta Lunata</b></font></center>
@@ -252,7 +252,7 @@ Paladin Smite Damage: 1 To 3<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/umbraldisk.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Umbral Disk</b></font></center>
@@ -280,7 +280,7 @@ Paladin Smite Damage: 2 To 3<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/stormguild.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Stormguild</b></font></center>
@@ -307,7 +307,7 @@ Paladin Smite Damage: 2 To 4<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/steelclash.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Steelclash</b></font></center>
@@ -335,7 +335,7 @@ Paladin Smite Damage: 2 To 5<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/swordbackhold.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Swordback Hold</b></font></center>
@@ -360,7 +360,7 @@ Paladin Smite Damage: 5 To 9<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/bverritkeep.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Bverrit Keep</b></font></center>
@@ -386,7 +386,7 @@ Paladin Smite Damage: 1 To 5<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/walloftheeyeless.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>Wall of the Eyeless</b></font></center>
@@ -412,7 +412,7 @@ Paladin Smite Damage: 3 To 6<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/theward.gif" width=62 height="119">
 <center><font face="arial,helvetica" color=908858 size=-1><SPAN><b>The Ward</b></font></center>

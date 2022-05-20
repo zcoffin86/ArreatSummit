@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Item Basics</a> |
 <a class="tiny" href="weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -142,16 +142,16 @@
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>Original Rune Words</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Original Rune Words</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
 <TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Ancient's Pledge</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Shields</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Ral + Ort + Tal</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Ancient's Pledge</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Shields</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ral + Ort + Tal</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +50% Enhanced Defense<BR>
 Cold Resist +43%<BR>
@@ -163,10 +163,10 @@ Poison Resist +48%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858" ><span><B>Black</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Clubs/Hammers/Maces</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Thul + Io + Nef</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858" ><span><B>Black</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Clubs/Hammers/Maces</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Thul + Io + Nef</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +120% Enhanced Damage<BR>
 40% Chance Of Crushing Blow<BR>
@@ -181,10 +181,10 @@ Level 4 Corpse Explosion (12 Charges)
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858" ><span><B>Fury</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Melee Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Jah + Gul + Eth</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858" ><span><B>Fury</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Jah + Gul + Eth</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +209% Enhanced Damage<BR>
 40% Increased Attack Speed<BR>
@@ -200,10 +200,10 @@ Ignore Target's Defense<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Holy Thunder</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Scepters</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Eth + Ral + Ort + Tal</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Holy Thunder</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Scepters</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Eth + Ral + Ort + Tal</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +60% Enhanced Damage<BR>
 -25% Target Defense<BR>
@@ -219,10 +219,10 @@ Level 7 Chain Lightning (60 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Honor</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>5 Socket Melee Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Amn + El + Ith + Tir + Sol</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Honor</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>5 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Amn + El + Ith + Tir + Sol</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +160% Enhanced Damage<BR>
 +9 To Minimum Damage<BR>
@@ -239,10 +239,10 @@ Replenish Life +10<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>King's Grace</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Swords/Scepters</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Amn + Ral + Thul</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>King's Grace</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Swords/Scepters</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Amn + Ral + Thul</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +100% Enhanced Damage<BR>
 +100% Damage To Demons<BR>
@@ -257,10 +257,10 @@ Adds 3-14 Cold Damage - 3 Second Duration<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Leaf</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Staves* (Not Orbs)</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Tir + Ral</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Leaf</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Staves* (Not Orbs)</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Tir + Ral</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Adds 5-30 Fire Damage<BR>
 +3 To Fire Skills<BR>
@@ -274,10 +274,10 @@ Cold Resist +33%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lionheart</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Hel + Lum + Fal</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lionheart</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Hel + Lum + Fal</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +20% Enhanced Damage<BR>
 Requirements -15%<BR>
@@ -291,10 +291,10 @@ All Resistances +30
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lore</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Helms</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Ort + Sol</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lore</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Helms</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ort + Sol</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +1 To All Skill Levels<BR>
 +10 To Energy<BR>
@@ -306,10 +306,10 @@ Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Malice</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Melee Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ith + El + Eth</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Malice</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ith + El + Eth</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +33% Enhanced Damage<BR>
 +9 To Maximum Damage<BR>
@@ -323,10 +323,10 @@ Drain Life -5
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Melody</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Missile Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Shael + Ko + Nef</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Melody</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Shael + Ko + Nef</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +50% Enhanced Damage<BR>
 +300% Damage To Undead<BR>
@@ -341,10 +341,10 @@ Knockback
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Memory</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Staves (Not Orbs)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Lum + Io + Sol + Eth</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Memory</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Staves (Not Orbs)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Lum + Io + Sol + Eth</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +3 to Sorceress Skill Levels<BR>
 33% Faster Cast Rate<BR>
@@ -361,10 +361,10 @@ Magic Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Nadir</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Helms</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Nef + Tir</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Nadir</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Helms</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Nef + Tir</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +50% Enhanced Defense<BR>
 +10 Defense<BR>
@@ -378,10 +378,10 @@ Level 13 Cloak of Shadows (9 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Radiance</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Helms</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Nef + Sol + Ith</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Radiance</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Helms</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Nef + Sol + Ith</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +75% Enhanced Defense<BR>
 +30 Defense Vs. Missile<BR>
@@ -396,10 +396,10 @@ Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rhyme</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Shields</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Shael + Eth</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rhyme</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Shields</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Shael + Eth</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 20% Increased Chance of Blocking<BR>
 40% Faster Block Rate<BR>
@@ -412,10 +412,10 @@ Cannot Be Frozen<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Silence</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>6 Socket Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Dol + Eld + Hel + Ist + Tir + Vex</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Silence</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>6 Socket Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Dol + Eld + Hel + Ist + Tir + Vex</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 200% Enhanced Damage<BR>
 +75% Damage To Undead<BR>
@@ -434,10 +434,10 @@ Hit Blinds Target +33<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Smoke</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Nef + Lum</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Smoke</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Nef + Lum</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +75% Enhanced Defense<BR>
 +280 Defense Vs. Missile<BR>
@@ -450,10 +450,10 @@ Level 6 Weaken (18 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Stealth</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Tal + Eth</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Stealth</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Tal + Eth</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Magic Damage Reduced By 3<BR>
 +6 To Dexterity<BR>
@@ -467,10 +467,10 @@ Regenerate Mana 15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Steel</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Swords/Axes/Maces</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Tir + El</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Steel</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Swords/Axes/Maces</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Tir + El</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 20% Enhanced Damage<BR>
 +3 To Minimum Damage<BR>
@@ -484,10 +484,10 @@ Regenerate Mana 15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Strength</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>2 Socket Melee Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Amn + Tir</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Strength</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>2 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Amn + Tir</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 35% Enhanced Damage<BR>
 25% Chance Of Crushing Blow<BR>
@@ -499,10 +499,10 @@ Regenerate Mana 15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Venom</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Tal + Dol + Mal</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Venom</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Tal + Dol + Mal</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Hit Causes Monster To Flee 25%<BR>
 Prevent Monster Heal<BR>
@@ -515,10 +515,10 @@ Level 13 Poison Nova (11 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wealth</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Lem + Ko + Tir</span></font></TD>
-<TD align=center  bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wealth</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Lem + Ko + Tir</span></font></TD>
+<TD style="text-align:center;"  bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 300% Extra Gold From Monsters<BR>
 100% Better Chance Of Getting Magic Items<BR>
@@ -528,10 +528,10 @@ Level 13 Poison Nova (11 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>White</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Wand</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Dol + Io</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>White</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Wand</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Dol + Io</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Hit Causes Monster To Flee 25%<BR>
 +10 To Vitality<BR>
@@ -546,10 +546,10 @@ Magic Damage Reduced By 4<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Zephyr</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>2 Socket Missile Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ort + Eth</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Zephyr</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>2 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ort + Eth</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +33% Enhanced Damage<BR>
 +66 To Attack Rating<BR>

@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Item Basics</a> |
 <a class="tiny" href="weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -143,16 +143,16 @@
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>1.10 Rune Words</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>1.10 Rune Words</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
 <TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Beast</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>5 Socket Axes/Scepters/Hammers</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ber + Tir + Um + Mal + Lum</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Beast</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>5 Socket Axes/Scepters/Hammers</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ber + Tir + Um + Mal + Lum</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 9 Fanaticism Aura When Equipped<BR>
 +40% Increased Attack Speed<BR>
@@ -170,10 +170,10 @@ Level 13 Summon Grizzly (5 Charges)
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Bramble</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Ral + Ohm + Sur + Eth</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Bramble</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ral + Ohm + Sur + Eth</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 15-21 Thorns Aura When Equipped (varies)<BR>
 +50% Faster Hit Recovery<BR>
@@ -190,10 +190,10 @@ Level 13 Spirit of Barbs (33 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Breath of the Dying</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>6 Socket Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Vex + Hel + El + Eld + Zod + Eth</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Breath of the Dying</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>6 Socket Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Vex + Hel + El + Eld + Zod + Eth</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 50% Chance To Cast Level 20 Poison Nova When You Kill An Enemy<BR>
 Indestructible<BR>
@@ -213,10 +213,10 @@ Requirements -20%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Call To Arms*</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>5 Socket Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Amn + Ral + Mal + Ist + Ohm</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Call To Arms*</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>5 Socket Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Amn + Ral + Mal + Ist + Ohm</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +1 To All Skills<BR>
 +40% Increased Attack Speed<BR>
@@ -233,10 +233,10 @@ Replenish Life +12<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Chains of Honor</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Dol + Um + Ber + Ist</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Chains of Honor</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Dol + Um + Ber + Ist</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +2 To All Skills<BR>
 +200% Damage To Demons<BR>
@@ -252,10 +252,10 @@ Damage Reduced By 8%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Chaos</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Claws</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Fal + Ohm + Um</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Chaos</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Claws</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Fal + Ohm + Um</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 9% Chance To Cast Level 11 Frozen Orb On Striking<BR>
 11% Chance To Cast Level 9 Charged Bolt On Striking<BR>
@@ -270,10 +270,10 @@ Adds 216-471 Magic Damage<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Crescent Moon</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Axes/Swords/Polearms</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Shael + Um + Tir</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Crescent Moon</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Axes/Swords/Polearms</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Shael + Um + Tir</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 10% Chance To Cast Level 17 Chain Lightning On Striking<BR>
 7% Chance To Cast Level 13 Static Field On Striking<BR>
@@ -289,10 +289,10 @@ Level 18 Summon Spirit Wolf (30 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Delirium*</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Helms</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Lem + Ist + Io</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Delirium*</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Helms</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Lem + Ist + Io</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 1% Chance To Cast Level 50 Delirium* (morph) When Struck<BR>
 6% Chance To Cast Level 14 Mind Blast When Struck<BR>
@@ -308,10 +308,10 @@ Level 17 Attract (60 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Doom</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>5 Socket Axes/Polearms/Hammers</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Hel + Ohm + Um + Lo + Cham</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Doom</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>5 Socket Axes/Polearms/Hammers</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Hel + Ohm + Um + Lo + Cham</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 5% Chance To Cast Level 18 Volcano On Striking<BR>
 Level 12 Holy Freeze Aura When Equipped<BR>
@@ -328,10 +328,10 @@ Requirements -20%
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Duress</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Shael + Um + Thul</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Duress</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Shael + Um + Thul</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +40% Faster Hit Recovery<BR>
 +10-20% Enhanced Damage (varies)<BR>
@@ -348,10 +348,10 @@ Poison Resist +15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Enigma</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Jah + Ith + Ber</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Enigma</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Jah + Ith + Ber</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +2 To All Skills<BR>
 +45% Faster Run/Walk<BR>
@@ -367,10 +367,10 @@ Damage Reduced By 8%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Eternity</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>5 Socket Melee Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Amn + Ber + Ist + Sol + Sur</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Eternity</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>5 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Amn + Ber + Ist + Sol + Sur</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Indestructible<BR>
 +260-310% Enhanced Damage (varies)<BR>
@@ -388,10 +388,10 @@ Level 8 Revive (88 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Exile</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Paladin Shields (only)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Vex + Ohm + Ist + Dol</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Exile</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Paladin Shields (only)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Vex + Ohm + Ist + Dol</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 15% Chance To Cast Level 5 Life Tap On Striking<BR>
 Level 13-16 Defiance Aura When Equipped (varies)<BR>
@@ -407,10 +407,10 @@ Repairs 1 Durability in 4 Seconds
 </font>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Famine</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Axes/Hammers</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Fal + Ohm + Ort + Jah</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Famine</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Axes/Hammers</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Fal + Ohm + Ort + Jah</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +30% Increased Attack Speed<BR>
 +320-370% Enhanced Damage (varies)<BR>
@@ -426,10 +426,10 @@ Prevent Monster Heal<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Gloom</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Fal + Um + Pul</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Gloom</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Fal + Um + Pul</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 15% Chance To Cast Level 3 Dim Vision When Struck<BR>
 +10% Faster Hit Recovery<BR>
@@ -443,10 +443,10 @@ Half Freeze Duration<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Hand of Justice*</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Sur + Cham + Amn + Lo</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Hand of Justice*</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Sur + Cham + Amn + Lo</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 100% Chance To Cast Level 36 Blaze When You Level-Up<BR>
 100% Chance To Cast Level 48 Meteor When You Die<BR>
@@ -463,10 +463,10 @@ Freezes Target +3
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Heart of the Oak</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Staves/Maces*</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ko + Vex + Pul + Thul</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Heart of the Oak</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Staves/Maces*</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ko + Vex + Pul + Thul</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +3 To All Skills<BR>
 +40% Faster Cast Rate<BR>
@@ -484,10 +484,10 @@ Level 14 Raven (60 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Kingslayer</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Swords/Axes</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Mal + Um + Gul + Fal</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Kingslayer</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Swords/Axes</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Mal + Um + Gul + Fal</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +30% Increased Attack Speed<BR>
 +230-270% Enhanced Damage (varies)<BR>
@@ -503,10 +503,10 @@ Prevent Monster Heal<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Passion</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Dol + Ort + Eld + Lem</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Passion</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Dol + Ort + Eld + Lem</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +25% Increased Attack Speed<BR>
 +160-210% Enhanced Damage (varies)<BR>
@@ -524,10 +524,10 @@ Level 3 Heart of Wolverine (12 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Prudence</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Mal + Tir</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Prudence</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Mal + Tir</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +25% Faster Hit Recovery<BR>
 +140-170% Enhanced Defense (varies)<BR>
@@ -541,10 +541,10 @@ Repairs Durability 1 In 4 Seconds<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Sanctuary</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Shields</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ko + Ko + Mal</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Sanctuary</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Shields</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ko + Ko + Mal</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +20% Faster Hit Recovery<BR>
 +20% Faster Block Rate<BR>
@@ -558,10 +558,10 @@ Level 12 Slow Missiles (60 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Splendor</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Shields</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Eth + Lum</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Splendor</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Shields</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Eth + Lum</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +1 To All Skills<BR>
 +10% Faster Cast Rate<BR>
@@ -575,10 +575,10 @@ Regenerate Mana 15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Stone</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Shael + Um + Pul + Lum</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Stone</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Shael + Um + Pul + Lum</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 +60% Faster Hit Recovery<BR>
 +250-290% Enhanced Defense (varies)<BR>
@@ -593,10 +593,10 @@ Level 16 Clay Golem (16 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wind</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>2 Socket Melee Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Sur + El</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wind</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>2 Socket Melee Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Sur + El</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 10% Chance To Cast Level 9 Tornado On Striking<BR>
 +20% Faster Run/Walk<BR>
@@ -622,16 +622,16 @@ open characters or non-ladder characters</B>
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>Ladder Rune Words</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ladder Rune Words</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
 <TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Brand</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Jah + Lo + Mal + Gul</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Brand</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Jah + Lo + Mal + Gul</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 35% Chance To Cast Level 14 Amplify Damage When Struck<BR>
 100% Chance To Cast Level 18 Bone Spear On Striking<BR>
@@ -647,10 +647,10 @@ Fires Explosive Arrows or Bolts (15)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Death</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>5 Socket Swords/Axes</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Hel + El + Vex + Ort + Gul</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Death</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>5 Socket Swords/Axes</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Hel + El + Vex + Ort + Gul</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 100% Chance To Cast Level 44 Chain Lightning When You Die<BR>
 25% Chance To Cast Level 18 Glacial Spike On Attack<BR>
@@ -669,10 +669,10 @@ Requirements -20%
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Destruction</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>5 Socket Polearms/Swords</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Vex + Lo + Ber + Jah + Ko</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Destruction</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>5 Socket Polearms/Swords</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Vex + Lo + Ber + Jah + Ko</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 23% Chance To Cast Level 12 Volcano On Striking<BR>
 5% Chance To Cast Level 23 Molten Boulder On Striking<BR>
@@ -690,10 +690,10 @@ Prevent Monster Heal<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Dragon</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Body Armor/Shields</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Sur + Lo + Sol</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Dragon</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor/Shields</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Sur + Lo + Sol</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 20% Chance to Cast Level 18 Venom When Struck<BR>
 12% Chance To Cast Level 15 Hydra On Striking<BR>
@@ -710,10 +710,10 @@ Damage Reduced by 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Dream</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Helms/Shields</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Io + Jah + Pul</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Dream</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Helms/Shields</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Io + Jah + Pul</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 10% Chance To Cast Level 15 Confuse When Struck<BR>
 Level 15 Holy Shock Aura When Equipped<BR>
@@ -730,10 +730,10 @@ All Resistances +5-20 (varies)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Edge</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Missile Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Tir + Tal + Amn</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Edge</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Tir + Tal + Amn</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 15 Thorns Aura When Equipped<BR>
 +35% Increased Attack Speed<BR>
@@ -749,10 +749,10 @@ Reduces All Vendor Prices 15%!!!*
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Faith</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ohm + Jah + Lem + Eld</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Faith</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ohm + Jah + Lem + Eld</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 12-15 Fanaticism Aura When Equipped (varies)<BR>
 +1-2 To All Skills (varies)<BR>
@@ -769,10 +769,10 @@ All Resistances +15<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Fortitude</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Weapons/Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>El + Sol + Dol + Lo</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Fortitude</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Weapons/Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>El + Sol + Dol + Lo</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 <B>Weapons</B><BR>
 20% Chance To Cast Level 15 Chilling Armor when Struck<BR>
@@ -805,10 +805,10 @@ Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Grief</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>5 Socket Swords/Axes</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Eth + Tir + Lo + Mal + Ral</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Grief</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>5 Socket Swords/Axes</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Eth + Tir + Lo + Mal + Ral</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 35% Chance To Cast Level 15 Venom On Striking<BR>
 +30-40% Increased Attack Speed (varies)<BR>
@@ -826,10 +826,10 @@ Prevent Monster Heal<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Harmony</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Tir + Ith + Sol + Ko</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Harmony</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Tir + Ith + Sol + Ko</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 10 Vigor Aura When Equipped<BR>
 +200-275% Enhanced Damage (varies)<BR>
@@ -848,10 +848,10 @@ Level 20 Revive (25 Charges)
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Ice</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Amn + Shael + Jah + Lo</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Ice</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Amn + Shael + Jah + Lo</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 100% Chance To Cast Level 40 Blizzard When You Level-up<BR>
 25% Chance To Cast Level 22 Frost Nova On Striking<BR>
@@ -868,10 +868,10 @@ Ignore Target's Defense<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Infinity</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Polearms</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Ber + Mal + Ber + Ist</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Infinity</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Polearms</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ber + Mal + Ber + Ist</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 50% Chance To Cast Level 20 Chain Lightning When You Kill An Enemy<BR>
 Level 12 Conviction Aura When Equipped<BR>
@@ -887,10 +887,10 @@ Level 21 Cyclone Armor (30 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Insight</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Polearms/Staves</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ral + Tir + Tal + Sol</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Insight</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Polearms/Staves</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ral + Tir + Tal + Sol</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 Level 12-17 Meditation Aura When Equipped (varies)<BR>
 +35% Faster Cast Rate<BR>
@@ -907,10 +907,10 @@ Adds 5-30 Fire Damage<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Last Wish</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>6 Socket Swords/Hammers/Axes</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Jah + Mal + Jah + Sur + Jah + Ber</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Last Wish</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>6 Socket Swords/Hammers/Axes</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Jah + Mal + Jah + Sur + Jah + Ber</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 6% Chance To Cast Level 11 Fade When Struck<BR>
 10% Chance To Cast Level 18 Life Tap On Striking<BR>
@@ -926,10 +926,10 @@ Hit Blinds Target<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lawbringer</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Swords/Hammers/Scepters </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Amn + Lem + Ko</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Lawbringer</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Swords/Hammers/Scepters </span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Amn + Lem + Ko</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 20% Chance To Cast Level 15 Decrepify On Striking<BR>
 Level 16-18 Sanctuary Aura When Equipped (varies)<BR>
@@ -945,10 +945,10 @@ Slain Monsters Rest In Peace<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Oath</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Swords/Axes/Maces</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Shael + Pul + Mal + Lum</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Oath</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Swords/Axes/Maces</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Shael + Pul + Mal + Lum</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 30% Chance To Cast Level 20 Bone Spirit On Striking<BR>
 Indestructible<BR>
@@ -965,10 +965,10 @@ Level 17 Iron Golem (14 Charges)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Obedience</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>5 Socket Polearms</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Hel + Ko + Thul + Eth + Fal</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Obedience</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>5 Socket Polearms</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Hel + Ko + Thul + Eth + Fal</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 30% Chance To Cast Level 21 Enchant When You Kill An Enemy<BR>
 40% Faster Hit Recovery<BR>
@@ -986,10 +986,10 @@ Requirements -20%
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Phoenix</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Weapons/Shields</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Vex + Vex + Lo + Jah</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Phoenix</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Weapons/Shields</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Vex + Vex + Lo + Jah</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 <B>Weapons</B><BR>
 100% Chance To Cast level 40 Blaze When You Level-up<BR>
@@ -1018,10 +1018,10 @@ Level 10-15 Redemption Aura When Equipped (varies)<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Pride</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Polearms</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Cham + Sur + Io + Lo</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Pride</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Polearms</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Cham + Sur + Io + Lo</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 25% Chance To Cast Level 17 Fire Wall When Struck<BR>
 Level 16-20 Concentration Aura When Equipped (varies)<BR>
@@ -1038,10 +1038,10 @@ Replenish Life +8<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rift</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Polearms/Scepters</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Hel + Ko + Lem + Gul</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rift</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Polearms/Scepters</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Hel + Ko + Lem + Gul</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 20% Chance To Cast Level 16 Tornado On Striking<BR>
 16% Chance To Cast Level 21 Frozen Orb On Attack<BR>
@@ -1058,10 +1058,10 @@ Requirements -20%
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Spirit</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Swords/Shields</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Tal + Thul + Ort + Amn</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Spirit</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Swords/Shields</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Tal + Thul + Ort + Amn</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 <B>Weapons</B><BR>
 +2 To All Skills<BR>
@@ -1092,10 +1092,10 @@ Attacker Takes Damage of 14
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Voice of Reason</B></span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>4 Socket Swords/Maces</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Lem + Ko + El + Eld</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Voice of Reason</B></span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>4 Socket Swords/Maces</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Lem + Ko + El + Eld</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 15% Chance To Cast Level 13 Frozen Orb On Striking<BR>
 18% Chance To Cast Level 20 Ice Blast On Striking<BR>
@@ -1113,10 +1113,10 @@ Cannot Be Frozen<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wrath</B></span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Pul + Lum + Ber + Mal</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Wrath</B></span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>4 Socket Missile Weapons</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Pul + Lum + Ber + Mal</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 30% Chance To Cast Level 1 Decrepify On Striking<BR>
 5% Chance To Cast Level 10 Life Tap On Striking<BR>
@@ -1156,19 +1156,19 @@ You can also do normal attacks in the form of a headbutt.
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/items/delirium01.jpg" target="new_window">
 <img src="../images/items/delirium01.gif" border=0 width=200 height=150>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/items/delirium02.jpg" target="new_window">
 <img src="../images/items/delirium02.gif" border=0 width=200 height=150>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1178,7 +1178,7 @@ You can also do normal attacks in the form of a headbutt.
 <br>
 Bone Fetish!
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <font size=-1 face="arial,helvetica">
 <P>
 <small><font color="#ffffff">
@@ -1197,37 +1197,37 @@ Bone Fetish!
 <table border=0 cellpadding=0 cellspacing=0 width=240>
  <col width=80 span=3>
  <tr>
-  <th rowspan=2 align=center><span><font size=-1 face="arial,helvetica">X</span></th>
-  <th colspan=2 align=center><span><font size=-1 face="arial,helvetica">Life at Level</span></th>
+  <th rowspan=2 style="text-align:center;"><span><font size=-1 face="arial,helvetica">X</span></th>
+  <th colspan=2 style="text-align:center;"><span><font size=-1 face="arial,helvetica">Life at Level</span></th>
  </tr>
  <tr>
   <th valign=center><span>1<font color=black></span></th>
   <th valign=center><span>99<font color=black></span></th>
  </tr>
  <tr>
-  <td bgcolor="#20100a" align=center>1</td>
-  <td bgcolor="#20100a" align=center>1</td>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">99</td>
+  <td style="text-align:center;background-color:#20100a;">1</td>
+  <td style="text-align:center;background-color:#20100a;">1</td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">99</td>
  </tr>
  <tr>
-  <td align=center><font size=-1 face="arial,helvetica">&nbsp; 1.125</td>
-  <td align=center><font size=-1 face="arial,helvetica">&nbsp; 1.125</td>
-  <td align=center><font size=-1 face="arial,helvetica">&nbsp; 111.375</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica">&nbsp; 1.125</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica">&nbsp; 1.125</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica">&nbsp; 111.375</td>
  </tr>
  <tr>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 1.25<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 1.25<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 123.75<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 1.25<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 1.25<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 123.75<font color="#20100a"><font size=-1 face="arial,helvetica">0</font></td>
  </tr>
  <tr>
-  <td align=center><font size=-1 face="arial,helvetica" align=center>&nbsp; 1.375</td>
-  <td align=center><font size=-1 face="arial,helvetica" align=center>&nbsp; 1.375</td>
-  <td align=center><font size=-1 face="arial,helvetica" align=center>&nbsp; 136.125</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica" style="text-align:center;">&nbsp; 1.375</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica" style="text-align:center;">&nbsp; 1.375</td>
+  <td style="text-align:center;"><font size=-1 face="arial,helvetica" style="text-align:center;">&nbsp; 136.125</td>
  </tr>
  <tr>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 1.5<font color="#20100a">00</font></td>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 1.5<font color="#20100a">00</font></td>
-  <td bgcolor="#20100a" align=center><font size=-1 face="arial,helvetica">&nbsp; 148.5<font color="#20100a">00</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 1.5<font color="#20100a">00</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 1.5<font color="#20100a">00</font></td>
+  <td style="text-align:center;background-color:#20100a;"><font size=-1 face="arial,helvetica">&nbsp; 148.5<font color="#20100a">00</font></td>
  </tr>
 </table>
 <P>

@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 &nbsp;
 		</small></font>
@@ -103,7 +103,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../images/battle/diablo2exp/images/headers/shrines-shrines.gif" alt="Shrines and Wells" border=0 width=275 height=60></td>
+		<td background="../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../images/battle/diablo2exp/images/headers/shrines-shrines.gif" alt="Shrines and Wells" border=0 width=275 height=60></td>
 		<td background="../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -145,134 +145,134 @@ Shrines that have a duration and Wells can be used to counter or remove the effe
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/manarecharge.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><B><span>Mana Recharge Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+400% mana recharge rate</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>96</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>96</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/armor.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Armor Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+100% Defense</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>96</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>96</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/combat.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Combat Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+200% to Attack Rating, +200% min and max damage</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>96</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>96</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/resistfire.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Resist Fire Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+75% to resist fire</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>144</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>144</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/resistcold.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Resist Cold Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+75% to resist cold</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>144</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>144</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/resistlightning.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Resist Lightning Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+75% to resist lightning</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>144</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>144</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/resistpoison.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Resist Poison Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+75% to resist poison</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>144</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>144</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/skill.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Skill Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>+2 to all skill levels</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>96</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>96</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/stamina.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Stamina Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Unlimited Stamina</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>5</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>192</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>5</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>192</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/experience.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><B><span>Experience Boost</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>50% more experience per kill</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>144</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>144</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><B><span>Refilling Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Fills health and Mana</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>2</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>2</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Health Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Fully refills Health</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>2</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>2</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Mana Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Fully refills Mana</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>2</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>2</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Portal Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Opens a portal to the Town in the act</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Fire Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>All players and monsters lose 1/2 current HP, Fireballs</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Monster Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>The nearest monster becomes a Unique or Champion monster</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Gem Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Upgrades a Random Gem or Skull in your Inventory or gives a chipped Gem or Skull</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Exploding Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Gives player 5-10 exploding potions and tosses out 5 exploding potions in random directions/distances</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 <tr>
 <td valign=center><img src="../images/battle/diablo2exp/images/shrines/blank.gif" border=0 width=65 height=75></td>
 <td valign=center><font face="arial,helvetica" size=-1><b><span>Poison Shrine</span></b></font></td>
 <td valign=center><font face="arial,helvetica" size=-1><span>Gives player 5-10 Poison gas Potions &amp; Creates ring of Poison gas around shrine. The Poison Shrine also has another (hidden) bonus of making Poison Duration = 0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
-<td align=center><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><span>0</span></font></td>
 </tr>
 </table><p>
 <b>Notes</b><p>

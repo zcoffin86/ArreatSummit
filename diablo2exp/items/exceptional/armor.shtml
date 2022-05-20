@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -158,7 +158,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-exceptional.gif" alt="Exceptional Items" border=0 width=300 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-exceptional.gif" alt="Exceptional Items" border=0 width=300 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -202,199 +202,199 @@ can be offset to some extent by increasing your character's vitality.
 <TH><font face="arial,helvetica" size=-1><SPAN>Quality Level</font></TH>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/quilted.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/quilted.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Ghost Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>102-117</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>22</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>38</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>34</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>102-117</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>22</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>38</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>34</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/leather.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/leather.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Serpentskin Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>111-126</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>24</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>43</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>24</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>36</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>111-126</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>24</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>43</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>24</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>36</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/hardleather.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/hardleather.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Demonhide Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>122-136</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>28</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>37</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>122-136</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>28</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>37</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/studdedleather.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/studdedleather.gif" width=62 height="91">
 <BR CLEAR=LEFT>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Trellised Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>138-153</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>61</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>32</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>138-153</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>61</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>32</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>2</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/ringmail.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/ringmail.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Linked Mail</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>158-172</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>74</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>26</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>42</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>158-172</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>74</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>26</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>42</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/scalemail.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/scalemail.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Tigulated Mail</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>176-190</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>86</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>36</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>43</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>176-190</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>86</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>36</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>43</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/breastplate.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/breastplate.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Cuirass</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>188-202</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>65</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>50</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>47</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>188-202</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>65</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>50</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>47</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/chainmail.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/chainmail.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Mesh Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>198-213</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>92</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>198-213</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>92</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/splintmail.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/splintmail.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Russet Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>225-243</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>97</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>49</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>225-243</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>97</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>49</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/lightplate.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/lightplate.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Mage Plate</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>225-261</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>225-261</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Light</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/fieldplate.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/fieldplate.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Sharktooth Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>242-258</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>103</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>48</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>242-258</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>103</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>48</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/platemail.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/platemail.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Templar Coat</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>252-274</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>118</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>52</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>252-274</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>118</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>3</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>52</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/gothicplate.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/gothicplate.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Embossed Plate</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>282-303</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>125</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>55</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>58</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>282-303</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>125</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>55</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>58</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/fullplate.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/fullplate.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Chaos Armor</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>315-342</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>140</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>70</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>61</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>315-342</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>140</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>70</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Heavy</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>61</font></td>
 </TR>
 <TR>
-<TD align=center><img src="../../../images/battle/diablo2exp/images/items/armor/ancientarmor.gif" width=62 height="91">
+<TD style="text-align:center;"><img src="../../../images/battle/diablo2exp/images/items/armor/ancientarmor.gif" width=62 height="91">
 <br Clear=left>
 <BR><font face="arial,helvetica" size=-1><SPAN><b>Ornate Plate</b></font>
 </td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>417-450</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>170</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
-<TD align=center><font face="arial,helvetica" size=-1><SPAN>64</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>417-450</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>25</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>170</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>4</SPAN></font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Medium</font></td>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>64</font></td>
 </TR>
 </table>
 </CENTER>

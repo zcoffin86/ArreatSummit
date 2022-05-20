@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Monster Basics</a> |
 <a class="tiny" href="bonus.shtml">Monster Bonuses</a> |
@@ -149,7 +149,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-act1.gif" alt="Act I Bestiary" border=0 width=250 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-act1.gif" alt="Act I Bestiary" border=0 width=250 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -191,7 +191,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
+		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -219,21 +219,21 @@
                 </th>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"> 
+                <td nowrap style="text-align:center;" bgcolor="#222222"> 
                   <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Foul 
                     Crow </b></small></span></font></div>
                 </td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
                   Hawk</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
                   Raptor</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
                   Stalker</small></span></font></b></td>
               </tr>
             </table>
@@ -245,44 +245,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>58</small></span></font></td>
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>80</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>58</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>80</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>60</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>71</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>60</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>71</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>61</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>77</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>61</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>77</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>62</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>82</small></span></font></td>
-              </tr>
-            </table>
-          </th>
-                      <th nowrap >
-            <table width="100%" border="0" cellspacing="2" cellpadding="0">
-              <tr> 
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
-              </tr>
-              <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>7985</small></span></font></td>
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>33300</small></span></font></td>
-              </tr>
-              <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>8973</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>24126</small></span></font></td>
-              </tr>
-              <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>9510</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>30242</small></span></font></td>
-              </tr>
-              <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>10081</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>35338</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>62</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>82</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -293,20 +269,44 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>510-701</small></span></font></td>
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>1682-3083</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>7985</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>33300</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>537-739</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1371-2514</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>8973</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>24126</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>551-758</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1578-2894</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>9510</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>30242</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>564-776</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1751-3210</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>10081</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>35338</small></span></font></td>
+              </tr>
+            </table>
+          </th>
+                      <th nowrap >
+            <table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr> 
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
+              </tr>
+              <tr> 
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>510-701</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1682-3083</small></span></font></td>
+              </tr>
+              <tr> 
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>537-739</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1371-2514</small></span></font></td>
+              </tr>
+              <tr> 
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>551-758</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1578-2894</small></span></font></td>
+              </tr>
+              <tr> 
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>564-776</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1751-3210</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -334,21 +334,21 @@
                 </th>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"> 
+                <td nowrap style="text-align:center;" bgcolor="#222222"> 
                   <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Foul 
                     Crow </b></small></span></font></div>
                 </td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
                   Hawk</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
                   Raptor</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
                   Stalker</small></span></font></b></td>
               </tr>
             </table>
@@ -360,44 +360,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>43-67</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>81-127</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>43-67</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>81-127</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>44-68</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>72-113</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>44-68</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>72-113</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>78-121</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>78-121</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>83-130</small></span></font></td>
-              </tr>
-            </table>
-          </th>
-                      <th nowrap >
-            <table width="100%" border="0" cellspacing="2" cellpadding="0">
-              <tr> 
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
-              </tr>
-              <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>1134</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>3218</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1170</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>2876</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1188</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3104</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1206</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3294</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>83-130</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -408,20 +384,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>43-67</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>81-127</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1134</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3218</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>44-68</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>72-113</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1170</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>2876</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>78-121</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1188</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3104</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>83-130</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1206</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3294</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -432,20 +408,44 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>1134</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>3218</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>43-67</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>81-127</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1170</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>2876</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>44-68</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>72-113</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1188</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3104</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>78-121</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1206</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3294</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>45-71</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>83-130</small></span></font></td>
+              </tr>
+            </table>
+          </th>
+                      <th nowrap >
+            <table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr> 
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1134</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3218</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1170</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>2876</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1188</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3104</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>1206</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>3294</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -472,21 +472,21 @@
                 </th>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"> 
+                <td nowrap style="text-align:center;" bgcolor="#222222"> 
                   <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Foul 
                     Crow </b></small></span></font></div>
                 </td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
                   Hawk</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
                   Raptor</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
                   Stalker</small></span></font></b></td>
               </tr>
             </table>
@@ -498,20 +498,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>990</small></span></font></td>
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>1953</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>990</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>1953</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1020</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1756</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1020</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1756</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1035</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1887</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1035</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1887</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1050</small></span></font></td>
-                <td nowrap align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1997</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1050</small></span></font></td>
+                <td nowrap style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>1997</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -521,16 +521,16 @@
                 <th nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small></small></span></font><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font><font face="arial,helvetica" size=-1><span><small><b>/Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>10</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>10</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>10</small></span></font></td>
               </tr>
             </table>
                       </th>
@@ -541,20 +541,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
               </tr>
               <tr> 
-                <td nowrap align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>60</small></span></font></td>
+                <td nowrap style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>60</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -565,20 +565,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>40</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>50</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>50</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>50</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>50</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -605,21 +605,21 @@
                 </th>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"> 
+                <td nowrap style="text-align:center;" bgcolor="#222222"> 
                   <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Foul 
                     Crow </b></small></span></font></div>
                 </td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Blood 
                   Hawk</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Black 
                   Raptor</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Cloud 
                   Stalker</small></span></font></b></td>
               </tr>
             </table>
@@ -631,44 +631,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>33</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>33</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>80</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>80</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>33</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>33</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>50</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>50</small></span></font></td>
-              </tr>
-            </table>
-          </th>
-                      <th nowrap >
-            <table width="100%" border="0" cellspacing="2" cellpadding="0">
-              <tr> 
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
-              </tr>
-              <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>80</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>120</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>50</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>50</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -679,20 +655,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>25</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>80</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>120</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>25</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>25</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
-                <td align=center><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>15</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -703,20 +679,44 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>25</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>25</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>110</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>25</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>100</small></span></font></td>
+              </tr>
+            </table>
+          </th>
+                      <th nowrap >
+            <table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr> 
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>110</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>0</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -741,21 +741,21 @@
                 </th>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"> 
+                <td nowrap style="text-align:center;" bgcolor="#222222"> 
                   <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Foul 
                     Crow </b></small></span></font></div>
                 </td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Blood 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Blood 
                   Hawk</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Black 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Black 
                   Raptor</small></span></font></b></td>
               </tr>
               <tr> 
-                <td nowrap align=center bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Cloud 
+                <td nowrap style="text-align:center;" bgcolor="#222222"><b><font size="-1" face="Arial, Helvetica, sans-serif"><span><small>Cloud 
                   Stalker</small></span></font></b></td>
               </tr>
             </table>
@@ -767,44 +767,20 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>100</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
-              </tr>
-            </table>
-          </th>
-                      <th nowrap >
-            <table width="100%" border="0" cellspacing="2" cellpadding="0">
-              <tr> 
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
-                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
-              </tr>
-              <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>Cold</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>-</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Fire</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Poison</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Poison</small></span></font></td>
-              </tr>
-              <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Lightning</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Lightning</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>100</small></span></font></td>
               </tr>
             </table>
           </th>
@@ -815,20 +791,44 @@
                 <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
               </tr>
               <tr> 
-                <td align=center><font face="arial,helvetica" size=-1><span><small>40</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
-                <td align=center><font face="arial,helvetica" size=-1><span><small>33</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>-</small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>Cold</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>-</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Fire</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Poison</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Poison</small></span></font></td>
               </tr>
               <tr> 
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
-                <td align=center><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Lightning</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>Lightning</small></span></font></td>
+              </tr>
+            </table>
+          </th>
+                      <th nowrap >
+            <table width="100%" border="0" cellspacing="2" cellpadding="0">
+              <tr> 
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Night</b></small></span></font></th>
+                <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>40</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
+                <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>33</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
+              </tr>
+              <tr> 
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>40</small></span></font></td>
+                <td style="text-align:center;"><font face="Arial, Helvetica, sans-serif" size="-1"><span><small>33</small></span></font></td>
               </tr>
             </table>
           </th>

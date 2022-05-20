@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -207,7 +207,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/headers/items-unique.gif" alt="Unique" border=0 width=225 height=60></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -224,7 +224,7 @@
 </center><P>
 <Table border=0 cellpadding=5 width=100%>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/rixotskeen.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Bloodletter</b></font></center>
@@ -251,7 +251,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/bloodcrescent.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Coldsteel Eye</b></font></center>
@@ -277,7 +277,7 @@ Base Weapon Speed: [-30]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/krintizskewer.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Hexfire</b></font></center>
@@ -304,7 +304,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/bladeofalibaba.gif" width=20 height="77">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Blade Of Ali Baba</b></font></center>
@@ -330,7 +330,7 @@ Base Weapon Speed: [20]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/riftlash.gif" width=38 height="83">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Ginther's Rift</b></font></center>
@@ -355,7 +355,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/headstriker.gif" width=44 height="81">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Headstriker</b></font></center>
@@ -380,7 +380,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/plaguebearer.gif" width=40 height="79">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Plague Bearer</b></font></center>
@@ -406,7 +406,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <a name="culwens"></a>
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/atlantean.gif" width=23 height="80">
@@ -434,7 +434,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/shadowfang.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Crainte Vomir</b></font></center>
@@ -461,7 +461,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/soulflay.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Bing Sz Wang</b></font></center>
@@ -488,7 +488,7 @@ Base Weapon Speed: [10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/kinemilsawl.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>The Vile Husk</b></font></center>
@@ -516,7 +516,7 @@ Base Weapon Speed: [0]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/blacktongue.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Cloudcrack</b></font></center>
@@ -546,7 +546,7 @@ Base Weapon Speed: [10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/todesfaelleflamme.gif" width=39 height="107">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Todesfaelle Flamme</b></font></center>
@@ -574,7 +574,7 @@ Base Weapon Speed: [-10]<BR>
 </font></td>
 </TR>
 <TR>
-<TD align=center>
+<TD style="text-align:center;">
 <font face="arial,helvetica" size=-1><span>
 <img src="../../../images/battle/diablo2exp/images/items/uniques/swordguard.gif" width=62 height="118">
 <center><font face="arial,helvetica" color="#908858" size=-1><SPAN><b>Swordguard</b></font></center>

@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Item Basics</a> |
 <a class="tiny" href="weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-runewords.gif" alt="Rune Words" border=0></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -146,16 +146,16 @@ These Rune Words will work in single-player, for Open Characters, and for Realm 
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>1.11 Rune Words</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>1.11 Rune Words</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Allowed Items</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Rune Order</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Completed Stats</span></font></TH>
 <TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Bone</B> (Necromancer)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Sol + Um + Um</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Bone</B> (Necromancer)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Sol + Um + Um</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 15% Chance To Cast level 10 Bone Armor When Struck<BR>
 15% Chance To Cast level 10 Bone Spear On Striking<BR>
@@ -167,10 +167,10 @@ Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Enlightenment</B> (Sorceress)</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Pul + Ral + Sol</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Enlightenment</B> (Sorceress)</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Pul + Ral + Sol</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 5% Chance To Cast Level 15 Blaze When Struck<BR>
 5% Chance To Cast level 15 Fire Ball On Striking<BR>
@@ -183,10 +183,10 @@ Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Myth</B> (Barbarian)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Hel + Amn + Nef</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Myth</B> (Barbarian)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Hel + Amn + Nef</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 3% Chance To Cast Level 1 Howl When Struck<BR>
 10% Chance To Cast Level 1 Taunt On Striking<BR>
@@ -199,10 +199,10 @@ Requirements -15%<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Peace</B></span> (Amazon)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Shael + Thul + Amn</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Peace</B></span> (Amazon)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Shael + Thul + Amn</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 4% Chance To Cast Level 5 Slow Missiles When Struck<BR>
 2% Chance To Cast level 15 Valkyrie On Striking<BR>
@@ -215,10 +215,10 @@ Attacker Takes Damage of 14<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Principle</B> (Paladin)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Ral + Gul + Eld</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Principle</B> (Paladin)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Ral + Gul + Eld</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 100% Chance To Cast Level 5 Holy Bolt On Striking<BR>
 +2 To Paladin Skill Levels<BR>
@@ -231,10 +231,10 @@ Fire Resist +30%
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rain</B></span> (Druid)</font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>Ort + Mal + Ith</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Rain</B></span> (Druid)</font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Ort + Mal + Ith</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 5% Chance To Cast Level 15 Cyclone Armor When Struck<BR>
 5% Chance To Cast Level 15 Twister On Striking<BR>
@@ -247,10 +247,10 @@ Magic Damage Reduced By 7<BR>
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Treachery</B> (Assassin)</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Shael + Thul + Lem</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1 color="#908858"><span><B>Treachery</B> (Assassin)</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>3 Socket Body Armor</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Shael + Thul + Lem</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <font color=4850B8>
 5% Chance To Cast Level 15 Fade When Struck<BR>
 25% Chance To Cast level 15 Venom On Striking<BR>

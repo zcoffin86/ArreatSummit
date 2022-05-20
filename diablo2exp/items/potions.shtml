@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Item Basics</a> |
 <a class="tiny" href="weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-potions.gif" alt="Potions" border=0 width=150 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-potions.gif" alt="Potions" border=0 width=150 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -183,59 +183,59 @@ more than is necessary.
 <th><font face="arial,helvetica" size=-1><SPAN>Barbarian</th>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/minorhealing.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Minor Healing Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>45</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/minorhealing.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Minor Healing Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>45</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/lighthealing.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Light Healing Potion</b></font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>120</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/lighthealing.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Light Healing Potion</b></font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>90</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>120</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/healing.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Healing Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>100</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>100</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>100</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>150</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>150</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>150</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>200</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/healing.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Healing Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>100</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>100</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>100</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>150</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>150</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>150</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>200</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/greaterhealing.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Greater Healing Potion</b></font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>360</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/greaterhealing.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Greater Healing Potion</b></font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>180</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>270</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>360</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/superhealing.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Super Healing Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>320</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>320</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>320</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>480</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>480</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>480</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>640</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/superhealing.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Super Healing Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>320</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>320</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>320</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>480</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>480</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>480</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>640</font></td>
 </tr>
 </table>
 <br><br>
@@ -256,59 +256,59 @@ Potions regenerate Life.<p>
 <th><font face="arial,helvetica" size=-1><SPAN>Sorceress</th>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/minormana.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Minor Mana Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>20</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>30</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/minormana.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Minor Mana Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>20</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>30</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/lightmana.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Light Mana Potion</b></font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/lightmana.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Light Mana Potion</b></font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>40</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>60</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/mana.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Mana Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>80</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>120</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>120</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>120</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>160</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>160</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>160</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/mana.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Mana Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>80</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>120</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>120</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>120</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>160</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>160</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>160</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/greatermana.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Greater Mana Potion</b></font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>150</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
-<td align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/greatermana.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Greater Mana Potion</b></font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>150</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>225</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
+<td style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><SPAN>300</font></td>
 </tr>
 <tr>
-<td align=center><img src="../../images/battle/diablo2exp/images/potions/supermana.gif" width=28 height=28 align=left></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Super Mana Potion</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>250</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>375</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>375</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>375</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>500</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>500</font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>500</font></td>
+<td style="text-align:center;"><img src="../../images/battle/diablo2exp/images/potions/supermana.gif" width=28 height=28 align=left></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Super Mana Potion</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>250</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>375</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>375</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>375</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>500</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>500</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>500</font></td>
 </tr>
 </table>
 <br><br>
@@ -404,7 +404,7 @@ It's always handy to keep several Stamina Potions around depending on room to sa
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/items-throwingpotions.gif" alt="Throwing Potions" border=0 width=275 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/items-throwingpotions.gif" alt="Throwing Potions" border=0 width=275 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>

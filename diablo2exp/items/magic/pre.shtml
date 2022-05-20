@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -120,7 +120,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-magicprefixes.gif" alt="General Magic Prefixes" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-magicprefixes.gif" alt="General Magic Prefixes" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -174,8 +174,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Bronze</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+10-20 to Attack Rating</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Bronze</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+10-20 to Attack Rating</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1),
 <font color="yellow">Circlets</font>(1),
@@ -185,8 +185,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Iron</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-40 to Attack Rating</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Iron</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-40 to Attack Rating</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(4),
 <font color="yellow">Weapons</font>(4),
@@ -194,8 +194,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Steel</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-60 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Steel</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-60 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(8),
 <font color="yellow">Weapons</font>(8),
@@ -203,8 +203,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Silver</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+61-80 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Silver</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+61-80 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(12),
 <font color="yellow">Weapons</font>(12),
@@ -212,8 +212,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Gold</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-100 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Gold</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-100 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(17),
 <font color="yellow">Weapons</font>(17),
@@ -221,8 +221,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Platinum</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+101-120 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Platinum</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+101-120 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(22),
 <font color="yellow">Weapons</font>(22),
@@ -230,22 +230,22 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Meteoric</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+121-150 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Meteoric</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+121-150 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(27)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Strange</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+151-300 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Strange</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+151-300 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(32)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Weird</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+301-450 to Attack Rating</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Weird</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+301-450 to Attack Rating</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(37)
 </SPAN></font></td>
@@ -263,8 +263,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hawkeye</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1.5 [12] 6-594 Attack Rating (Based On Character Level)</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hawkeye</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1.5 [12] 6-594 Attack Rating (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(35)
 </SPAN></font></td>
@@ -280,30 +280,30 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Snowy</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+6-9 Minimum and 19-30 Maximum Cold Damage - 1 sec Duration</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Snowy</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+6-9 Minimum and 19-30 Maximum Cold Damage - 1 sec Duration</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(25),
 <font color="yellow">Weapons</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shivering</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+10-15 Minimum and 31-45 Maximum Cold Damage - 2 sec Duration</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shivering</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+10-15 Minimum and 31-45 Maximum Cold Damage - 2 sec Duration</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(35)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Boreal</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+16-23 Minimum and 46-90 Maximum Cold Damage - 3 sec Duration</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Boreal</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+16-23 Minimum and 46-90 Maximum Cold Damage - 3 sec Duration</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(50)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hibernal</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+24-45 Minimum and 91-140 Maximum Cold Damage - 4 sec Duration</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hibernal</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+24-45 Minimum and 91-140 Maximum Cold Damage - 4 sec Duration</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(70)
 </SPAN></font></td>
@@ -319,37 +319,37 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fiery</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+16-25 Minimum and 31-60 Maximum Fire Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fiery</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+16-25 Minimum and 31-60 Maximum Fire Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(25),
 <font color="yellow">Weapons</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Smoldering</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+26-50 Minimum and 61-90 Maximum Fire Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Smoldering</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+26-50 Minimum and 61-90 Maximum Fire Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(35)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Smoking</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+51-80 Minimum and 91-130 Maximum Fire Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Smoking</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+51-80 Minimum and 91-130 Maximum Fire Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(47)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Flaming</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-120 Minimum and 131-180 Maximum Fire Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Flaming</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-120 Minimum and 131-180 Maximum Fire Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(61)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Condensing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+121-170 Minimum and 181-240 Maximum Fire Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Condensing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+121-170 Minimum and 181-240 Maximum Fire Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(77)
 </SPAN></font></td>
@@ -365,37 +365,37 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Static</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 49-120 Maximum Lightning Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Static</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 49-120 Maximum Lightning Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(25),
 <font color="yellow">Weapons</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Glowing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 121-180 Maximum Lightning Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Glowing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 121-180 Maximum Lightning Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(34)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Buzzing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 181-260 Maximum Lightning Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Buzzing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 181-260 Maximum Lightning Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(46)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Arcing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 261-360 Maximum Lightning Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Arcing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 261-360 Maximum Lightning Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(60)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shocking</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 361-480 Maximum Lightning Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shocking</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Minimum and 361-480 Maximum Lightning Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(76)
 </SPAN></font></td>
@@ -411,37 +411,37 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Septic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+6 Poison Damage Over 2 Seconds</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Septic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+6 Poison Damage Over 2 Seconds</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(1),
 <font color="yellow">Circlets</font>(1)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Foul</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+12 Poison Damage Over 3 Seconds</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Foul</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+12 Poison Damage Over 3 Seconds</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(10)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Corrosive</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+80 Poison Damage Over 4 Seconds</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Corrosive</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+80 Poison Damage Over 4 Seconds</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(20)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Toxic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+150 Poison Damage Over 5 Seconds</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Toxic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+150 Poison Damage Over 5 Seconds</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(35)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Pestilent</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+275 Poison Damage Over 6 Seconds</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Pestilent</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+275 Poison Damage Over 6 Seconds</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(50)
 </SPAN></font></td>
@@ -459,66 +459,66 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Jagged</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+10-20% Damage</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Jagged</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+10-20% Damage</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(1),
 <font color="yellow">Weapons</font>(1)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Deadly</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-30% Damage</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Deadly</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-30% Damage</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(5),
 <font color="yellow">Weapons</font>(5)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Vicious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+31-40% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Vicious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+31-40% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(8)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Brutal</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-50% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Brutal</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-50% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(14)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Massive</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+51-65% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Massive</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+51-65% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(20)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Savage</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+66-80% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Savage</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+66-80% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(26)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Merciless</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-100% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Merciless</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-100% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(32)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Ferocious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+101-200% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Ferocious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+101-200% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(41)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Cruel</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+201-300% Damage</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Cruel</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+201-300% Damage</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(51), 
 <font color="yellow">Weapons</font>(56)
@@ -535,8 +535,8 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Visionary</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Visionary</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>
 + (1 Per Character Level) 1-99% To Attack Rating (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Helms</font>(25),
@@ -556,16 +556,16 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fool's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fool's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>
 + (16.5 Per Character Level) 16.5-1633.5 To Attack Rating / + (0.5 Per Character Level)  0.5-49.5 To Maximum Damage (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(50)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Grinding</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Grinding</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>
 + (0.75 Per Character Level) 0.75-74.25 To Maximum Damage (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(50)
@@ -584,64 +584,64 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sharp</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+10-20 to Attack Rating, Damage: +10-20%</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sharp</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+10-20 to Attack Rating, Damage: +10-20%</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(5)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fine</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-40 to Attack Rating, Damage: +21-30%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fine</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-40 to Attack Rating, Damage: +21-30%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(12)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Warrior's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-60 to Attack Rating, Damage: +31-40%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Warrior's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-60 to Attack Rating, Damage: +31-40%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(19)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Soldier's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+61-80 to Attack Rating, Damage: +41-50%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Soldier's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+61-80 to Attack Rating, Damage: +41-50%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(27)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Knight's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-100 to Attack Rating, Damage: +51-65%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Knight's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-100 to Attack Rating, Damage: +51-65%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(38)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lord's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+101-120 to Attack Rating, Damage: +66-80%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lord's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+101-120 to Attack Rating, Damage: +66-80%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(47)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>King's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+121-150 to Attack Rating, Damage: +81-100%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>King's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+121-150 to Attack Rating, Damage: +81-100%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(56)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Master's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+151-250 to Attack Rating, Damage: +101-150%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Master's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+151-250 to Attack Rating, Damage: +101-150%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(56)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Grandmaster's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+251-300 to Attack Rating, Damage: +151-200%</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Grandmaster's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+251-300 to Attack Rating, Damage: +151-200%</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(69)
 </SPAN></font></td>
@@ -657,45 +657,45 @@ The numbers in Brackets (level)[number] show the range of bonus for that level.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lunar</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+25-50 to Attack Rating vs Demons, Damage: +10-25% vs Demons</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lunar</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+25-50 to Attack Rating vs Demons, Damage: +10-25% vs Demons</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(3),
 <font color="yellow">Weapons</font>(3)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Arcadian</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+51-100 to Attack Rating vs Demons, Damage: +26-50% vs Demons</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Arcadian</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+51-100 to Attack Rating vs Demons, Damage: +26-50% vs Demons</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(15),
 <font color="yellow">Weapons</font>(15)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Unearthly</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+101-150 to Attack Rating vs Demons, Damage: +51-100% vs Demons</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Unearthly</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+101-150 to Attack Rating vs Demons, Damage: +51-100% vs Demons</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Astral</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+151-200 to Attack Rating vs Demons, Damage: +101-150% vs Demons</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Astral</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+151-200 to Attack Rating vs Demons, Damage: +101-150% vs Demons</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(35)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Elysian</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+201-300 to Attack Rating vs Demons, Damage: +151-200% vs Demons</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Elysian</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+201-300 to Attack Rating vs Demons, Damage: +151-200% vs Demons</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(45)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Celestial</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+300-400 to Attack Rating vs Demons, Damage: +201-300% vs Demons</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Celestial</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+300-400 to Attack Rating vs Demons, Damage: +201-300% vs Demons</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(55)
 </SPAN></font></td>
@@ -713,36 +713,36 @@ Damage vs Demons does not show up on the Character Screen, it must be calculated
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Consecrated</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+25-75 to Attack Rating vs Undead, Damage: +25-75% vs Undead</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Consecrated</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+25-75 to Attack Rating vs Undead, Damage: +25-75% vs Undead</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(1)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Pure</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+76-175 to Attack Rating vs Undead, Damage: +76-125% vs Undead</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Pure</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+76-175 to Attack Rating vs Undead, Damage: +76-125% vs Undead</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(15)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sacred</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+175-250 to Attack Rating vs Undead, Damage: +126-200% vs Undead</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sacred</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+175-250 to Attack Rating vs Undead, Damage: +126-200% vs Undead</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hallowed</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+251-325 to Attack Rating vs Undead, Damage: +201-275% vs Undead</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hallowed</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+251-325 to Attack Rating vs Undead, Damage: +201-275% vs Undead</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Weapons</font>(35)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Divine</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+326-450 to Attack Rating vs Undead, Damage: +276-350% vs Undead</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Divine</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+326-450 to Attack Rating vs Undead, Damage: +276-350% vs Undead</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Weapons</font>(45)
 </SPAN></font></td>
@@ -760,51 +760,51 @@ Damage vs Undead does not show up on the Character Screen, it must be calculated
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sturdy</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+10-30% Defense</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sturdy</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+10-30% Defense</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(1)[10-20%](4)[21-30%]
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Strong</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+31-40% Defense</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Strong</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+31-40% Defense</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(9)
 </SPAN></font></td>
 </tr>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Glorious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-50% Defense</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Glorious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-50% Defense</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(19)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Blessed</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+51-65% Defense</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Blessed</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+51-65% Defense</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(25)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Saintly</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+66-80% Defense</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Saintly</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+66-80% Defense</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(31)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Holy</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-100% Defense</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Holy</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-100% Defense</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Armor</font>(36)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Godly</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+101-200% Defense</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Godly</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+101-200% Defense</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Armor</font>(45), 
 <font color="yellow">Armor</font>(50)
@@ -823,8 +823,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Faithful</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Faithful</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>
 + (3 Per Character Level) 3-297 Defense / + (0.5 Per Character Level)  0.5-49.5 Defense  (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Body Armor</font>(30)[24],
@@ -847,8 +847,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lizard's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1-5 to Mana</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lizard's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1-5 to Mana</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1-2)[1-2](3)[3-5],
 <font color="yellow">Armor</font>(1-2)[1-2](3)[3-5],
@@ -858,8 +858,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Snake's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+5-10 to Mana</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Snake's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+5-10 to Mana</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(6),
 <font color="yellow">Belts</font>(6),
@@ -870,8 +870,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Serpent's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+11-20 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Serpent's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+11-20 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(14),
 <font color="yellow">Belts</font>(14),
@@ -887,8 +887,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Drake's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-30 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Drake's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-30 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Belts</font>(20)
@@ -899,8 +899,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Dragon's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+31-40 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Dragon's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+31-40 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(24),
 <font color="yellow">Circlets</font>(24),
@@ -913,8 +913,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Wyrm's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-60 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Wyrm's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-60 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(30),
 <font color="yellow">Circlets</font>(30),
@@ -924,8 +924,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Great Wyrm's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+61-90 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Great Wyrm's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+61-90 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(37),
 <font color="yellow">Circlets</font>(37),
@@ -935,8 +935,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Bahamut's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+91-120 to Mana</font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Bahamut's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+91-120 to Mana</font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(45),
 <font color="#4850B8">Circlets</font>(45),
@@ -956,8 +956,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Mnemonic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+ (0.75 Per Character Level) 0.75-74.25 Mana (Based On Character Level)</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Mnemonic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+ (0.75 Per Character Level) 0.75-74.25 Mana (Based On Character Level)</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Helms</font>(25)
 </SPAN></font></td>
@@ -973,8 +973,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Glimmering</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Light Radius</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Glimmering</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Light Radius</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1),
 <font color="yellow">Armor</font>(1),
@@ -985,8 +985,8 @@ Items with Enhanced Defense always have the maximum amount of Defense +1.
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Glowing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Light Radius</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Glowing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Light Radius</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(6),
 <font color="yellow">Armor</font>(6),
@@ -1009,8 +1009,8 @@ not matter.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Crimson</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Fire Resist +5-10%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Crimson</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Fire Resist +5-10%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1-4)[5%](5)[5-10%],
 <font color="yellow">Armor</font>(1-4)[5%](5)[5-10%],
@@ -1021,8 +1021,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Russet</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Fire Resist +11-20%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Russet</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Fire Resist +11-20%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(12),
 <font color="yellow">Armor</font>(12),
@@ -1033,8 +1033,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Garnet</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Fire Resist +21-30%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Garnet</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Fire Resist +21-30%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(18),
 <font color="yellow">Armor</font>(18),
@@ -1045,8 +1045,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Ruby</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Fire Resist +31-40%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Ruby</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Fire Resist +31-40%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(25),
 <font color="yellow">Armor</font>(25),
@@ -1066,8 +1066,8 @@ not matter.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Azure</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Cold Resist +5-10%</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Azure</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Cold Resist +5-10%</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1-4)[5%](5)[5-10%],
 <font color="yellow">Armor</font>(1-4)[5%](5)[5-10%],
@@ -1078,8 +1078,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lapis</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Cold Resist +11-20%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lapis</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Cold Resist +11-20%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(12),
 <font color="yellow">Armor</font>(12),
@@ -1090,8 +1090,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Cobalt</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Cold Resist +21-30%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Cobalt</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Cold Resist +21-30%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(18),
 <font color="yellow">Armor</font>(18),
@@ -1102,8 +1102,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sapphire</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Cold Resist +31-40%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sapphire</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Cold Resist +31-40%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(25),
 <font color="yellow">Boots</font>(25),
@@ -1123,8 +1123,8 @@ not matter.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Tangerine</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +5-10%</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Tangerine</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +5-10%</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1-4)[5%](5)[5-10%],
 <font color="yellow">Armor</font>(1-4)[5%](5)[5-10%],
@@ -1135,8 +1135,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Ocher</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +11-20%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Ocher</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +11-20%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(12),
 <font color="yellow">Armor</font>(12),
@@ -1147,8 +1147,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Coral</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +21-30%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Coral</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +21-30%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(18),
 <font color="yellow">Armor</font>(18),
@@ -1159,8 +1159,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Amber</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +31-40%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Amber</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Lightning Resist +31-40%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(25),
 <font color="yellow">Boots</font>(25),
@@ -1180,8 +1180,8 @@ not matter.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Beryl</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Poison Resist +5-10%</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Beryl</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Poison Resist +5-10%</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1-4)[5%](5)[5-10%],
 <font color="yellow">Armor</font>(1-4)[5%](5)[5-10%],
@@ -1192,8 +1192,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Viridian</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Poison Resist +11-20%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Viridian</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Poison Resist +11-20%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(12),
 <font color="yellow">Armor</font>(12),
@@ -1204,8 +1204,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Jade</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Poison Resist +21-30%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Jade</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Poison Resist +21-30%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(18),
 <font color="yellow">Armor</font>(18),
@@ -1216,8 +1216,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Emerald</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Poison Resist +31-40%</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Emerald</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Poison Resist +31-40%</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(25),
 <font color="yellow">Boots</font>(25),
@@ -1237,8 +1237,8 @@ not matter.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shimmering</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3-7% to each Resistance</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shimmering</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3-7% to each Resistance</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Shields</font>(6),
 <font color="yellow">Amulets</font>(8),
@@ -1247,8 +1247,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Rainbow</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+8-11% to each Resistance</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Rainbow</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+8-11% to each Resistance</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Shields</font>(18),
 <font color="yellow">Amulets</font>(21),
@@ -1257,8 +1257,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Scintillating</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+12-15% to each Resistance</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Scintillating</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+12-15% to each Resistance</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Shields</font>(28),
 <font color="yellow">Amulets</font>(34),
@@ -1267,8 +1267,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Prismatic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+16-20% to each Resistance</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Prismatic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+16-20% to each Resistance</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Shields</font>(39),
 <font color="yellow">Amulets</font>(42),
@@ -1276,8 +1276,8 @@ not matter.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Chromatic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-30% to each Resistance</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Chromatic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-30% to each Resistance</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Shields</font>(50),
 <font color="#4850B8">Amulets</font>(55),
@@ -1297,8 +1297,8 @@ Weapons or Rods)</SPAN>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Maiden's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Skill Levels</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Maiden's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Skill Levels</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(30),
 <font color="yellow">Crossbows</font>(30),
@@ -1309,8 +1309,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Valkyrie's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Amazon Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Valkyrie's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Amazon Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(50),
 <font color="yellow">Crossbows</font>(50),
@@ -1321,8 +1321,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Slayer</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Barbarian Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Slayer</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Barbarian Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Axes</font>(30),
 <font color="yellow">Barbarian Helms</font>(30),
@@ -1337,8 +1337,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Berserker</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Barbarian Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Berserker</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Barbarian Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Axes</font>(50),
 <font color="yellow">Barbarian Helms</font>(50),
@@ -1353,8 +1353,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Monk's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Paladin Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Monk's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Paladin Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Paladin Shields</font>(30),
 <font color="yellow">Scepters</font>(30),
@@ -1367,8 +1367,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Priest's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Paladin Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Priest's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Paladin Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Paladin Shields</font>(50),
 <font color="yellow">Scepters</font>(50),
@@ -1381,8 +1381,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Summoner's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Necromancer Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Summoner's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Necromancer Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Head</font>(30),
 <font color="yellow">Daggers</font>(30),
@@ -1392,8 +1392,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Necromancer's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Necromancer Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Necromancer's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Necromancer Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Head</font>(50),
 <font color="yellow">Daggers</font>(50),
@@ -1403,8 +1403,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Angel's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Sorceress Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Angel's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Sorceress Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Orbs</font>(30),
 <font color="yellow">Staves</font>(30),
@@ -1413,8 +1413,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Arch-Angel's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Sorceress Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Arch-Angel's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Sorceress Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Orbs</font>(50),
 <font color="yellow">Staves</font>(50),
@@ -1423,8 +1423,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shaman's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Druid Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shaman's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Druid Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Clubs</font>(30),
 <font color="yellow">Druid Pelts</font>(30),
@@ -1433,8 +1433,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hierophant's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Druid Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hierophant's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Druid Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Clubs</font>(50),
 <font color="yellow">Druid Pelts</font>(50),
@@ -1443,8 +1443,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Magekiller's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 to Assassin Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Magekiller's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 to Assassin Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Katars</font>(30),
 <font color="yellow">Amulets</font>(36),
@@ -1452,8 +1452,8 @@ Weapons or Rods)</SPAN>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Witch-hunter's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 to Assassin Skill Levels</td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Witch-hunter's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 to Assassin Skill Levels</td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Katars</font>(50),
 <font color="yellow">Amulets</font>(90),
@@ -1474,14 +1474,14 @@ skill point.<P>
 </tr>
 <!----AMAZON SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Amazon Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Amazon Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fletcher's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Bow and Crossbow Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fletcher's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Bow and Crossbow Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(20),
 <font color="yellow">Crossbows</font>(20),
@@ -1489,8 +1489,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Bowyer's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Bow and Crossbow Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Bowyer's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Bow and Crossbow Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(40),
 <font color="yellow">Crossbows</font>(40),
@@ -1498,8 +1498,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Archer's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Bow and Crossbow Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Archer's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Bow and Crossbow Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Bows</font>(60),
 <font color="#4850B8">Crossbows</font>(60),
@@ -1507,8 +1507,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Acrobat</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Passive Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Acrobat</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Passive Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1516,8 +1516,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Gymnastic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Passive Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Gymnastic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Passive Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1525,8 +1525,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Athletic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Passive Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Athletic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Passive Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1534,24 +1534,24 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Harpoonist's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Javelin and Spear Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Harpoonist's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Amazon Javelin and Spear Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Gloves</font>(20),
 <font color="yellow">Spears</font>(20)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Spearmaiden's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Javelin and Spear Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Spearmaiden's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Amazon Javelin and Spear Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Gloves</font>(40),
 <font color="yellow">Spears</font>(40)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lancer's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Javelin and Spear Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lancer's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Amazon Javelin and Spear Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Gloves</font>(60),
 <font color="#4850B8">Spears</font>(60)
@@ -1559,14 +1559,14 @@ skill point.<P>
 </tr>
 <!----SORCERESS SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Sorceress Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Sorceress Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Burning</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Fire Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Burning</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Fire Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1575,8 +1575,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Blazing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Fire Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Blazing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Fire Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1585,8 +1585,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Volcanic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Fire Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Volcanic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Fire Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1595,8 +1595,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sparking</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Lightning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sparking</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Lightning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1605,8 +1605,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Charged</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Lightning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Charged</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Lightning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1615,8 +1615,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Powered</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Lightning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Powered</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Lightning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1625,8 +1625,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Chilling</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Cold Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Chilling</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Sorceress Cold Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1635,8 +1635,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Freezing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Cold Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Freezing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Sorceress Cold Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1645,8 +1645,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Glacial</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Cold Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Glacial</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Sorceress Cold Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1656,14 +1656,14 @@ skill point.<P>
 </tr>
 <!----NECROMANCER SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Necromancer Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Necromancer Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hexing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Curses</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hexing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Curses</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1672,8 +1672,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Blighting</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Curses</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Blighting</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Curses</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1682,8 +1682,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Cursing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Curses</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Cursing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Curses</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1692,8 +1692,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fungal</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Poison and Bone Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fungal</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Poison and Bone Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1703,8 +1703,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Noxious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Poison and Bone Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Noxious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Poison and Bone Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1714,8 +1714,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Venomous</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Poison and Bone Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Venomous</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Poison and Bone Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1725,8 +1725,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Graverobber's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Summoning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Graverobber's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Necromancer Summoning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1735,8 +1735,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Mojo</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Summoning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Mojo</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Necromancer Summoning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1745,8 +1745,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Golemlord's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Summoning Spells</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Golemlord's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Necromancer Summoning Spells</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1756,14 +1756,14 @@ skill point.<P>
 </tr>
 <!----PALADIN SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Paladin Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Paladin Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Lion Branded</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Lion Branded</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1775,8 +1775,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Hawk Branded</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Hawk Branded</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1788,8 +1788,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Rose Branded</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Rose Branded</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1801,8 +1801,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Captain's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Offensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Captain's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Offensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1814,8 +1814,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Commander's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Offensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Commander's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Offensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1827,8 +1827,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Marshal's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Offensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Marshal's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Offensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1840,8 +1840,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Preserver's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Defensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Preserver's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Paladin Defensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1850,8 +1850,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Warden's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Defensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Warden's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Paladin Defensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1860,8 +1860,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Guardian's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Defensive Auras</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Guardian's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Paladin Defensive Auras</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1871,14 +1871,14 @@ skill point.<P>
 </tr>
 <!----BARBARIAN SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Barbarian Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Barbarian Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Expert's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Expert's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Barbarian Helms</font>(20),
 <font color="yellow">Helms</font>(20),
@@ -1886,8 +1886,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Veteran's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Veteran's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Barbarian Helms</font>(40),
 <font color="yellow">Helms</font>(40),
@@ -1895,8 +1895,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Master's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Combat Skills</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Master's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Combat Skills</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Barbarian Helms</font>(60),
 <font color="#4850B8">Helms</font>(60),
@@ -1904,8 +1904,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fanatic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Combat Masteries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fanatic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Combat Masteries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Barbarian Helms</font>(20),
@@ -1913,8 +1913,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Raging</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Combat Masteries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Raging</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Combat Masteries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Barbarian Helms</font>(40),
@@ -1922,8 +1922,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Furious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Combat Masteries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Furious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Combat Masteries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Barbarian Helms</font>(60),
@@ -1931,8 +1931,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sounding</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Warcries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sounding</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Barbarian Warcries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Barbarian Helms</font>(20),
@@ -1940,8 +1940,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Resonant</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Warcries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Resonant</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Barbarian Warcries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Barbarian Helms</font>(40),
@@ -1949,8 +1949,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Echoing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Warcries</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Echoing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Barbarian Warcries</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Barbarian Helms</font>(60),
@@ -1959,14 +1959,14 @@ skill point.<P>
 </tr>
 <!----DRUID SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Druid Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Druid Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Trainer's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Druid Summoning</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Trainer's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Druid Summoning</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -1975,8 +1975,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Caretaker's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Druid Summoning</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Caretaker's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Druid Summoning</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -1985,8 +1985,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Keeper's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Druid Summoning</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Keeper's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Druid Summoning</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -1995,8 +1995,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Spiritual</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Druid Shapeshifting</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Spiritual</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Druid Shapeshifting</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -2005,8 +2005,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Feral</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Druid Shapeshifting</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Feral</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Druid Shapeshifting</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -2015,8 +2015,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Communal</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Druid Shapeshifting</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Communal</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Druid Shapeshifting</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -2025,8 +2025,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Natural</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Druid Elemental</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Natural</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Druid Elemental</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -2035,8 +2035,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Terrene</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Druid Elemental</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Terrene</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Druid Elemental</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(30),
 <font color="yellow">Circlets</font>(30),
@@ -2045,8 +2045,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Gaean</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Druid Elemental</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Gaean</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Druid Elemental</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -2056,14 +2056,14 @@ skill point.<P>
 </tr>
 <!----ASSASSIN SKILLS---->
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Assassin Skills</font></b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b><font color="#4850B8">Assassin Skills</font></b></font></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 &nbsp;
 </SPAN></b></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Entrapping</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Traps</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Entrapping</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Traps</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -2071,8 +2071,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Trickster's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Traps</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Trickster's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Traps</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -2080,8 +2080,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Cunning</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Traps</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Cunning</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Traps</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -2089,8 +2089,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Mentalist's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Shadow Disciplines</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Mentalist's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Shadow Disciplines</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -2099,8 +2099,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Psychic</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Shadow Disciplines</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Psychic</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Shadow Disciplines</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -2109,8 +2109,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shadow</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Shadow Disciplines</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shadow</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Shadow Disciplines</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -2119,8 +2119,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Shogukusha's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Martial Arts</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Shogukusha's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Assassin Martial Arts</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(20),
 <font color="yellow">Circlets</font>(20),
@@ -2129,8 +2129,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Sensei's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Martial Arts</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Sensei's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2 Assassin Martial Arts</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(40),
 <font color="yellow">Circlets</font>(40),
@@ -2139,8 +2139,8 @@ skill point.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Kenshi's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Martial Arts</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Kenshi's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+3 Assassin Martial Arts</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(60),
 <font color="#4850B8">Circlets</font>(60),
@@ -2159,8 +2159,8 @@ skill point.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Vulpine</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>7-12% (varies) Damage taken Goes to Mana</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Vulpine</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>7-12% (varies) Damage taken Goes to Mana</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(9),
 <font color="yellow">Orbs</font>(9),
@@ -2188,8 +2188,8 @@ No, Minions or Hirelings do not factor in.<p>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Triumphant</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+1 Point of Mana After Each Kill</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Triumphant</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+1 Point of Mana After Each Kill</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(3),
 <font color="yellow">Rings</font>(3),
@@ -2197,8 +2197,8 @@ No, Minions or Hirelings do not factor in.<p>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Victorious</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+2-5 Points of Mana After Each Kill</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Victorious</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+2-5 Points of Mana After Each Kill</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Circlets</font>(17),
 <font color="yellow">Weapons</font>(17)
@@ -2221,8 +2221,8 @@ Triumphant Items will not work when the killing blow is made by a Minion.<P>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Felicitous</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>5-10% Better Chance of Getting Magic Item</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Felicitous</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>5-10% Better Chance of Getting Magic Item</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(5),
 <font color="yellow">Circlets</font>(5),
@@ -2230,8 +2230,8 @@ Triumphant Items will not work when the killing blow is made by a Minion.<P>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Fortuitous</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>11-15% Better Chance of Getting Magic Item</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Fortuitous</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>11-15% Better Chance of Getting Magic Item</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Amulets</font>(12),
 <font color="#4850B8">Circlets</font>(12),
@@ -2255,8 +2255,8 @@ want to invest heavily in this magical bonus.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Rugged</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+5-20 to Max Stamina</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Rugged</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+5-20 to Max Stamina</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Amulets</font>(1)[5-10](8)[11-20],
 <font color="yellow">Belts</font>(1)[5-10](8)[11-20],
@@ -2266,8 +2266,8 @@ want to invest heavily in this magical bonus.
 <font color="yellow">Rings</font>(1)[5-10](8)[11-20]
 </SPAN></font></td>
 </tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Vigorous</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+21-30 to Max Stamina</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Vigorous</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+21-30 to Max Stamina</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Belts</font>(16),
 <font color="yellow">Boots</font>(16)
@@ -2284,8 +2284,8 @@ want to invest heavily in this magical bonus.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Tireless</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Heal Stamina +10-50%</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Tireless</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Heal Stamina +10-50%</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Boots</font>(1)[10%](6)[25%](14)[50%]
 </SPAN></font></td>
@@ -2302,8 +2302,8 @@ This can allow you to run much further and recover more quickly after running ou
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Screaming</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 12-25% [16-32]</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Screaming</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 12-25% [16-32]</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(10)[16],
 <font color="yellow">Crossbows</font>(10)[16],
@@ -2311,8 +2311,8 @@ This can allow you to run much further and recover more quickly after running ou
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Howling</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 18-50% [24-64]</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Howling</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 18-50% [24-64]</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Bows</font>(16)[24],
 <font color="yellow">Crossbows</font>(16)[24],
@@ -2320,8 +2320,8 @@ This can allow you to run much further and recover more quickly after running ou
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Wailing</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 25-100% [32-128]</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Wailing</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Hit Causes Monsters to Flee 25-100% [32-128]</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Bows</font>(24)[32],
 <font color="#4850B8">Crossbows</font>(24)[32],
@@ -2342,8 +2342,8 @@ throwable weapons (since they would have no effect)).</span></td>
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Mechanic's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Add 1-2 Sockets</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Mechanic's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Add 1-2 Sockets</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Body Armor</font>(10),
 <font color="yellow">Circlets</font>(10),
@@ -2353,8 +2353,8 @@ throwable weapons (since they would have no effect)).</span></td>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Artisan's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Add 3 Sockets</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Artisan's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Add 3 Sockets</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Body Armor</font>(33),
 <font color="#4850B8">Helms</font>(33),
@@ -2363,8 +2363,8 @@ throwable weapons (since they would have no effect)).</span></td>
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Jeweler's</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>Add 4 Sockets</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Jeweler's</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>Add 4 Sockets</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="#4850B8">Body Armor</font>(55),
 <font color="#4850B8">Shields</font>(55),
@@ -2384,22 +2384,22 @@ You cannot add more sockets than the weapon or armor would normally allow.
 <td colspan=2>&nbsp;</td><td><font face="arial,helvetica" size=-1><SPAN><b>Available on</b></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Compact</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+20-40 Quantity</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Compact</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+20-40 Quantity</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Throwing Weapons</font>(1)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Thin</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+41-80 Quantity</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Thin</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+41-80 Quantity</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Throwing Weapons</font>(17)
 </SPAN></font></td>
 </tr>
 <tr>
-<td align=center><font face="arial,helvetica" size=-1><SPAN><b>Dense</b></font></td>
-<td align=center><font face="arial,helvetica" size=-1><SPAN>+81-120 Quantity</b></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN><b>Dense</b></font></td>
+<td style="text-align:center;"><font face="arial,helvetica" size=-1><SPAN>+81-120 Quantity</b></td>
 <td><font face="arial,helvetica" size=-1><SPAN>
 <font color="yellow">Throwing Weapons</font>(38)
 </SPAN></font></td>

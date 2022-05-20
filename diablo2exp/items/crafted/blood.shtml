@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="../basics.shtml">Item Basics</a> |
 <a class="tiny" href="../weaponsandarmor.shtml#normal">Normal Items</a> |
@@ -129,7 +129,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-crafted.gif" alt="Crafted Items" border=0></td>
+		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../../images/battle/diablo2exp/images/headers/items-crafted.gif" alt="Crafted Items" border=0></td>
 		<td background="../../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -152,131 +152,131 @@ You can use the Normal, Exceptional, or Elite versions of items.
 <CENTER>
 <TABLE Border=0 Cellpadding=5>
 <TR>
-<TH align=center><font face="arial,helvetica" size=-1><span>Crafted Item</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Crafted Recipe</span></font></TH>
-<TH align=center><font face="arial,helvetica" size=-1><span>Fixed Effects</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Crafted Item</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Crafted Recipe</span></font></TH>
+<TH style="text-align:center;"><font face="arial,helvetica" size=-1><span>Fixed Effects</span></font></TH>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Blood Helm</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Blood Helm</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Helm/Casque/Armet</B><BR>
 <B>Ral Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 5-10% Deadly Strike<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Blood Boots</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Blood Boots</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Light Plated Boots/Battle Boots/Mirrored Boots</B><BR>
 <B>Eth Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 Replenish Life + (5-10)<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Blood Gloves</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Blood Gloves</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Heavy Gloves/Sharkskin Gloves/Vampirebone Gloves</B><BR>
 <B>Nef Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 Crushing Blow (5-10)%<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Blood Belt</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Blood Belt</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Belt/Mesh Belt/Mithril Coil</B><BR>
 <B>Tal Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 Open Wounds (5-10)%<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Blood Shield</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Blood Shield</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Spiked Shield/Barbed Shield/Blade Barrier</B><BR>
 <B>Ith Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 Attacker Takes Damage of (4-7)<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Blood Body</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Blood Body</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Plate Mail/Templar Coat/Hellforge Plate</B><BR>
 <B>Thul Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 + (1-3) Life Per Demon Kill<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Blood Amulet</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Blood Amulet</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Amulet</B><BR>
 <B>Amn Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 5-10% Faster Run/Walk<BR>
 (1-4)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>Blood Ring</span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>Blood Ring</span></font></TD>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Ring</B><BR>
 <B>Sol Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center bgcolor="#20100a"><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;background-color:#20100a;"><font face="arial,helvetica" size=-1><span>
 + (1-5) To Strength<BR>
 (1-3)% Life Stolen Per Hit<BR>
 +(10-20) To Life
 </span></font></TD>
 </TR>
 <TR>
-<TD align=center><font face="arial,helvetica" size=-1><span>Blood Weapon</span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>Blood Weapon</span></font></TD>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 <B>Magic Normal/Exceptional/Elite Axe</B><BR>
 <B>Ort Rune</B><BR>
 Perfect Ruby<BR>
 Any Jewel<BR>
 </span></font></TD>
-<TD align=center><font face="arial,helvetica" size=-1><span>
+<TD style="text-align:center;"><font face="arial,helvetica" size=-1><span>
 + (35-60%) Enhanced Damage<BR>
 (1-4)% Life Stolen Per Hit<BR>
 +(10-20) To Life

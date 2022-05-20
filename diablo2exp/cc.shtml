@@ -4,7 +4,7 @@
 	<link rel="stylesheet" type="text/css" href="includes/d2-strat.css">
 	<script language="JavaScript" src="includes/d2.js"></script>
 </head>
-<body background="../images/battle/diablo2exp/images/bg2.jpg" bgcolor=black text="#AFAFAF" link="#928A70" vlink="#706850" marginwidth=0 marginheight=0 topmargin=0 leftmargin=0>
+<body background="../images/battle/diablo2exp/images/bg2.jpg" text="#AFAFAF" link="#928A70" vlink="#706850" marginwidth=0 marginheight=0 topmargin=0 leftmargin=0>
 </td>
 </tr>
 </table>
@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 &nbsp;
 		</small></font>
@@ -103,7 +103,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../images/battle/diablo2exp/images/headers/cainscorner.gif" alt="Cain's Corner" border=0 width=225 height=60></td>
+		<td background="../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../images/battle/diablo2exp/images/headers/cainscorner.gif" alt="Cain's Corner" border=0 width=225 height=60></td>
 		<td background="../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -132,7 +132,7 @@ a hidden world however they are simply a mindless pawn of Mephisto like many of 
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center>
+<td valign=bottom style="text-align:center;">
 <img src="images/animations/bestiary/act3/evilforce.gif" align=right border=0 width=125 height=150 hspace=2 vspace=4>
 </td>
 </tr>
@@ -164,12 +164,12 @@ than the rest.
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/battle/diablo2exp/images/cc/cc06.jpg" Target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc06.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/battle/diablo2exp/images/cc/cc05.jpg" Target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc05.gif" width=200 height=150 border=0></a>
 </a>
@@ -177,7 +177,7 @@ than the rest.
 </tr>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 This walled area is in a good location to hold a secret room.
 <P>
@@ -187,7 +187,7 @@ This walled area is in a good location to hold a secret room.
 </small>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 Clicking on the wall reveals the secret door.
 <P>
@@ -204,12 +204,12 @@ Clicking on the wall reveals the secret door.
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/battle/diablo2exp/images/cc/cc07.jpg" Target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc07.gif" width=200 height=150 border=0></a>
 </a>
 </td>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/battle/diablo2exp/images/cc/cc08.jpg" Target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc08.gif" width=200 height=150 border=0></a>
 </a>
@@ -217,7 +217,7 @@ Clicking on the wall reveals the secret door.
 </tr>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 A room filled with treasure!
 <P>
@@ -227,7 +227,7 @@ A room filled with treasure!
 </small>
 <br>
 </td>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 There appears to be gold behind this wall, but there is no door to get to the treasure -- or is there?
 <P>
@@ -244,7 +244,7 @@ There appears to be gold behind this wall, but there is no door to get to the tr
 <center>
 <table border=0 cellpadding=5 cellspacing=0 width=100%>
 <tr>
-<td valign=top align=center width=50%>
+<td valign=top style="text-align:center;" width=50%>
 <a href="../images/battle/diablo2exp/images/cc/cc09.jpg" Target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc09.gif" width=200 height=150 border=0></a>
 </a>
@@ -252,7 +252,7 @@ There appears to be gold behind this wall, but there is no door to get to the tr
 </tr>
 </tr>
 <tr>
-<td valign=top align=center width="50%">
+<td valign=top style="text-align:center;" width="50%">
 <font size=-1 face="arial,helvetica">
 Clicking on the wall reveals a secret door.
 <P>
@@ -281,7 +281,7 @@ demons of the underworld of unwanted visitors...
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center>
+<td valign=bottom style="text-align:center;">
 <img src="../images/battle/diablo2exp/images/animations/bestiary/act4/stainedwindow.gif" align=right border=0 width=125 height=150 hspace=2 vspace=4>
 </td>
 </tr>
@@ -305,14 +305,14 @@ Diablo himself!
 <center>
 <table border=0 cellpadding=3 cellspacing=0>
 <tr>
-<td valign=bottom align=center width=200>
+<td valign=bottom style="text-align:center;" width=200>
 <a href="../images/battle/diablo2exp/images/cc/cc01.jpg" target="new_window">
 <img src="../images/battle/diablo2exp/images/cc/cc01.gif" align=right border=0 width=200 height=150 hspace=2 vspace=4>
 </a>
 </td>
 </tr>
 <tr>
-<td valign=top align=center>
+<td valign=top style="text-align:center;">
 <font size=-1 face="arial,helvetica">
 <small><font color="#ffffff">
 [ Click to Enlarge - 53 KB ]

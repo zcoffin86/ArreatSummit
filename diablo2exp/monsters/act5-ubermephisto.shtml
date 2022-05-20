@@ -71,7 +71,7 @@
 	<table border=0 cellpadding=0 cellspacing=0 width=100%>
 	<tr>
 	<td><img src="../../images/battle/diablo2exp/images/mid-linkbar-left.gif" border=0 width=20 height=35></td>
-	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" align=center width=100%>
+	<td background="../../images/battle/diablo2exp/images/mid-linkbar-back.gif" style="text-align:center;" width=100%>
 		<font face="arial,helvetica" size=1><small>
 <a class="tiny" href="basics.shtml">Monster Basics</a> |
 <a class="tiny" href="bonus.shtml">Monster Bonuses</a> |
@@ -139,7 +139,7 @@
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-superunique.gif" alt="Super Uniques" border=0 width=325 height=60></td>
+		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="../../images/battle/diablo2exp/images/headers/monsters-superunique.gif" alt="Super Uniques" border=0 width=325 height=60></td>
 		<td background="../../images/battle/diablo2exp/images/headers/header-back.gif"><img src="../../images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -204,7 +204,7 @@ Can summon the following:
 		<table border=0 cellpadding=0 cellspacing=0 width=100%>
 		<tr>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-left.gif" border=0 width=80 height=60></td>
-		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" align=center width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
+		<td background="/images/battle/diablo2exp/images/headers/header-back.gif" style="text-align:center;" width=100%><img src="/images/battle/diablo2exp/images/headers/monsters-attributes.gif" alt="Monster Attributes" border=0 width=325 height=60></td>
 		<td background="/images/battle/diablo2exp/images/headers/header-back.gif"><img src="/images/battle/diablo2exp/images/headers/header-right.gif" border=0 width=80 height=60></td>
 		</tr>
 		</table>
@@ -232,7 +232,7 @@ Can summon the following:
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Mephisto</b></small></span></font></div>
                             </td>
                           </tr>
@@ -244,7 +244,7 @@ Can summon the following:
                             <th nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -254,7 +254,7 @@ Can summon the following:
                             <th nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>3409600</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3409600</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -264,7 +264,7 @@ Can summon the following:
                             <th nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>650000-660000</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>650000-660000</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -292,7 +292,7 @@ Can summon the following:
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Mephisto</b></small></span></font></div>
                             </td>
                           </tr>
@@ -304,7 +304,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>487-572</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>487-572</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -314,7 +314,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>13064</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>13064</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -324,7 +324,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>487-572</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>487-572</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -334,7 +334,7 @@ Can summon the following:
                             <th width=33% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>13064</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>13064</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -361,7 +361,7 @@ Can summon the following:
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Mephisto</b></small></span></font></div>
                             </td>
                           </tr>
@@ -373,7 +373,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>3360</small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>3360</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -383,7 +383,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center><font face="arial,helvetica" size=-1><span><small>50</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
+                            <td nowrap style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>50</small></span></font><font face="arial,helvetica" size=-1><span><small></small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -393,7 +393,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>20</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -403,7 +403,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -430,7 +430,7 @@ Can summon the following:
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Mephisto</b></small></span></font></div>
                             </td>
                           </tr>
@@ -442,7 +442,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -452,7 +452,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>75</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -462,7 +462,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -472,7 +472,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>110</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -497,7 +497,7 @@ Can summon the following:
                             </th>
                           </tr>
                           <tr> 
-                            <td nowrap align=center bgcolor="#222222"> 
+                            <td nowrap style="text-align:center;" bgcolor="#222222"> 
                               <div align="center"><font face="arial,helvetica" size=-1><span><small><b>Mephisto</b></small></span></font></div>
                             </td>
                           </tr>
@@ -509,7 +509,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>0</small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -519,7 +519,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>Lightning, Poison </small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>Lightning, Poison </small></span></font></td>
                           </tr>
                         </table>
                       </th>
@@ -529,7 +529,7 @@ Can summon the following:
                             <th width=100% nowrap bgcolor="#111111"><font face="arial,helvetica" size=-1><span><small><b>Hell</b></small></span></font></th>
                           </tr>
                           <tr> 
-                            <td align=center><font face="arial,helvetica" size=-1><span><small>10</small></span></font></td>
+                            <td style="text-align:center;"><font face="arial,helvetica" size=-1><span><small>10</small></span></font></td>
                           </tr>
                         </table>
                       </th>
